@@ -1,0 +1,16 @@
+name: cron
+
+on:
+  schedule:
+    - cron:  '*/5 * * * *'
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+      - run: bun i
+      - run: bun run src/index.ts
