@@ -2,7 +2,11 @@ name: cron
 
 on:
   schedule:
-    - cron:  '*/5 * * * *'
+    - cron:  '*/10 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - 'main'
 
 jobs:
   run:
