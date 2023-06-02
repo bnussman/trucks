@@ -119,7 +119,7 @@ const result = await request<LocateVehiclesByZipResponse>(
     pageNo: 1,
     pageSize: 500,
     seriesCodes: 'tundrahybrid,tacoma,tacomahybrid',
-    distance: 72,
+    distance: 50,
   }
 );
 
@@ -147,7 +147,7 @@ for (const truck of result.locateVehiclesByZip.vehicleSummary) {
   console.log("Dealer Catagory", truck.dealerCategory, "(A=allocated F=freight G=ground)");
   console.log("Delivery", new Date(truck.eta.currFromDate).toLocaleString(), "to", new Date(truck.eta.currToDate).toLocaleString());
   console.log("Pricing", truck.price)
-  console.log("Options", truck.options)
+  // console.log("Options", truck.options)
 
   if (truck.model.marketingName.includes("Tundra")) {
     tundras++;
