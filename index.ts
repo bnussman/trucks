@@ -191,8 +191,8 @@ async function run() {
     'Mark Up': (v.price.advertizedPrice && v.price.totalMsrp) ? (v.price.advertizedPrice - v.price.totalMsrp) : 0,
     "Exterior Color": v.extColor.marketingName,
     "Interior Color": v.intColor.marketingName,
-    "Delivery ETA From": v.eta.currFromDate,
-    "Delivery ETA To": v.eta.currToDate,
+    "Delivery ETA From": v.eta?.currFromDate,
+    "Delivery ETA To": v.eta?.currToDate,
   }));
 
   await writeFile("raw.json", JSON.stringify(vehicles, null, 2));
