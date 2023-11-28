@@ -174,10 +174,45 @@ async function run() {
     await sleep(5000);
   } while (page <= pages)
 
-  console.table(vehicles);
+  const final = vehicles.map((v) => ({
+    VIN: v.vin,
+    "Stock Number": v.stockNum,
+    Year: v.year,
+    Trim: v.model.marketingName,
+    Description: v.model.marketingTitle,
+    "Shipping Status": getShippingStatus(v.dealerCategory),
+    'Pre-Sold': v.isPreSold,
+    'Hold Status': v.holdStatus,
+    'Temp VIN': v.isTempVin,
+    'Dealer': v.dealerMarketingName,
+    'Base MSRP': v.price.baseMsrp,
+    'Total MSRP': v.price.totalMsrp,
+    'Advertized Price': v.price.advertizedPrice,
+    'Mark Up': (v.price.advertizedPrice && v.price.totalMsrp) ? (v.price.advertizedPrice - v.price.totalMsrp) : 0,
+    "Exterior Color": v.extColor.marketingName,
+    "Interior Color": v.intColor.marketingName,
+    "Delivery ETA From": v.eta.currFromDate,
+    "Delivery ETA To": v.eta.currToDate,
+  }));
 
-  await writeFile("data.json", JSON.stringify(vehicles, null, 2));
+  await writeFile("raw.json", JSON.stringify(vehicles, null, 2));
+  await writeFile("data.json", JSON.stringify(final, null, 2));
 }
 
 run();
 
+
+function getShippingStatus(dealerCategory: string) {
+  const category = dealerCategory.toLowerCase();
+
+  switch (category) {
+    case 'g':
+      return "At dealer (G)"
+    case 'f':
+      return "In transit (F)"
+    case 'a':
+      return "Allocated (A)"
+    default:
+      return dealerCategory;
+  }
+}
