@@ -1,15 +1,22 @@
 {
   "name": "trucks",
   "module": "src/index.ts",
-  "type": "module",
+  "scripts": {
+    "start": "node build/index.js",
+    "dev": "concurrently \"node --watch build/index.js\" \"tsc --watch\"",
+    "test": "playwright test",
+    "build": "tsc"
+  },
   "devDependencies": {
-    "bun-types": "^0.5.0"
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.10.0",
+    "concurrently": "latest",
+    "typescript": "latest"
   },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
-  },
+  "peerDependencies": {},
   "dependencies": {
-    "graphql": "^16.6.0",
-    "graphql-request": "^6.1.0"
+    "graphql": "^16.8.1",
+    "graphql-request": "^6.1.0",
+    "playwright": "latest"
   }
 }
