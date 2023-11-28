@@ -161,7 +161,7 @@ async function run() {
         pageNo: page,
         pageSize: 25,
         seriesCodes: 'tundrahybrid,tacoma,tacomahybrid',
-        distance: 50,
+        distance: 250,
       },
       headers 
     );
