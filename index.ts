@@ -159,7 +159,7 @@ async function run() {
         zipCode: "28270",
         brand: "TOYOTA",
         pageNo: page,
-        pageSize: 25,
+        pageSize: 100,
         seriesCodes: 'tundrahybrid,tacoma,tacomahybrid',
         distance: 250,
       },
