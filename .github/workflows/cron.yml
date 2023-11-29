@@ -1,8 +1,11 @@
 name: cron
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron:  '*/10 * * * *'
+    - cron:  '0 * * * *'
   workflow_dispatch:
   push:
     branches:
@@ -24,3 +27,8 @@ jobs:
       - run: bun i
       - run: bun run build
       - run: bun run start
+      - name: Commit report
+        run: |
+          git add .
+          git commit -m "Updated: `date +'%Y-%m-%d %H:%M:%S'`"
+          git push
