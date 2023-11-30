@@ -440,6 +440,26 @@
     "Delivery ETA To": "2023-11-17T00:00:00.000Z"
   },
   {
+    "VIN": "3TMAZ5CNXPM220543",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Scott Clark Toyota",
+    "Base MSRP": 34980,
+    "Total MSRP": 38931,
+    "Advertized Price": 38931,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-12T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-17T00:00:00.000Z"
+  },
+  {
     "VIN": "3TMAZ5CN8PM220542",
     "Stock Number": null,
     "Year": 2023,
@@ -480,27 +500,7 @@
     "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CNXPM220543",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Scott Clark Toyota",
-    "Base MSRP": 34980,
-    "Total MSRP": 38931,
-    "Advertized Price": 38931,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-12T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-17T00:00:00.000Z"
-  },
-  {
-    "VIN": "3TMAZ5CN3PM219850",
+    "VIN": "3TMAZ5CNXPM219845",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
@@ -520,7 +520,7 @@
     "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CNXPM219845",
+    "VIN": "3TMAZ5CN3PM219850",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
@@ -1000,26 +1000,6 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN2PT174996",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Scott Clark Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 44892,
-    "Advertized Price": 44892,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
-    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN4PT178659",
     "Stock Number": null,
     "Year": 2023,
@@ -1038,6 +1018,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-07T00:00:00.000Z",
     "Delivery ETA To": "2023-12-12T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN2PT174996",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Scott Clark Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 44892,
+    "Advertized Price": 44892,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
+    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN1PM639361",
@@ -1280,26 +1280,6 @@
     "Delivery ETA To": "2023-10-23T00:00:00.000Z"
   },
   {
-    "VIN": "5TFJC5DB1RX045876",
-    "Stock Number": "54434",
-    "Year": 2024,
-    "Trim": "Tundra Limited",
-    "Description": "Tundra Limited 4x4 HV CrewMax 5.5-Ft. Bed",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Scott Clark Toyota",
-    "Base MSRP": 60625,
-    "Total MSRP": 68461,
-    "Advertized Price": 68461,
-    "Mark Up": 0,
-    "Exterior Color": "Lunar Rock",
-    "Interior Color": "Black SofTex®-trimmed [softex]",
-    "Delivery ETA From": "2023-11-08T00:00:00.000Z",
-    "Delivery ETA To": "2023-11-13T00:00:00.000Z"
-  },
-  {
     "VIN": "5TFJC5DB5RX047128",
     "Stock Number": null,
     "Year": 2024,
@@ -1318,6 +1298,26 @@
     "Interior Color": "Black SofTex®-trimmed [softex]",
     "Delivery ETA From": "2023-12-07T00:00:00.000Z",
     "Delivery ETA To": "2023-12-12T00:00:00.000Z"
+  },
+  {
+    "VIN": "5TFJC5DB1RX045876",
+    "Stock Number": "54434",
+    "Year": 2024,
+    "Trim": "Tundra Limited",
+    "Description": "Tundra Limited 4x4 HV CrewMax 5.5-Ft. Bed",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Scott Clark Toyota",
+    "Base MSRP": 60625,
+    "Total MSRP": 68461,
+    "Advertized Price": 68461,
+    "Mark Up": 0,
+    "Exterior Color": "Lunar Rock",
+    "Interior Color": "Black SofTex®-trimmed [softex]",
+    "Delivery ETA From": "2023-11-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-11-13T00:00:00.000Z"
   },
   {
     "VIN": "5TFJC5DB8RX050752",
@@ -1456,8 +1456,8 @@
     "Mark Up": 0,
     "Exterior Color": "Magnetic Gray Metallic",
     "Interior Color": "Black Leather-trimmed",
-    "Delivery ETA From": "2023-12-21T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-26T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-20T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-25T00:00:00.000Z"
   },
   {
     "VIN": "5TFNC5AB2RX003271",
@@ -1476,8 +1476,8 @@
     "Mark Up": 0,
     "Exterior Color": "Midnight Black Metallic",
     "Interior Color": "Black Leather-trimmed",
-    "Delivery ETA From": "2023-12-21T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-26T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-20T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-25T00:00:00.000Z"
   },
   {
     "VIN": "5TFMC5ABXRX003174",
@@ -1496,8 +1496,8 @@
     "Mark Up": 0,
     "Exterior Color": "Smoked Mesquite",
     "Interior Color": "Saddle Tan Leather-trimmed",
-    "Delivery ETA From": "2023-12-12T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-17T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "5TFMC5DB7RX46I141",
@@ -1620,7 +1620,7 @@
     "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
-    "VIN": "5TFMC5DB7RX47E943",
+    "VIN": "5TFMC5DB8RX47E157",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tundra 1794 Edition",
@@ -1640,7 +1640,7 @@
     "Delivery ETA To": "2024-02-10T00:00:00.000Z"
   },
   {
-    "VIN": "5TFMC5DB8RX47E157",
+    "VIN": "5TFMC5DB7RX47E943",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tundra 1794 Edition",
@@ -1676,8 +1676,8 @@
     "Mark Up": 0,
     "Exterior Color": "Wind Chill Pearl [extra_cost_color]",
     "Interior Color": "Saddle Tan Leather-trimmed",
-    "Delivery ETA From": "2023-12-25T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-30T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-22T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-27T00:00:00.000Z"
   },
   {
     "VIN": "5TFNC5DB8RX48H463",
@@ -2736,8 +2736,8 @@
     "Mark Up": -1250,
     "Exterior Color": "Barcelona Red Metallic",
     "Interior Color": "Hickory SofTex",
-    "Delivery ETA From": "2024-01-08T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-13T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "5TFJC5AB7PX002709",
@@ -3536,8 +3536,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
     "VIN": "3TYAZ5CN4PT039197",
@@ -4156,8 +4156,8 @@
     "Mark Up": 0,
     "Exterior Color": "Lunar Rock",
     "Interior Color": "Black Leather-trimmed",
-    "Delivery ETA From": "2023-12-12T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-17T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "5TFNC5DBXRX052732",
@@ -5000,26 +5000,6 @@
     "Delivery ETA To": "2023-12-27T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN7PM215476",
-    "Stock Number": "3710115",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Toyota of North Charlotte",
-    "Base MSRP": 34980,
-    "Total MSRP": 36315,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-07T00:00:00.000Z",
-    "Delivery ETA To": "2023-11-12T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMAZ5CN7PM216904",
     "Stock Number": "3710110",
     "Year": 2023,
@@ -5620,26 +5600,6 @@
     "Delivery ETA To": "2023-10-05T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN1PM638808",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Toyota of North Charlotte",
-    "Base MSRP": 38055,
-    "Total MSRP": 43259,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Black",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN0PT177685",
     "Stock Number": null,
     "Year": 2023,
@@ -5658,6 +5618,26 @@
     "Interior Color": "Black with Red Accent Stitching Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5AN1PM638808",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Toyota of North Charlotte",
+    "Base MSRP": 38055,
+    "Total MSRP": 43259,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Black",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN1PT179848",
@@ -6176,8 +6156,8 @@
     "Mark Up": 0,
     "Exterior Color": "Barcelona Red Metallic",
     "Interior Color": "Black with Red Accent Stitching Fabric",
-    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN7PM215932",
@@ -6360,26 +6340,6 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN4PT178807",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "DealerHold",
-    "Temp VIN": false,
-    "Dealer": "Toyota of Gastonia",
-    "Base MSRP": 38055,
-    "Total MSRP": 41965,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN5PT179352",
     "Stock Number": null,
     "Year": 2023,
@@ -6398,6 +6358,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN4PT178807",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "DealerHold",
+    "Temp VIN": false,
+    "Dealer": "Toyota of Gastonia",
+    "Base MSRP": 38055,
+    "Total MSRP": 41965,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN6PT177805",
@@ -6625,7 +6605,7 @@
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
+    "Shipping Status": "At dealer (G)",
     "Pre-Sold": false,
     "Hold Status": "Available",
     "Temp VIN": false,
@@ -6736,8 +6716,8 @@
     "Mark Up": 0,
     "Exterior Color": "Midnight Black Metallic",
     "Interior Color": "Black SofTex®-trimmed [softex]",
-    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
     "VIN": "5TFJC5DB1RX048180",
@@ -7185,7 +7165,7 @@
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
+    "Shipping Status": "At dealer (G)",
     "Pre-Sold": false,
     "Hold Status": "Available",
     "Temp VIN": false,
@@ -7636,8 +7616,8 @@
     "Mark Up": 0,
     "Exterior Color": "Magnetic Gray Metallic",
     "Interior Color": "Black SofTex®-trimmed [softex]",
-    "Delivery ETA From": "2023-12-21T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-26T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-20T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-25T00:00:00.000Z"
   },
   {
     "VIN": "5TFJC5EC5RX005260",
@@ -8140,26 +8120,6 @@
     "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN9PM638782",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Mike Johnson's Hickory Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 42803,
-    "Advertized Price": 42803,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN7PT177442",
     "Stock Number": null,
     "Year": 2023,
@@ -8178,6 +8138,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-07T00:00:00.000Z",
     "Delivery ETA To": "2023-12-12T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5AN9PM638782",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Mike Johnson's Hickory Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 42803,
+    "Advertized Price": 42803,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN5PM635927",
@@ -8240,26 +8220,6 @@
     "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN7PM638358",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Mike Johnson's Hickory Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 42803,
-    "Advertized Price": 42803,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMCZ5AN1PM639411",
     "Stock Number": null,
     "Year": 2023,
@@ -8278,6 +8238,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-22T00:00:00.000Z",
     "Delivery ETA To": "2023-12-27T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5AN7PM638358",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Mike Johnson's Hickory Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 42803,
+    "Advertized Price": 42803,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
     "VIN": "3TMDZ5BN6PM165491",
@@ -8400,26 +8380,6 @@
     "Delivery ETA To": "2024-01-15T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5ANXPT174986",
-    "Stock Number": "60052",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Mike Johnson's Hickory Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 43282,
-    "Advertized Price": 43282,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-29T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-04T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN9PT173456",
     "Stock Number": "59815",
     "Year": 2023,
@@ -8438,6 +8398,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-21T00:00:00.000Z",
     "Delivery ETA To": "2023-11-26T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5ANXPT174986",
+    "Stock Number": "60052",
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Mike Johnson's Hickory Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 43282,
+    "Advertized Price": 43282,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-11-29T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-04T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN5PT173454",
@@ -8478,26 +8458,6 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
-  },
-  {
-    "VIN": "3TYCZ5AN0PT179050",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Mike Johnson's Hickory Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 43352,
-    "Advertized Price": 43352,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN7PT179062",
@@ -8578,6 +8538,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN0PT179050",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Mike Johnson's Hickory Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 43352,
+    "Advertized Price": 43352,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN3PT179057",
@@ -8740,14 +8720,14 @@
     "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN1PT173452",
+    "VIN": "3TYCZ5AN1PT176139",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
-    "Hold Status": null,
+    "Hold Status": "Available",
     "Temp VIN": false,
     "Dealer": "Mike Johnson's Hickory Toyota",
     "Base MSRP": 38055,
@@ -8756,8 +8736,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-10T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-15T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN1PT176187",
@@ -8780,14 +8760,14 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN1PT176139",
+    "VIN": "3TYCZ5AN1PT173452",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
-    "Hold Status": "Available",
+    "Hold Status": null,
     "Temp VIN": false,
     "Dealer": "Mike Johnson's Hickory Toyota",
     "Base MSRP": 38055,
@@ -8796,8 +8776,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
+    "Delivery ETA From": "2024-01-10T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-15T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN3PT176997",
@@ -8840,7 +8820,7 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN2PT178062",
+    "VIN": "3TYCZ5AN7PT179059",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
@@ -8860,7 +8840,7 @@
     "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN7PT179059",
+    "VIN": "3TYCZ5AN2PT178062",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
@@ -9805,7 +9785,7 @@
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
+    "Shipping Status": "At dealer (G)",
     "Pre-Sold": false,
     "Hold Status": "Available",
     "Temp VIN": false,
@@ -10080,8 +10060,8 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN7PM219110",
-    "Stock Number": "27778",
+    "VIN": "3TMAZ5CN7PM219186",
+    "Stock Number": "27779",
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
@@ -10100,8 +10080,8 @@
     "Delivery ETA To": "2023-12-02T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN7PM219186",
-    "Stock Number": "27779",
+    "VIN": "3TMAZ5CN7PM219110",
+    "Stock Number": "27778",
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
@@ -11100,7 +11080,7 @@
     "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN2PM655228",
+    "VIN": "3TMCZ5AN0PM655230",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR",
@@ -11120,7 +11100,7 @@
     "Delivery ETA To": "2024-01-03T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN0PM655230",
+    "VIN": "3TMCZ5AN2PM655228",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR",
@@ -11616,8 +11596,8 @@
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
     "Interior Color": "Black Leather-trimmed",
-    "Delivery ETA From": "2024-01-03T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-08T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-22T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-27T00:00:00.000Z"
   },
   {
     "VIN": "5TFNC5DB4RX48H475",
@@ -12156,8 +12136,8 @@
     "Mark Up": 0,
     "Exterior Color": "Midnight Black Metallic",
     "Interior Color": "Black SofTex®-trimmed [softex]",
-    "Delivery ETA From": "2023-12-21T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-26T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-20T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-25T00:00:00.000Z"
   },
   {
     "VIN": "5TFWC5DB2RX46H116",
@@ -12376,8 +12356,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5ANXPM650343",
@@ -12556,8 +12536,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-08T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-13T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN0PM641229",
@@ -12796,8 +12776,8 @@
     "Mark Up": 0,
     "Exterior Color": "Lunar Rock",
     "Interior Color": "Saddle Tan Leather-trimmed",
-    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
     "VIN": "5TFNC5DB9RX051751",
@@ -13045,15 +13025,15 @@
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
+    "Shipping Status": "At dealer (G)",
     "Pre-Sold": false,
     "Hold Status": "Available",
     "Temp VIN": false,
     "Dealer": "Spartanburg Toyota",
     "Base MSRP": 38055,
     "Total MSRP": 40756,
-    "Advertized Price": 39756,
-    "Mark Up": -1000,
+    "Advertized Price": 39436.36,
+    "Mark Up": -1319.6399999999994,
     "Exterior Color": "Magnetic Gray Metallic",
     "Interior Color": "Black with Red Accent Stitching Fabric",
     "Delivery ETA From": "2023-12-07T00:00:00.000Z",
@@ -13076,8 +13056,8 @@
     "Mark Up": -1381.6399999999994,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN6PT175648",
@@ -13180,26 +13160,6 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN2PT177283",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Spartanburg Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 41875,
-    "Advertized Price": 40875,
-    "Mark Up": -1000,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-06T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-11T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN1PT173029",
     "Stock Number": null,
     "Year": 2023,
@@ -13218,6 +13178,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2024-01-09T00:00:00.000Z",
     "Delivery ETA To": "2024-01-14T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN2PT177283",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Spartanburg Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 41875,
+    "Advertized Price": 40875,
+    "Mark Up": -1000,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-06T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-11T00:00:00.000Z"
   },
   {
     "VIN": "3TYDZ5BN3PT037598",
@@ -14140,26 +14120,6 @@
     "Delivery ETA To": "2023-12-11T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN8PM217785",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Jim Hudson Toyota",
-    "Base MSRP": 34980,
-    "Total MSRP": 38212,
-    "Advertized Price": 38212,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-15T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-20T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYAZ5CN0PT040590",
     "Stock Number": null,
     "Year": 2023,
@@ -14178,6 +14138,26 @@
     "Interior Color": "Black with Red Accent Stitching Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMAZ5CN8PM217785",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Jim Hudson Toyota",
+    "Base MSRP": 34980,
+    "Total MSRP": 38212,
+    "Advertized Price": 38212,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-15T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-20T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN1PM219149",
@@ -14280,7 +14260,7 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN3PT178359",
+    "VIN": "3TYCZ5AN8PT178356",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
@@ -14300,7 +14280,7 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN8PT178356",
+    "VIN": "3TYCZ5AN3PT178359",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
@@ -14325,7 +14305,7 @@
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
+    "Shipping Status": "At dealer (G)",
     "Pre-Sold": false,
     "Hold Status": "Available",
     "Temp VIN": false,
@@ -14461,7 +14441,7 @@
   },
   {
     "VIN": "5TFJC5DB4RX051011",
-    "Stock Number": null,
+    "Stock Number": "T51567",
     "Year": 2024,
     "Trim": "Tundra Limited",
     "Description": "Tundra Limited 4x4 HV CrewMax 5.5-Ft. Bed",
@@ -15196,8 +15176,8 @@
     "Mark Up": 0,
     "Exterior Color": "Smoked Mesquite",
     "Interior Color": "Saddle Tan Leather-trimmed",
-    "Delivery ETA From": "2024-01-03T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-08T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-25T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-30T00:00:00.000Z"
   },
   {
     "VIN": "5TFMC5EC2RX005195",
@@ -16321,7 +16301,7 @@
   },
   {
     "VIN": "3TYCZ5AN5PT176595",
-    "Stock Number": null,
+    "Stock Number": "T14477",
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
@@ -16456,8 +16436,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-12T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-17T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "5TFJC5DB2RX45D971",
@@ -16536,8 +16516,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black Leather-trimmed",
-    "Delivery ETA From": "2023-12-25T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-30T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-22T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-27T00:00:00.000Z"
   },
   {
     "VIN": "5TFMC5DB0RX051696",
@@ -16576,8 +16556,8 @@
     "Mark Up": 0,
     "Exterior Color": "Wind Chill Pearl [extra_cost_color]",
     "Interior Color": "Saddle Tan Leather-trimmed",
-    "Delivery ETA From": "2023-12-21T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-26T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-20T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-25T00:00:00.000Z"
   },
   {
     "VIN": "5TFPC5DB6RX051098",
@@ -16636,28 +16616,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-06T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-11T00:00:00.000Z"
-  },
-  {
-    "VIN": "3TMAZ5CN9PM215186",
-    "Stock Number": "L6416",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Toyota of Greensboro",
-    "Base MSRP": 34980,
-    "Total MSRP": 37336,
-    "Advertized Price": 37336,
-    "Mark Up": 0,
-    "Exterior Color": "Black",
-    "Interior Color": "Black with Red Accent Stitching Fabric",
-    "Delivery ETA From": "2023-10-10T00:00:00.000Z",
-    "Delivery ETA To": "2023-10-15T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
     "VIN": "3TYAZ5CN8PT038232",
@@ -16678,6 +16638,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-10-27T00:00:00.000Z",
     "Delivery ETA To": "2023-11-01T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMAZ5CN9PM215186",
+    "Stock Number": "L6416",
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Toyota of Greensboro",
+    "Base MSRP": 34980,
+    "Total MSRP": 37336,
+    "Advertized Price": 37336,
+    "Mark Up": 0,
+    "Exterior Color": "Black",
+    "Interior Color": "Black with Red Accent Stitching Fabric",
+    "Delivery ETA From": "2023-10-10T00:00:00.000Z",
+    "Delivery ETA To": "2023-10-15T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN0PM215187",
@@ -17036,8 +17016,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Cement/Black Fabric",
-    "Delivery ETA From": "2023-12-01T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-06T00:00:00.000Z"
+    "Delivery ETA From": "2023-11-30T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-05T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CNXPM207923",
@@ -17220,26 +17200,6 @@
     "Delivery ETA To": "2024-01-10T00:00:00.000Z"
   },
   {
-    "VIN": "5TFPC5DB1RX46F507",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tundra TRD Pro",
-    "Description": "Tundra TRD Pro 4x4 HV CrewMax 5.5-Ft. Bed",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Toyota of Greensboro",
-    "Base MSRP": 72130,
-    "Total MSRP": 77158,
-    "Advertized Price": 77158,
-    "Mark Up": 0,
-    "Exterior Color": "Midnight Black Metallic",
-    "Interior Color": "Black SofTex®-trimmed [softex]",
-    "Delivery ETA From": "2024-01-04T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-09T00:00:00.000Z"
-  },
-  {
     "VIN": "5TFPC5DB8RX47D121",
     "Stock Number": null,
     "Year": 2024,
@@ -17258,6 +17218,26 @@
     "Interior Color": "Black SofTex®-trimmed [softex]",
     "Delivery ETA From": "2024-02-05T00:00:00.000Z",
     "Delivery ETA To": "2024-02-10T00:00:00.000Z"
+  },
+  {
+    "VIN": "5TFPC5DB1RX46F507",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tundra TRD Pro",
+    "Description": "Tundra TRD Pro 4x4 HV CrewMax 5.5-Ft. Bed",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Toyota of Greensboro",
+    "Base MSRP": 72130,
+    "Total MSRP": 77158,
+    "Advertized Price": 77158,
+    "Mark Up": 0,
+    "Exterior Color": "Midnight Black Metallic",
+    "Interior Color": "Black SofTex®-trimmed [softex]",
+    "Delivery ETA From": "2024-01-04T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-09T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN1PM650747",
@@ -17461,7 +17441,7 @@
   },
   {
     "VIN": "3TYCZ5AN2PT179048",
-    "Stock Number": null,
+    "Stock Number": "23964",
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
@@ -17985,7 +17965,7 @@
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
+    "Shipping Status": "At dealer (G)",
     "Pre-Sold": false,
     "Hold Status": "Available",
     "Temp VIN": false,
@@ -18540,7 +18520,7 @@
     "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN6PM653448",
+    "VIN": "3TMCZ5AN1PM653437",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR",
@@ -18580,7 +18560,7 @@
     "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN1PM653437",
+    "VIN": "3TMCZ5AN6PM653448",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR",
@@ -18680,26 +18660,6 @@
     "Delivery ETA To": "2023-12-17T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN3PM217273",
-    "Stock Number": "GRT232553",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Toyota of Greenville",
-    "Base MSRP": 34980,
-    "Total MSRP": 39479,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-16T00:00:00.000Z",
-    "Delivery ETA To": "2023-11-21T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMAZ5CN9PM217066",
     "Stock Number": "GRT232554",
     "Year": 2023,
@@ -18718,6 +18678,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-15T00:00:00.000Z",
     "Delivery ETA To": "2023-11-20T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMAZ5CN3PM217273",
+    "Stock Number": "GRT232553",
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Toyota of Greenville",
+    "Base MSRP": 34980,
+    "Total MSRP": 39479,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-11-16T00:00:00.000Z",
+    "Delivery ETA To": "2023-11-21T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN3PM216687",
@@ -18740,26 +18720,6 @@
     "Delivery ETA To": "2023-11-22T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN5PM217274",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Toyota of Greenville",
-    "Base MSRP": 34980,
-    "Total MSRP": 39898,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-29T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-03T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYAZ5CNXPT042623",
     "Stock Number": null,
     "Year": 2023,
@@ -18778,6 +18738,26 @@
     "Interior Color": "Black with Red Accent Stitching Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMAZ5CN5PM217274",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Toyota of Greenville",
+    "Base MSRP": 34980,
+    "Total MSRP": 39898,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-29T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-03T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN3PM218603",
@@ -18876,8 +18856,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-11T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-16T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN4PM638303",
@@ -20456,8 +20436,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
     "VIN": "3TYAZ5CN5PT038950",
@@ -20545,7 +20525,7 @@
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
+    "Shipping Status": "At dealer (G)",
     "Pre-Sold": false,
     "Hold Status": "Available",
     "Temp VIN": false,
@@ -21360,26 +21340,6 @@
     "Delivery ETA To": "2023-11-15T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN1PT176173",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Bryan Easler Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 41326,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-06T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-11T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN1PT177758",
     "Stock Number": null,
     "Year": 2023,
@@ -21398,6 +21358,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN1PT176173",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Bryan Easler Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 41326,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN9PT177765",
@@ -21840,26 +21820,6 @@
     "Delivery ETA To": "2023-12-17T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN1PM650375",
-    "Stock Number": "PM43A362*O",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Rick Hendrick Toyota",
-    "Base MSRP": 34865,
-    "Total MSRP": 37486,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-18T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-23T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMCZ5AN1PM650358",
     "Stock Number": "PM43A976*O",
     "Year": 2023,
@@ -21882,6 +21842,26 @@
   {
     "VIN": "3TMCZ5AN9PM650351",
     "Stock Number": "PM43B031*O",
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Rick Hendrick Toyota",
+    "Base MSRP": 34865,
+    "Total MSRP": 37486,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2024-01-18T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-23T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5AN1PM650375",
+    "Stock Number": "PM43A362*O",
     "Year": 2023,
     "Trim": "Tacoma SR",
     "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
@@ -22065,7 +22045,7 @@
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
+    "Shipping Status": "At dealer (G)",
     "Pre-Sold": false,
     "Hold Status": "Available",
     "Temp VIN": false,
@@ -22356,8 +22336,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-10T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-15T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-12T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-17T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5ANXPM637043",
@@ -23376,8 +23356,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-11T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-16T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN2PM220553",
@@ -23605,7 +23585,7 @@
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
+    "Shipping Status": "At dealer (G)",
     "Pre-Sold": false,
     "Hold Status": "Available",
     "Temp VIN": false,
@@ -23680,6 +23660,26 @@
     "Delivery ETA To": "2023-12-05T00:00:00.000Z"
   },
   {
+    "VIN": "3TMDZ5BN2PM165231",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 3.5L V6 engine AT 4x4 6-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": true,
+    "Hold Status": "DealerHold",
+    "Temp VIN": false,
+    "Dealer": "Toyota of Easley",
+    "Base MSRP": 40340,
+    "Total MSRP": 44674,
+    "Advertized Price": 44674,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Cement/Black Fabric",
+    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
+  },
+  {
     "VIN": "3TMCZ5AN4PM649592",
     "Stock Number": "231176",
     "Year": 2023,
@@ -23738,6 +23738,26 @@
     "Interior Color": "Cement/Black Fabric",
     "Delivery ETA From": "2023-12-04T00:00:00.000Z",
     "Delivery ETA To": "2023-12-09T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMHZ5BNXPM163776",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma Limited",
+    "Description": "Tacoma Limited 3.5L V6 engine AT 4x4 6-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": true,
+    "Hold Status": "DealerHold",
+    "Temp VIN": false,
+    "Dealer": "Toyota of Easley",
+    "Base MSRP": 44930,
+    "Total MSRP": 48560,
+    "Advertized Price": 48560,
+    "Mark Up": 0,
+    "Exterior Color": "Magnetic Gray Metallic",
+    "Interior Color": "Black SofTex",
+    "Delivery ETA From": "2024-01-05T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-10T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN6PM637315",
@@ -23960,24 +23980,24 @@
     "Delivery ETA To": "2023-12-26T00:00:00.000Z"
   },
   {
-    "VIN": "5TFNC5DB0RX054263",
+    "VIN": "5TFMC5DB7RX048438",
     "Stock Number": null,
     "Year": 2024,
-    "Trim": "Tundra Platinum",
-    "Description": "Tundra Platinum 4x4 HV CrewMax 5.5-Ft. Bed",
+    "Trim": "Tundra 1794 Edition",
+    "Description": "Tundra 1794 Edition 4x4 HV CrewMax 5.5-Ft. Bed",
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
-    "Hold Status": "Available",
+    "Hold Status": "DealerHold",
     "Temp VIN": false,
     "Dealer": "Toyota of Easley",
-    "Base MSRP": 68705,
-    "Total MSRP": 74963,
-    "Advertized Price": 74963,
+    "Base MSRP": 69405,
+    "Total MSRP": 74903,
+    "Advertized Price": 74903,
     "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Leather-trimmed",
-    "Delivery ETA From": "2023-12-20T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-25T00:00:00.000Z"
+    "Exterior Color": "Smoked Mesquite",
+    "Interior Color": "Saddle Tan Leather-trimmed",
+    "Delivery ETA From": "2023-12-06T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-11T00:00:00.000Z"
   },
   {
     "VIN": "5TFNC5DB2RX48I429",
@@ -23998,6 +24018,26 @@
     "Interior Color": "Black Leather-trimmed",
     "Delivery ETA From": "2024-01-17T00:00:00.000Z",
     "Delivery ETA To": "2024-01-22T00:00:00.000Z"
+  },
+  {
+    "VIN": "5TFNC5DB0RX054263",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tundra Platinum",
+    "Description": "Tundra Platinum 4x4 HV CrewMax 5.5-Ft. Bed",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Toyota of Easley",
+    "Base MSRP": 68705,
+    "Total MSRP": 74963,
+    "Advertized Price": 74963,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Black Leather-trimmed",
+    "Delivery ETA From": "2023-12-19T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-24T00:00:00.000Z"
   },
   {
     "VIN": "5TFMC5DB3RX48G054",
@@ -24176,8 +24216,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-12T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-17T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN3PM647364",
@@ -24240,6 +24280,26 @@
     "Delivery ETA To": "2023-12-06T00:00:00.000Z"
   },
   {
+    "VIN": "3TMCZ5AN7PM654317",
+    "Stock Number": "PM654317",
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Fred Anderson Toyota of Asheville",
+    "Base MSRP": 34865,
+    "Total MSRP": 36972,
+    "Advertized Price": 36972,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-11-30T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-05T00:00:00.000Z"
+  },
+  {
     "VIN": "3TMCZ5AN7PM653832",
     "Stock Number": null,
     "Year": 2023,
@@ -24278,26 +24338,6 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-04T00:00:00.000Z",
     "Delivery ETA To": "2023-12-09T00:00:00.000Z"
-  },
-  {
-    "VIN": "3TMCZ5AN7PM654317",
-    "Stock Number": "PM654317",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Fred Anderson Toyota of Asheville",
-    "Base MSRP": 34865,
-    "Total MSRP": 36972,
-    "Advertized Price": 36972,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-30T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-05T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5ANXPM654246",
@@ -24420,26 +24460,6 @@
     "Delivery ETA To": "2023-12-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN2PM654239",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Fred Anderson Toyota of Asheville",
-    "Base MSRP": 34865,
-    "Total MSRP": 36972,
-    "Advertized Price": 36972,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMCZ5AN8PM654326",
     "Stock Number": null,
     "Year": 2023,
@@ -24460,24 +24480,24 @@
     "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN3PM652595",
+    "VIN": "3TMCZ5AN2PM654239",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR",
     "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
+    "Shipping Status": "At dealer (G)",
     "Pre-Sold": false,
-    "Hold Status": null,
+    "Hold Status": "Available",
     "Temp VIN": false,
     "Dealer": "Fred Anderson Toyota of Asheville",
     "Base MSRP": 34865,
-    "Total MSRP": 36978,
-    "Advertized Price": 36978,
+    "Total MSRP": 36972,
+    "Advertized Price": 36972,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-13T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-18T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5ANXPM652156",
@@ -24498,6 +24518,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-12T00:00:00.000Z",
     "Delivery ETA To": "2023-12-17T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5AN3PM652595",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Fred Anderson Toyota of Asheville",
+    "Base MSRP": 34865,
+    "Total MSRP": 36978,
+    "Advertized Price": 36978,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-13T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-18T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN1PM652174",
@@ -24716,8 +24756,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-06T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-11T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN1PM637352",
@@ -25100,26 +25140,6 @@
     "Delivery ETA To": "2024-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5ANXPM634112",
-    "Stock Number": "PM634112",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Fred Anderson Toyota of Asheville",
-    "Base MSRP": 38055,
-    "Total MSRP": 43635,
-    "Advertized Price": 43635,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-07T00:00:00.000Z",
-    "Delivery ETA To": "2023-11-12T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMCZ5AN1PM637318",
     "Stock Number": null,
     "Year": 2023,
@@ -25138,6 +25158,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-05T00:00:00.000Z",
     "Delivery ETA To": "2023-12-10T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5ANXPM634112",
+    "Stock Number": "PM634112",
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Fred Anderson Toyota of Asheville",
+    "Base MSRP": 38055,
+    "Total MSRP": 43635,
+    "Advertized Price": 43635,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-11-07T00:00:00.000Z",
+    "Delivery ETA To": "2023-11-12T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN4PM639306",
@@ -25280,26 +25320,6 @@
     "Delivery ETA To": "2023-12-02T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN9PM642654",
-    "Stock Number": "PM642654",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Fred Anderson Toyota of Asheville",
-    "Base MSRP": 38055,
-    "Total MSRP": 43979,
-    "Advertized Price": 43979,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-14T00:00:00.000Z",
-    "Delivery ETA To": "2023-11-19T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMCZ5AN4PM643890",
     "Stock Number": "PM643890",
     "Year": 2023,
@@ -25318,6 +25338,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-01T00:00:00.000Z",
     "Delivery ETA To": "2023-12-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5AN9PM642654",
+    "Stock Number": "PM642654",
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Fred Anderson Toyota of Asheville",
+    "Base MSRP": 38055,
+    "Total MSRP": 43979,
+    "Advertized Price": 43979,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-11-14T00:00:00.000Z",
+    "Delivery ETA To": "2023-11-19T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5ANXPT178584",
@@ -25496,8 +25536,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement/Black Fabric",
-    "Delivery ETA From": "2023-12-12T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-17T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "3TYGZ5AN4PT177786",
@@ -25520,26 +25560,6 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "5TFJC5DB6RX46I263",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tundra Limited",
-    "Description": "Tundra Limited 4x4 HV CrewMax 5.5-Ft. Bed",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Fred Anderson Toyota of Asheville",
-    "Base MSRP": 60625,
-    "Total MSRP": 65803,
-    "Advertized Price": 65803,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black SofTex®-trimmed [softex]",
-    "Delivery ETA From": "2024-01-08T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-13T00:00:00.000Z"
-  },
-  {
     "VIN": "5TFJC5DB8RX48E657",
     "Stock Number": null,
     "Year": 2024,
@@ -25558,6 +25578,26 @@
     "Interior Color": "Black SofTex®-trimmed [softex]",
     "Delivery ETA From": "2024-01-18T00:00:00.000Z",
     "Delivery ETA To": "2024-01-23T00:00:00.000Z"
+  },
+  {
+    "VIN": "5TFJC5DB6RX46I263",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tundra Limited",
+    "Description": "Tundra Limited 4x4 HV CrewMax 5.5-Ft. Bed",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Fred Anderson Toyota of Asheville",
+    "Base MSRP": 60625,
+    "Total MSRP": 65803,
+    "Advertized Price": 65803,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Black SofTex®-trimmed [softex]",
+    "Delivery ETA From": "2024-01-08T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-13T00:00:00.000Z"
   },
   {
     "VIN": "5TFWC5DB5RX46I812",
@@ -26456,28 +26496,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black with Red Accent Stitching Fabric",
-    "Delivery ETA From": "2023-12-06T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-11T00:00:00.000Z"
-  },
-  {
-    "VIN": "3TYCZ5AN4PT175535",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Mark Jacobson Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 41875,
-    "Advertized Price": 41875,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN8PT178308",
@@ -26498,6 +26518,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN4PT175535",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Mark Jacobson Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 41875,
+    "Advertized Price": 41875,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN5PM639461",
@@ -26756,8 +26796,8 @@
     "Mark Up": 5000,
     "Exterior Color": "Midnight Black Metallic",
     "Interior Color": "Black SofTex®-trimmed [softex]",
-    "Delivery ETA From": "2023-12-20T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-25T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-19T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-24T00:00:00.000Z"
   },
   {
     "VIN": "5TFPC5DB9RX47D130",
@@ -27076,8 +27116,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-11T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-16T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN6PM219440",
@@ -27116,8 +27156,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Cement/Black Fabric",
-    "Delivery ETA From": "2023-12-11T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-16T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN9PM634019",
@@ -27160,26 +27200,6 @@
     "Delivery ETA To": "2023-12-03T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN4PT173722",
-    "Stock Number": "PT40D561*O",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Hendrick Toyota Apex",
-    "Base MSRP": 38055,
-    "Total MSRP": 42424,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-09T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-14T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMCZ5AN5PM638374",
     "Stock Number": "PM38G183*O",
     "Year": 2023,
@@ -27198,6 +27218,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2024-01-10T00:00:00.000Z",
     "Delivery ETA To": "2024-01-15T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN4PT173722",
+    "Stock Number": "PT40D561*O",
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Hendrick Toyota Apex",
+    "Base MSRP": 38055,
+    "Total MSRP": 42424,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2024-01-09T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-14T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN4PT178077",
@@ -27240,26 +27280,6 @@
     "Delivery ETA To": "2023-12-16T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN7PM653734",
-    "Stock Number": "PM45C096*O",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Hendrick Toyota Apex",
-    "Base MSRP": 38055,
-    "Total MSRP": 42424,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Black",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN9PT178074",
     "Stock Number": "PT44F178*O",
     "Year": 2023,
@@ -27278,6 +27298,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-05T00:00:00.000Z",
     "Delivery ETA To": "2023-12-10T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5AN7PM653734",
+    "Stock Number": "PM45C096*O",
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Hendrick Toyota Apex",
+    "Base MSRP": 38055,
+    "Total MSRP": 42424,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Black",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN0PM642316",
@@ -27560,6 +27600,26 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
+    "VIN": "3TYCZ5AN7PT179868",
+    "Stock Number": "PT45E018*O",
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Hendrick Toyota Apex",
+    "Base MSRP": 38055,
+    "Total MSRP": 42973,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Black with Red Accent Stitching Fabric",
+    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
+    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
     "VIN": "3TYCZ5AN0PT177413",
     "Stock Number": "PT43E773*O",
     "Year": 2023,
@@ -27598,26 +27658,6 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-04T00:00:00.000Z",
     "Delivery ETA To": "2023-12-09T00:00:00.000Z"
-  },
-  {
-    "VIN": "3TYCZ5AN7PT179868",
-    "Stock Number": "PT45E018*O",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Hendrick Toyota Apex",
-    "Base MSRP": 38055,
-    "Total MSRP": 42973,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Black with Red Accent Stitching Fabric",
-    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
-    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN1PT173712",
@@ -27916,8 +27956,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Black SofTex®-trimmed [softex]",
-    "Delivery ETA From": "2024-01-03T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-08T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-22T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-27T00:00:00.000Z"
   },
   {
     "VIN": "5TFJC5DB9RX054504",
@@ -27936,8 +27976,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder SofTex®-trimmed [softex]",
-    "Delivery ETA From": "2023-12-20T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-25T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-19T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-24T00:00:00.000Z"
   },
   {
     "VIN": "5TFJC5DB6RX47E354",
@@ -28476,8 +28516,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN5PM654607",
@@ -28700,26 +28740,6 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN2PT177767",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Ralph Hayes Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 42255,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
-    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN0PT176889",
     "Stock Number": null,
     "Year": 2023,
@@ -28735,6 +28755,26 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
+    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN2PT177767",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Ralph Hayes Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 42255,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
@@ -29716,26 +29756,6 @@
     "Delivery ETA To": "2023-11-27T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN0PM651128",
-    "Stock Number": "PM651128",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Fred Anderson Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 43067,
-    "Advertized Price": 43067,
-    "Mark Up": 0,
-    "Exterior Color": "Black",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-30T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-05T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMCZ5AN4PM648409",
     "Stock Number": "PM648409",
     "Year": 2023,
@@ -29754,6 +29774,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-19T00:00:00.000Z",
     "Delivery ETA To": "2023-11-24T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5AN0PM651128",
+    "Stock Number": "PM651128",
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Fred Anderson Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 43067,
+    "Advertized Price": 43067,
+    "Mark Up": 0,
+    "Exterior Color": "Black",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-11-30T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-05T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN5PM646264",
@@ -29816,26 +29856,6 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN3PT174974",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Fred Anderson Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 43123,
-    "Advertized Price": 43123,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN1PT177775",
     "Stock Number": null,
     "Year": 2023,
@@ -29854,6 +29874,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN3PT174974",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Fred Anderson Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 43123,
+    "Advertized Price": 43123,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN0PT178576",
@@ -29956,26 +29996,6 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN5PT177780",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Fred Anderson Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 43123,
-    "Advertized Price": 43123,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
-    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN6PT179120",
     "Stock Number": null,
     "Year": 2023,
@@ -29994,6 +30014,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN4PT178192",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Fred Anderson Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 43123,
+    "Advertized Price": 43123,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN5PT177780",
@@ -32702,8 +32742,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black Leather-trimmed",
-    "Delivery ETA From": "2023-12-21T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-26T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-20T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-25T00:00:00.000Z"
   },
   {
     "VIN": "5TFNC5DB3RX46I495",
@@ -32951,7 +32991,7 @@
     "Year": 2023,
     "Trim": "Tacoma SR",
     "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
+    "Shipping Status": "At dealer (G)",
     "Pre-Sold": false,
     "Hold Status": "Available",
     "Temp VIN": false,
@@ -33026,7 +33066,7 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN1PM219202",
+    "VIN": "3TMAZ5CN1PM219099",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
@@ -33046,7 +33086,7 @@
     "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN1PM219099",
+    "VIN": "3TMAZ5CN1PM219202",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
@@ -33246,26 +33286,6 @@
     "Delivery ETA To": "2024-01-14T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN8PT173013",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Leith Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 42255,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-09T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-14T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN2PT175890",
     "Stock Number": null,
     "Year": 2023,
@@ -33284,6 +33304,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-07T00:00:00.000Z",
     "Delivery ETA To": "2023-12-12T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN8PT173013",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Leith Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 42255,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-11T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-16T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5ANXPT175894",
@@ -33342,11 +33382,11 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-06T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-11T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN2PT176635",
+    "VIN": "3TYCZ5AN5PT177889",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
@@ -33360,10 +33400,10 @@
     "Total MSRP": 44491,
     "Advertized Price": null,
     "Mark Up": 0,
-    "Exterior Color": "Blue Crush Metallic",
+    "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN8PT178759",
@@ -33381,6 +33421,26 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
+    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN8PT179801",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Leith Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 44491,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
@@ -33406,7 +33466,7 @@
     "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN8PT179801",
+    "VIN": "3TYCZ5AN2PT176635",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
@@ -33420,30 +33480,10 @@
     "Total MSRP": 44491,
     "Advertized Price": null,
     "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
+    "Exterior Color": "Blue Crush Metallic",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
-    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
-  },
-  {
-    "VIN": "3TYCZ5AN5PT177889",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Leith Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 44491,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN4PM651519",
@@ -34386,26 +34426,6 @@
     "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN9PM653038",
-    "Stock Number": "QA3077",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Milton Ruben Toyota of Augusta",
-    "Base MSRP": 34865,
-    "Total MSRP": 37311,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-30T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-05T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMCZ5AN9PM655209",
     "Stock Number": null,
     "Year": 2023,
@@ -34973,7 +34993,7 @@
     "Description": "Tacoma TRD Off-Road 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
     "Shipping Status": "At dealer (G)",
     "Pre-Sold": false,
-    "Hold Status": "DealerHold",
+    "Hold Status": "Available",
     "Temp VIN": false,
     "Dealer": "Milton Ruben Toyota of Augusta",
     "Base MSRP": 39755,
@@ -35002,8 +35022,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-10T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-15T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-12T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-17T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN7PM219947",
@@ -35026,26 +35046,6 @@
     "Delivery ETA To": "2023-12-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN0PT178562",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "DealerHold",
-    "Temp VIN": false,
-    "Dealer": "Milton Ruben Toyota of Augusta",
-    "Base MSRP": 38055,
-    "Total MSRP": 44743,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN3PT178135",
     "Stock Number": null,
     "Year": 2023,
@@ -35061,6 +35061,26 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN0PT178562",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "DealerHold",
+    "Temp VIN": false,
+    "Dealer": "Milton Ruben Toyota of Augusta",
+    "Base MSRP": 38055,
+    "Total MSRP": 44743,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-08T00:00:00.000Z",
     "Delivery ETA To": "2023-12-13T00:00:00.000Z"
@@ -36340,26 +36360,6 @@
     "Delivery ETA To": "2024-01-22T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN3PM217998",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Sparks Toyota",
-    "Base MSRP": 34980,
-    "Total MSRP": 38630,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-17T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-22T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMAZ5CN6PM218188",
     "Stock Number": null,
     "Year": 2023,
@@ -36380,7 +36380,7 @@
     "Delivery ETA To": "2024-01-22T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN9PM217889",
+    "VIN": "3TMAZ5CN3PM217998",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
@@ -36420,14 +36420,14 @@
     "Delivery ETA To": "2024-01-22T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN9PM217178",
+    "VIN": "3TMAZ5CN9PM217889",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
-    "Hold Status": "DealerHold",
+    "Hold Status": "Available",
     "Temp VIN": false,
     "Dealer": "Sparks Toyota",
     "Base MSRP": 34980,
@@ -36436,8 +36436,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-27T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-01T00:00:00.000Z"
+    "Delivery ETA From": "2024-01-17T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-22T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN3PM217662",
@@ -36460,14 +36460,14 @@
     "Delivery ETA To": "2023-12-24T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN4PM218190",
+    "VIN": "3TMAZ5CN9PM217178",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
-    "Hold Status": "Available",
+    "Hold Status": "DealerHold",
     "Temp VIN": false,
     "Dealer": "Sparks Toyota",
     "Base MSRP": 34980,
@@ -36476,8 +36476,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-17T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-22T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-27T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-01T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN4PM218187",
@@ -36518,6 +36518,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-06T00:00:00.000Z",
     "Delivery ETA To": "2023-12-11T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMAZ5CN4PM218190",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Sparks Toyota",
+    "Base MSRP": 34980,
+    "Total MSRP": 38630,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2024-01-17T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-22T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN3PM219749",
@@ -36720,26 +36740,6 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN4PT178595",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Sparks Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 41705,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN1PT179591",
     "Stock Number": null,
     "Year": 2023,
@@ -36758,6 +36758,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN4PT178595",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Sparks Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 41705,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN3PM642102",
@@ -36900,26 +36920,6 @@
     "Delivery ETA To": "2024-01-01T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN9PM646543",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "DealerHold",
-    "Temp VIN": false,
-    "Dealer": "Sparks Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 41705,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-17T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-22T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN6PT179585",
     "Stock Number": null,
     "Year": 2023,
@@ -36938,6 +36938,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5AN9PM646543",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "DealerHold",
+    "Temp VIN": false,
+    "Dealer": "Sparks Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 41705,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2024-01-17T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-22T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN5PM641856",
@@ -37380,26 +37400,6 @@
     "Delivery ETA To": "2024-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "5TFNC5DB6RX46G806",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tundra Platinum",
-    "Description": "Tundra Platinum 4x4 HV CrewMax 5.5-Ft. Bed",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "DealerHold",
-    "Temp VIN": true,
-    "Dealer": "Sparks Toyota",
-    "Base MSRP": 68705,
-    "Total MSRP": 73783,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Leather-trimmed",
-    "Delivery ETA From": "2023-12-21T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-26T00:00:00.000Z"
-  },
-  {
     "VIN": "5TFNC5DB9RX053757",
     "Stock Number": null,
     "Year": 2024,
@@ -37418,6 +37418,26 @@
     "Interior Color": "Black Leather-trimmed",
     "Delivery ETA From": "2023-12-18T00:00:00.000Z",
     "Delivery ETA To": "2023-12-23T00:00:00.000Z"
+  },
+  {
+    "VIN": "5TFNC5DB6RX46G806",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tundra Platinum",
+    "Description": "Tundra Platinum 4x4 HV CrewMax 5.5-Ft. Bed",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "DealerHold",
+    "Temp VIN": true,
+    "Dealer": "Sparks Toyota",
+    "Base MSRP": 68705,
+    "Total MSRP": 73783,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Black Leather-trimmed",
+    "Delivery ETA From": "2023-12-21T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-26T00:00:00.000Z"
   },
   {
     "VIN": "5TFMC5DB6RX48H795",
@@ -37536,24 +37556,6 @@
     "Delivery ETA To": "2023-10-30"
   },
   {
-    "VIN": "3TYSX5EN0PT022548",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Shelor Toyota",
-    "Base MSRP": 31675,
-    "Total MSRP": 33658,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric"
-  },
-  {
     "VIN": "3TYSX5EN4PT022407",
     "Stock Number": null,
     "Year": 2023,
@@ -37572,7 +37574,7 @@
     "Interior Color": "Cement Gray Fabric"
   },
   {
-    "VIN": "3TYSX5EN0PT022341",
+    "VIN": "3TYSX5EN0PT022548",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR",
@@ -37586,7 +37588,7 @@
     "Total MSRP": 33658,
     "Advertized Price": null,
     "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
+    "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric"
   },
   {
@@ -37641,6 +37643,24 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric"
+  },
+  {
+    "VIN": "3TYSX5EN0PT022341",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Shelor Toyota",
+    "Base MSRP": 31675,
+    "Total MSRP": 33658,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Cement Gray Fabric"
   },
   {
@@ -37718,24 +37738,6 @@
     "Interior Color": "Cement Gray Fabric"
   },
   {
-    "VIN": "3TYSX5EN7PT022451",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Shelor Toyota",
-    "Base MSRP": 31675,
-    "Total MSRP": 33658,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Magnetic Gray Metallic",
-    "Interior Color": "Cement Gray Fabric"
-  },
-  {
     "VIN": "3TYSX5EN0PT022355",
     "Stock Number": null,
     "Year": 2023,
@@ -37751,6 +37753,24 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric"
+  },
+  {
+    "VIN": "3TYSX5EN7PT022451",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Shelor Toyota",
+    "Base MSRP": 31675,
+    "Total MSRP": 33658,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Magnetic Gray Metallic",
     "Interior Color": "Cement Gray Fabric"
   },
   {
@@ -37958,6 +37978,24 @@
     "Delivery ETA To": "2023-12-01"
   },
   {
+    "VIN": "3TMCZ5AN2PM645864",
+    "Stock Number": "TY231455",
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Shelor Toyota",
+    "Base MSRP": 34865,
+    "Total MSRP": 36618,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Black",
+    "Interior Color": "Cement Gray Fabric"
+  },
+  {
     "VIN": "3TMCZ5AN9PM649474",
     "Stock Number": "TY231474",
     "Year": 2023,
@@ -37976,24 +38014,6 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-28",
     "Delivery ETA To": "2023-12-01"
-  },
-  {
-    "VIN": "3TMCZ5AN2PM645864",
-    "Stock Number": "TY231455",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Shelor Toyota",
-    "Base MSRP": 34865,
-    "Total MSRP": 36618,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Black",
-    "Interior Color": "Cement Gray Fabric"
   },
   {
     "VIN": "3TMCZ5AN6PM652428",
@@ -38114,24 +38134,6 @@
     "Interior Color": "Cement Gray Fabric"
   },
   {
-    "VIN": "3TYCZ5AN5PT171980",
-    "Stock Number": "TY231512",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Shelor Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 40552,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Cement Gray Fabric"
-  },
-  {
     "VIN": "3TYCZ5ANXPT172235",
     "Stock Number": "TY231509",
     "Year": 2023,
@@ -38147,6 +38149,24 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Barcelona Red Metallic",
+    "Interior Color": "Cement Gray Fabric"
+  },
+  {
+    "VIN": "3TYCZ5AN5PT171980",
+    "Stock Number": "TY231512",
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Shelor Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 40552,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Cement Gray Fabric"
   },
   {
@@ -39616,26 +39636,6 @@
     "Delivery ETA To": "2024-01-13T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN1PM649582",
-    "Stock Number": "PM43C964*O",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Hendrick Toyota North Charleston",
-    "Base MSRP": 34865,
-    "Total MSRP": 37486,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-17T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-22T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMCZ5AN7PM650719",
     "Stock Number": "PM43A260*O",
     "Year": 2023,
@@ -39654,6 +39654,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-14T00:00:00.000Z",
     "Delivery ETA To": "2023-12-19T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5AN1PM649582",
+    "Stock Number": "PM43C964*O",
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Hendrick Toyota North Charleston",
+    "Base MSRP": 34865,
+    "Total MSRP": 37486,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2024-01-17T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-22T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN5PM652162",
@@ -39698,6 +39718,26 @@
   {
     "VIN": "3TMCZ5AN2PM646612",
     "Stock Number": "PM41C129*O",
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Hendrick Toyota North Charleston",
+    "Base MSRP": 34865,
+    "Total MSRP": 37695,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-27T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5AN1PM644530",
+    "Stock Number": "PM40D349*O",
     "Year": 2023,
     "Trim": "Tacoma SR",
     "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
@@ -39776,26 +39816,6 @@
     "Delivery ETA To": "2024-01-22T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN1PM644530",
-    "Stock Number": "PM40D349*O",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Hendrick Toyota North Charleston",
-    "Base MSRP": 34865,
-    "Total MSRP": 37695,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-27T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-01T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMCZ5AN2PM648702",
     "Stock Number": "PM42C829*O",
     "Year": 2023,
@@ -39856,8 +39876,8 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN6PM217302",
-    "Stock Number": "PM40D054*O",
+    "VIN": "3TMAZ5CN9PM217116",
+    "Stock Number": "PM40D064*O",
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
@@ -39876,8 +39896,8 @@
     "Delivery ETA To": "2024-01-01T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN9PM217116",
-    "Stock Number": "PM40D064*O",
+    "VIN": "3TMAZ5CN6PM217302",
+    "Stock Number": "PM40D054*O",
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
@@ -40056,26 +40076,6 @@
     "Delivery ETA To": "2023-12-19T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CNXPM217559",
-    "Stock Number": "PM40A570*O",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Hendrick Toyota North Charleston",
-    "Base MSRP": 34980,
-    "Total MSRP": 38551,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-27T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-01T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMAZ5CN4PM217489",
     "Stock Number": "PM40A852*O",
     "Year": 2023,
@@ -40114,6 +40114,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2024-01-17T00:00:00.000Z",
     "Delivery ETA To": "2024-01-22T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMAZ5CNXPM217559",
+    "Stock Number": "PM40A570*O",
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Hendrick Toyota North Charleston",
+    "Base MSRP": 34980,
+    "Total MSRP": 38551,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-27T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-01T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN5PM217565",
@@ -40392,8 +40412,8 @@
     "Mark Up": 0,
     "Exterior Color": "Barcelona Red Metallic",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-08T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-13T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN9PT178155",
@@ -40436,26 +40456,6 @@
     "Delivery ETA To": "2023-12-25T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN8PT177949",
-    "Stock Number": "PT44D249*O",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Hendrick Toyota North Charleston",
-    "Base MSRP": 38055,
-    "Total MSRP": 41795,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black with Red Accent Stitching Fabric",
-    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
-    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN3PT177860",
     "Stock Number": "PT44E115*O",
     "Year": 2023,
@@ -40474,6 +40474,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-06T00:00:00.000Z",
     "Delivery ETA To": "2023-12-11T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN8PT177949",
+    "Stock Number": "PT44D249*O",
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Hendrick Toyota North Charleston",
+    "Base MSRP": 38055,
+    "Total MSRP": 41795,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Black with Red Accent Stitching Fabric",
+    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
+    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN1PM642311",
@@ -40541,7 +40561,7 @@
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
+    "Shipping Status": "At dealer (G)",
     "Pre-Sold": false,
     "Hold Status": "Available",
     "Temp VIN": false,
@@ -40554,26 +40574,6 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-05T00:00:00.000Z",
     "Delivery ETA To": "2023-12-10T00:00:00.000Z"
-  },
-  {
-    "VIN": "3TMCZ5AN4PM642464",
-    "Stock Number": "PM39G174*O",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Hendrick Toyota North Charleston",
-    "Base MSRP": 38055,
-    "Total MSRP": 41795,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-20T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-25T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN0PT179565",
@@ -40614,6 +40614,26 @@
     "Interior Color": "Black with Red Accent Stitching Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5AN4PM642464",
+    "Stock Number": "PM39G174*O",
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Hendrick Toyota North Charleston",
+    "Base MSRP": 38055,
+    "Total MSRP": 41795,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-20T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-25T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN4PT177866",
@@ -40892,8 +40912,8 @@
     "Mark Up": 0,
     "Exterior Color": "Midnight Black Metallic",
     "Interior Color": "Saddle Tan Leather-trimmed",
-    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-06T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-11T00:00:00.000Z"
   },
   {
     "VIN": "5TFNC5DB3RX047632",
@@ -41072,8 +41092,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Cement/Black Fabric",
-    "Delivery ETA From": "2023-12-11T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-16T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN2PT178868",
@@ -41152,8 +41172,8 @@
     "Mark Up": 0,
     "Exterior Color": "Wind Chill Pearl [extra_cost_color]",
     "Interior Color": "Black SofTex®-trimmed [softex]",
-    "Delivery ETA From": "2023-12-20T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-25T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-19T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-24T00:00:00.000Z"
   },
   {
     "VIN": "5TFNC5DB4RX48G715",
@@ -42190,7 +42210,7 @@
     "Delivery ETA To": "2024-01-22T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5ANXPM649533",
+    "VIN": "3TMCZ5AN8PM649126",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR",
@@ -42206,8 +42226,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-17T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-22T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-15T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-20T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN7PM649571",
@@ -42230,7 +42250,7 @@
     "Delivery ETA To": "2024-01-22T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN8PM649126",
+    "VIN": "3TMCZ5ANXPM649533",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR",
@@ -42246,8 +42266,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-15T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-20T00:00:00.000Z"
+    "Delivery ETA From": "2024-01-17T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-22T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN2PM649977",
@@ -42830,26 +42850,6 @@
     "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN0PT177833",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Fred Anderson Toyota of Charleston",
-    "Base MSRP": 38055,
-    "Total MSRP": 42044,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
-    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5ANXPT176687",
     "Stock Number": null,
     "Year": 2023,
@@ -42868,6 +42868,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-06T00:00:00.000Z",
     "Delivery ETA To": "2023-12-11T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN0PT177833",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Fred Anderson Toyota of Charleston",
+    "Base MSRP": 38055,
+    "Total MSRP": 42044,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
+    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN5PM642456",
@@ -44126,8 +44146,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-11T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-16T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN5PM218845",
@@ -44230,26 +44250,6 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN3PT177583",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Heyward Allen Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 44222,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
-    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN6PT176184",
     "Stock Number": null,
     "Year": 2023,
@@ -44270,7 +44270,7 @@
     "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN7PT176291",
+    "VIN": "3TYCZ5AN3PT177583",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
@@ -44285,7 +44285,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black with Red Accent Stitching Fabric",
+    "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
@@ -44306,6 +44306,26 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
+    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN7PT176291",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Heyward Allen Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 44222,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Black with Red Accent Stitching Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
@@ -44886,8 +44906,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Black SofTex®-trimmed [softex]",
-    "Delivery ETA From": "2023-12-12T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-17T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "5TFNC5DBXRX052617",
@@ -44970,26 +44990,6 @@
     "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN8PM652124",
-    "Stock Number": "PM44B045*O",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Hendrick Toyota Wilmington",
-    "Base MSRP": 34865,
-    "Total MSRP": 36200,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-11T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-16T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMCZ5AN1PM648187",
     "Stock Number": "Q69351",
     "Year": 2023,
@@ -45008,6 +45008,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-27T00:00:00.000Z",
     "Delivery ETA To": "2023-12-02T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5AN8PM652124",
+    "Stock Number": "PM44B045*O",
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Hendrick Toyota Wilmington",
+    "Base MSRP": 34865,
+    "Total MSRP": 36200,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-11T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-16T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN1PM654278",
@@ -45090,26 +45110,6 @@
     "Delivery ETA To": "2023-12-05T00:00:00.000Z"
   },
   {
-    "VIN": "3TYAZ5CN9PT042581",
-    "Stock Number": "PT45D742*O",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Hendrick Toyota Wilmington",
-    "Base MSRP": 34980,
-    "Total MSRP": 37601,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Black with Red Accent Stitching Fabric",
-    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
-    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMAZ5CN0PM220471",
     "Stock Number": "PM45D450*O",
     "Year": 2023,
@@ -45128,6 +45128,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-05T00:00:00.000Z",
     "Delivery ETA To": "2023-12-10T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYAZ5CN9PT042581",
+    "Stock Number": "PT45D742*O",
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Hendrick Toyota Wilmington",
+    "Base MSRP": 34980,
+    "Total MSRP": 37601,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Black with Red Accent Stitching Fabric",
+    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
+    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
     "VIN": "3TYAZ5CN2PT039540",
@@ -45246,8 +45266,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-11T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-16T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN3PM653052",
@@ -45266,8 +45286,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-11T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-16T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN5PM638388",
@@ -45571,7 +45591,7 @@
   },
   {
     "VIN": "3TMCZ5AN3PM651043",
-    "Stock Number": "PM44A483*O",
+    "Stock Number": "Q69400",
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
@@ -45706,8 +45726,8 @@
     "Mark Up": 0,
     "Exterior Color": "Midnight Black Metallic",
     "Interior Color": "Black SofTex®-trimmed [softex]",
-    "Delivery ETA From": "2023-12-20T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-25T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-19T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-24T00:00:00.000Z"
   },
   {
     "VIN": "5TFJC5DB6RX051981",
@@ -45766,8 +45786,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black SofTex®-trimmed [softex]",
-    "Delivery ETA From": "2023-12-20T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-25T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-19T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-24T00:00:00.000Z"
   },
   {
     "VIN": "5TFJC5DB7RX050578",
@@ -48880,26 +48900,6 @@
     "Delivery ETA To": "2023-11-29T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN6PM648704",
-    "Stock Number": "53920",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Milton Martin Toyota",
-    "Base MSRP": 34865,
-    "Total MSRP": 37879,
-    "Advertized Price": 37879,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-20T00:00:00.000Z",
-    "Delivery ETA To": "2023-11-25T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMCZ5ANXPM646986",
     "Stock Number": "53875",
     "Year": 2023,
@@ -48918,6 +48918,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-13T00:00:00.000Z",
     "Delivery ETA To": "2023-11-18T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5AN6PM648704",
+    "Stock Number": "53920",
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Milton Martin Toyota",
+    "Base MSRP": 34865,
+    "Total MSRP": 37879,
+    "Advertized Price": 37879,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-11-20T00:00:00.000Z",
+    "Delivery ETA To": "2023-11-25T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN9PM215995",
@@ -49260,6 +49280,26 @@
     "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
+    "VIN": "3TYCZ5AN2PT177932",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Milton Martin Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 41326,
+    "Advertized Price": 41326,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
+  },
+  {
     "VIN": "3TMCZ5AN2PM638185",
     "Stock Number": "53806",
     "Year": 2023,
@@ -49278,26 +49318,6 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-15T00:00:00.000Z",
     "Delivery ETA To": "2023-12-20T00:00:00.000Z"
-  },
-  {
-    "VIN": "3TYCZ5AN2PT177932",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Milton Martin Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 41326,
-    "Advertized Price": 41326,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN6PT174449",
@@ -49660,26 +49680,6 @@
     "Delivery ETA To": "2023-11-26T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN8PM641267",
-    "Stock Number": "49699",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Greenville Toyota",
-    "Base MSRP": 34865,
-    "Total MSRP": 36821,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-21T00:00:00.000Z",
-    "Delivery ETA To": "2023-11-26T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMCZ5AN1PM642017",
     "Stock Number": "49661",
     "Year": 2023,
@@ -49698,6 +49698,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-13T00:00:00.000Z",
     "Delivery ETA To": "2023-11-18T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5AN8PM641267",
+    "Stock Number": "49699",
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Greenville Toyota",
+    "Base MSRP": 34865,
+    "Total MSRP": 36821,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-11-21T00:00:00.000Z",
+    "Delivery ETA To": "2023-11-26T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN0PM216047",
@@ -50801,7 +50821,7 @@
   },
   {
     "VIN": "3TMCZ5ANXPM642713",
-    "Stock Number": null,
+    "Stock Number": "TP642713",
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
@@ -51052,8 +51072,8 @@
     "Mark Up": 0,
     "Exterior Color": "Magnetic Gray Metallic",
     "Interior Color": "Black SofTex®-trimmed [softex]",
-    "Delivery ETA From": "2023-12-21T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-26T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-20T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-25T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN1PM217062",
@@ -51252,8 +51272,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-12T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-17T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN4PM220537",
@@ -51632,8 +51652,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black SofTex®-trimmed [softex]",
-    "Delivery ETA From": "2023-12-21T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-26T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-20T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-25T00:00:00.000Z"
   },
   {
     "VIN": "5TFJC5DB8RX051688",
@@ -51934,26 +51954,6 @@
     "Delivery ETA To": "2024-01-01T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN9PM648163",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Stokes Toyota Hilton Head",
-    "Base MSRP": 34865,
-    "Total MSRP": 36937,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-17T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-22T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMCZ5AN8PM642757",
     "Stock Number": null,
     "Year": 2023,
@@ -51972,6 +51972,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-27T00:00:00.000Z",
     "Delivery ETA To": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5AN9PM648163",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Stokes Toyota Hilton Head",
+    "Base MSRP": 34865,
+    "Total MSRP": 36937,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2024-01-17T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-22T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN8PM642855",
@@ -52250,8 +52270,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-08T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-13T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN8PT178437",
@@ -52894,26 +52914,6 @@
     "Delivery ETA To": "2023-12-07"
   },
   {
-    "VIN": "3TMCZ5AN2PM652393",
-    "Stock Number": "230747",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": "DealerHold",
-    "Temp VIN": false,
-    "Dealer": "Toyota Knoxville",
-    "Base MSRP": 34865,
-    "Total MSRP": 36618,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-18",
-    "Delivery ETA To": "2023-12-06"
-  },
-  {
     "VIN": "3TMCZ5AN9PM649748",
     "Stock Number": "230736",
     "Year": 2023,
@@ -52932,6 +52932,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-01",
     "Delivery ETA To": "2023-12-30"
+  },
+  {
+    "VIN": "3TMCZ5AN2PM652393",
+    "Stock Number": "230747",
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": "DealerHold",
+    "Temp VIN": false,
+    "Dealer": "Toyota Knoxville",
+    "Base MSRP": 34865,
+    "Total MSRP": 36618,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-11-18",
+    "Delivery ETA To": "2023-12-06"
   },
   {
     "VIN": "3TYCZ5AN9PT173862",
@@ -54024,8 +54044,8 @@
     "Mark Up": -2145.9400000000023,
     "Exterior Color": "Barcelona Red Metallic",
     "Interior Color": "Black with Red Accent Stitching Fabric",
-    "Delivery ETA From": "2023-12-11T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-16T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN2PT177672",
@@ -54264,8 +54284,8 @@
     "Mark Up": -4508.440000000002,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black SofTex®-trimmed [softex]",
-    "Delivery ETA From": "2023-12-11T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-16T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
     "VIN": "5TFWC5DB7RX053776",
@@ -54749,7 +54769,7 @@
   },
   {
     "VIN": "3TMCZ5AN5PM637306",
-    "Stock Number": null,
+    "Stock Number": "PM37C872",
     "Year": 2023,
     "Trim": "Tacoma TRD Off-Road",
     "Description": "Tacoma TRD Off-Road 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
@@ -55062,6 +55082,26 @@
     "Delivery ETA To": "2023-12-07"
   },
   {
+    "VIN": "3TMCZ5AN6PM652297",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Fox Toyota",
+    "Base MSRP": 34865,
+    "Total MSRP": 36947,
+    "Advertized Price": 34919.89,
+    "Mark Up": -2027.1100000000006,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-11-30",
+    "Delivery ETA To": "2023-12-07"
+  },
+  {
     "VIN": "3TMCZ5AN6PM651764",
     "Stock Number": "PM651764",
     "Year": 2023,
@@ -55082,7 +55122,7 @@
     "Delivery ETA To": "2023-11-29"
   },
   {
-    "VIN": "3TMCZ5AN6PM652297",
+    "VIN": "3TMCZ5AN2PM653690",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR",
@@ -55098,8 +55138,8 @@
     "Mark Up": -2027.1100000000006,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-30",
-    "Delivery ETA To": "2023-12-07"
+    "Delivery ETA From": "2023-11-20",
+    "Delivery ETA To": "2023-12-10"
   },
   {
     "VIN": "3TMCZ5AN4PM653688",
@@ -55140,26 +55180,6 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-17",
     "Delivery ETA To": "2023-12-07"
-  },
-  {
-    "VIN": "3TMCZ5AN2PM653690",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Fox Toyota",
-    "Base MSRP": 34865,
-    "Total MSRP": 36947,
-    "Advertized Price": 34919.89,
-    "Mark Up": -2027.1100000000006,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-20",
-    "Delivery ETA To": "2023-12-10"
   },
   {
     "VIN": "3TMCZ5AN3PM639541",
@@ -56232,7 +56252,7 @@
     "Delivery ETA To": "2024-01-13T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN3PM638826",
+    "VIN": "3TYCZ5AN4PT174286",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
@@ -56248,8 +56268,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
+    "Delivery ETA From": "2024-01-08T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-13T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN6PM638822",
@@ -56272,7 +56292,7 @@
     "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN4PT174286",
+    "VIN": "3TMCZ5AN3PM638826",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
@@ -56288,8 +56308,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-08T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-13T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN7PM640367",
@@ -56572,26 +56592,6 @@
     "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN4PT176829",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Beaver Toyota of Cumming",
-    "Base MSRP": 38055,
-    "Total MSRP": 43372,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black with Red Accent Stitching Fabric",
-    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
-    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN5PT179349",
     "Stock Number": null,
     "Year": 2023,
@@ -56612,7 +56612,7 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN6PT178825",
+    "VIN": "3TYCZ5AN8PT176171",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
@@ -56632,12 +56632,32 @@
     "Delivery ETA To": "2023-12-12T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN8PT176171",
+    "VIN": "3TYCZ5AN4PT176829",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
     "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Beaver Toyota of Cumming",
+    "Base MSRP": 38055,
+    "Total MSRP": 43372,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Black with Red Accent Stitching Fabric",
+    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
+    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN6PT178825",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
     "Pre-Sold": false,
     "Hold Status": "Available",
     "Temp VIN": false,
@@ -57019,7 +57039,7 @@
     "Description": "Tundra Limited 4x4 HV CrewMax 5.5-Ft. Bed",
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
-    "Hold Status": "DealerHold",
+    "Hold Status": "Available",
     "Temp VIN": false,
     "Dealer": "Beaver Toyota of Cumming",
     "Base MSRP": 60625,
@@ -57392,6 +57412,24 @@
     "Delivery ETA To": "2023-12-08"
   },
   {
+    "VIN": "3TMCZ5AN1PM644320",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": "DealerHold",
+    "Temp VIN": false,
+    "Dealer": "Mann Toyota",
+    "Base MSRP": 34865,
+    "Total MSRP": 36618,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric"
+  },
+  {
     "VIN": "3TMCZ5AN9PM638071",
     "Stock Number": "91231",
     "Year": 2023,
@@ -57410,24 +57448,6 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-29",
     "Delivery ETA To": "2023-11-30"
-  },
-  {
-    "VIN": "3TMCZ5AN1PM644320",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": "DealerHold",
-    "Temp VIN": false,
-    "Dealer": "Mann Toyota",
-    "Base MSRP": 34865,
-    "Total MSRP": 36618,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric"
   },
   {
     "VIN": "3TMCZ5AN7PM647450",
@@ -57724,26 +57744,6 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
-  },
-  {
-    "VIN": "3TMAZ5CN7PM216465",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Pecheles Ford Toyota",
-    "Base MSRP": 36765,
-    "Total MSRP": 40395,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Cement/Black Fabric",
     "Delivery ETA From": "2023-12-05T00:00:00.000Z",
     "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
@@ -58130,24 +58130,6 @@
     "Interior Color": "Cement Gray Fabric"
   },
   {
-    "VIN": "3TYSX5EN8PT021888",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Thornhill Toyota",
-    "Base MSRP": 31675,
-    "Total MSRP": 34007,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric"
-  },
-  {
     "VIN": "3TYSX5EN1PT021683",
     "Stock Number": null,
     "Year": 2023,
@@ -58181,6 +58163,24 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Cement Gray Fabric"
+  },
+  {
+    "VIN": "3TYSX5EN8PT021888",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Thornhill Toyota",
+    "Base MSRP": 31675,
+    "Total MSRP": 34007,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric"
   },
   {
@@ -58382,26 +58382,6 @@
     "Delivery ETA To": "2023-11-27"
   },
   {
-    "VIN": "3TMCZ5AN7PM648078",
-    "Stock Number": "23T1309",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Thornhill Toyota",
-    "Base MSRP": 34865,
-    "Total MSRP": 36868,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-28",
-    "Delivery ETA To": "2023-11-29"
-  },
-  {
     "VIN": "3TMCZ5AN3PM643640",
     "Stock Number": "23T1294",
     "Year": 2023,
@@ -58420,6 +58400,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-24",
     "Delivery ETA To": "2023-11-27"
+  },
+  {
+    "VIN": "3TMCZ5AN7PM648078",
+    "Stock Number": "23T1309",
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Thornhill Toyota",
+    "Base MSRP": 34865,
+    "Total MSRP": 36868,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-11-28",
+    "Delivery ETA To": "2023-11-29"
   },
   {
     "VIN": "3TMCZ5AN8PM644847",
@@ -58482,26 +58482,6 @@
     "Delivery ETA To": "2023-11-16"
   },
   {
-    "VIN": "3TMCZ5AN3PM648062",
-    "Stock Number": "23T1307",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Thornhill Toyota",
-    "Base MSRP": 34865,
-    "Total MSRP": 36868,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-28",
-    "Delivery ETA To": "2023-11-29"
-  },
-  {
     "VIN": "3TMCZ5ANXPM642517",
     "Stock Number": "23T1295",
     "Year": 2023,
@@ -58510,26 +58490,6 @@
     "Shipping Status": "At dealer (G)",
     "Pre-Sold": false,
     "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Thornhill Toyota",
-    "Base MSRP": 34865,
-    "Total MSRP": 36868,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-24",
-    "Delivery ETA To": "2023-11-27"
-  },
-  {
-    "VIN": "3TMCZ5AN3PM643024",
-    "Stock Number": "23T1293",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "DealerHold",
     "Temp VIN": false,
     "Dealer": "Thornhill Toyota",
     "Base MSRP": 34865,
@@ -58562,6 +58522,26 @@
     "Delivery ETA To": "2023-11-29"
   },
   {
+    "VIN": "3TMCZ5AN3PM648062",
+    "Stock Number": "23T1307",
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Thornhill Toyota",
+    "Base MSRP": 34865,
+    "Total MSRP": 36868,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-11-28",
+    "Delivery ETA To": "2023-11-29"
+  },
+  {
     "VIN": "3TMCZ5AN8PM650583",
     "Stock Number": "23T1296",
     "Year": 2023,
@@ -58580,6 +58560,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-24",
     "Delivery ETA To": "2023-11-27"
+  },
+  {
+    "VIN": "3TMCZ5AN5PM652436",
+    "Stock Number": "23T1318",
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Thornhill Toyota",
+    "Base MSRP": 34865,
+    "Total MSRP": 36868,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-11-28",
+    "Delivery ETA To": "2023-11-29"
   },
   {
     "VIN": "3TMCZ5AN5PM650024",
@@ -58617,26 +58617,6 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-28",
-    "Delivery ETA To": "2023-11-29"
-  },
-  {
-    "VIN": "3TMCZ5AN5PM652436",
-    "Stock Number": "23T1318",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Thornhill Toyota",
-    "Base MSRP": 34865,
-    "Total MSRP": 36868,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-28",
     "Delivery ETA To": "2023-11-29"
@@ -59074,6 +59054,24 @@
     "Delivery ETA To": "2023-12-11"
   },
   {
+    "VIN": "3TMCZ5AN5PM654204",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma TRD Off-Road",
+    "Description": "Tacoma TRD Off-Road 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Thornhill Toyota",
+    "Base MSRP": 39755,
+    "Total MSRP": 44291,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Blue Crush Metallic",
+    "Interior Color": "Cement/Black Fabric"
+  },
+  {
     "VIN": "3TMCZ5AN9PM654612",
     "Stock Number": null,
     "Year": 2023,
@@ -59092,24 +59090,6 @@
     "Interior Color": "Cement/Black Fabric",
     "Delivery ETA From": "2023-12-06",
     "Delivery ETA To": "2023-12-26"
-  },
-  {
-    "VIN": "3TMCZ5AN5PM654204",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma TRD Off-Road",
-    "Description": "Tacoma TRD Off-Road 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Thornhill Toyota",
-    "Base MSRP": 39755,
-    "Total MSRP": 44291,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Cement/Black Fabric"
   },
   {
     "VIN": "3TMCZ5AN9PM652343",
@@ -59133,7 +59113,7 @@
   },
   {
     "VIN": "3TMCZ5AN6PM636634",
-    "Stock Number": null,
+    "Stock Number": "23T1321",
     "Year": 2023,
     "Trim": "Tacoma TRD Sport",
     "Description": "Tacoma TRD Sport 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
@@ -59366,8 +59346,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN2PM655231",
@@ -60246,8 +60226,8 @@
     "Mark Up": 0,
     "Exterior Color": "Wind Chill Pearl [extra_cost_color]",
     "Interior Color": "Saddle Tan Leather-trimmed",
-    "Delivery ETA From": "2023-12-20T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-25T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-19T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-24T00:00:00.000Z"
   },
   {
     "VIN": "5TFPC5DB2RX48F412",
@@ -61190,26 +61170,6 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN3PT177969",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Toyota of New Bern",
-    "Base MSRP": 38055,
-    "Total MSRP": 42044,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
-    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN8PT173643",
     "Stock Number": null,
     "Year": 2023,
@@ -61228,6 +61188,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-06T00:00:00.000Z",
     "Delivery ETA To": "2023-12-11T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN3PT177969",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Toyota of New Bern",
+    "Base MSRP": 38055,
+    "Total MSRP": 42044,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Blue Crush Metallic",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
+    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN7PT177831",
@@ -61286,8 +61266,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-06T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-11T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
     "VIN": "3TMEZ5CN2PM219968",
@@ -61730,26 +61710,6 @@
     "Delivery ETA To": "2023-11-22T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN8PM218063",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Chatham Parkway Toyota",
-    "Base MSRP": 34980,
-    "Total MSRP": 38969,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-22T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-27T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMAZ5CN1PM217966",
     "Stock Number": null,
     "Year": 2023,
@@ -61768,6 +61728,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2024-01-01T00:00:00.000Z",
     "Delivery ETA To": "2024-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMAZ5CN8PM218063",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Chatham Parkway Toyota",
+    "Base MSRP": 34980,
+    "Total MSRP": 38969,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-22T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-27T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN8PM216216",
@@ -62170,7 +62150,7 @@
     "Delivery ETA To": "2023-11-25T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN3PM649969",
+    "VIN": "3TMCZ5AN1PM651672",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR",
@@ -62190,7 +62170,7 @@
     "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN1PM651672",
+    "VIN": "3TMCZ5AN3PM649969",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR",
@@ -62388,26 +62368,6 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
-  },
-  {
-    "VIN": "3TMCZ5AN8PM638577",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma TRD Off-Road",
-    "Description": "Tacoma TRD Off-Road 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Nalley Toyota Stonecrest",
-    "Base MSRP": 39755,
-    "Total MSRP": 45585,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement/Black Fabric",
-    "Delivery ETA From": "2023-12-18T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-23T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN1PM636444",
@@ -63275,7 +63235,7 @@
     "Year": 2024,
     "Trim": "Tundra 1794 Edition",
     "Description": "Tundra 1794 Edition 4x2 HV CrewMax 5.5-Ft. Bed",
-    "Shipping Status": "Allocated (A)",
+    "Shipping Status": "At dealer (G)",
     "Pre-Sold": false,
     "Hold Status": "Available",
     "Temp VIN": false,
@@ -63646,8 +63606,8 @@
     "Mark Up": 0,
     "Exterior Color": "Magnetic Gray Metallic",
     "Interior Color": "Hickory SofTex",
-    "Delivery ETA From": "2024-01-09T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-14T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-11T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-16T00:00:00.000Z"
   },
   {
     "VIN": "5TFJC5AB9RX46I231",
@@ -63728,6 +63688,26 @@
     "Interior Color": "Black Leather-trimmed",
     "Delivery ETA From": "2024-01-05T00:00:00.000Z",
     "Delivery ETA To": "2024-01-10T00:00:00.000Z"
+  },
+  {
+    "VIN": "5TFMC5DB8RX47D056",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tundra 1794 Edition",
+    "Description": "Tundra 1794 Edition 4x4 HV CrewMax 5.5-Ft. Bed",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Pitts Toyota",
+    "Base MSRP": 69405,
+    "Total MSRP": 76852,
+    "Advertized Price": 74352,
+    "Mark Up": -2500,
+    "Exterior Color": "Smoked Mesquite",
+    "Interior Color": "Rich Cream Leather-trimmed",
+    "Delivery ETA From": "2024-02-05T00:00:00.000Z",
+    "Delivery ETA To": "2024-02-10T00:00:00.000Z"
   },
   {
     "VIN": "5TFMC5DB8RX47D056",
@@ -63888,26 +63868,6 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-08T00:00:00.000Z",
     "Delivery ETA To": "2023-12-13T00:00:00.000Z"
-  },
-  {
-    "VIN": "3TYAZ5CN0PT039195",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "World Toyota",
-    "Base MSRP": 34980,
-    "Total MSRP": 38429,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-14T00:00:00.000Z",
-    "Delivery ETA To": "2023-11-19T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN3PM220562",
@@ -64730,26 +64690,6 @@
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN2PM647582",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Savannah Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 42953,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-01T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-06T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN1PT174696",
     "Stock Number": null,
     "Year": 2023,
@@ -64768,6 +64708,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMCZ5AN2PM647582",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Savannah Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 42953,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2024-01-01T00:00:00.000Z",
+    "Delivery ETA To": "2024-01-06T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN5PT179139",
@@ -65111,7 +65071,7 @@
   },
   {
     "VIN": "3TMCZ5ANXPM651315",
-    "Stock Number": null,
+    "Stock Number": "231883",
     "Year": 2023,
     "Trim": "Tacoma SR",
     "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
@@ -65530,26 +65490,6 @@
     "Delivery ETA To": "2024-01-13T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN9PT173635",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Cherokee County Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 42255,
-    "Advertized Price": 42255,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN3PT173257",
     "Stock Number": null,
     "Year": 2023,
@@ -65568,6 +65508,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2024-01-08T00:00:00.000Z",
     "Delivery ETA To": "2024-01-13T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN9PT173635",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Cherokee County Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 42255,
+    "Advertized Price": 42255,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5ANXPT173272",
@@ -66526,8 +66486,8 @@
     "Mark Up": -997,
     "Exterior Color": "Black",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "3TMCZ5AN3PM654492",
@@ -67574,8 +67534,8 @@
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
     "Interior Color": "Cement/Black Fabric",
-    "Delivery ETA From": "2023-12-06T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-11T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN7PT174881",
@@ -67736,26 +67696,6 @@
     "Interior Color": "Hickory SofTex",
     "Delivery ETA From": "2024-01-01T00:00:00.000Z",
     "Delivery ETA To": "2024-01-06T00:00:00.000Z"
-  },
-  {
-    "VIN": "3TYGZ5AN8PT173207",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma Limited",
-    "Description": "Tacoma Limited 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Butler Toyota",
-    "Base MSRP": 44430,
-    "Total MSRP": 49895,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Hickory SofTex",
-    "Delivery ETA From": "2024-01-09T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-14T00:00:00.000Z"
   },
   {
     "VIN": "5TFJC5DB2RX46I308",
@@ -68307,7 +68247,7 @@
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
     "Shipping Status": "In transit (F)",
     "Pre-Sold": false,
-    "Hold Status": null,
+    "Hold Status": "DealerHold",
     "Temp VIN": false,
     "Dealer": "Ball Toyota of Charleston",
     "Base MSRP": 38055,
@@ -68360,8 +68300,8 @@
     "Delivery ETA To": "2023-12-07"
   },
   {
-    "VIN": "3TYDZ5BN2PT036653",
-    "Stock Number": "6097",
+    "VIN": "3TYDZ5BN0PT037087",
+    "Stock Number": "6098",
     "Year": 2023,
     "Trim": "Tacoma TRD Sport",
     "Description": "Tacoma TRD Sport 3.5L V6 engine AT 4x4 6-ft. bed Double Cab",
@@ -68396,8 +68336,8 @@
     "Interior Color": "Cement/Black Fabric"
   },
   {
-    "VIN": "3TYDZ5BN0PT037087",
-    "Stock Number": "6098",
+    "VIN": "3TYDZ5BN2PT036653",
+    "Stock Number": "6097",
     "Year": 2023,
     "Trim": "Tacoma TRD Sport",
     "Description": "Tacoma TRD Sport 3.5L V6 engine AT 4x4 6-ft. bed Double Cab",
@@ -68610,26 +68550,6 @@
     "Delivery ETA To": "2023-11-29T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN2PM647954",
-    "Stock Number": "TS647954",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Jim Ellis Toyota of McDonough",
-    "Base MSRP": 38055,
-    "Total MSRP": 42293,
-    "Advertized Price": 40906.56,
-    "Mark Up": -1386.4400000000023,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-27T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-02T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN0PT176567",
     "Stock Number": null,
     "Year": 2023,
@@ -68670,8 +68590,8 @@
     "Delivery ETA To": "2023-12-02T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN8PM651121",
-    "Stock Number": "TS651121",
+    "VIN": "3TMCZ5AN2PM647954",
+    "Stock Number": "TS647954",
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
@@ -68684,10 +68604,30 @@
     "Total MSRP": 42293,
     "Advertized Price": 40906.56,
     "Mark Up": -1386.4400000000023,
-    "Exterior Color": "Black",
+    "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-22T00:00:00.000Z",
-    "Delivery ETA To": "2023-11-27T00:00:00.000Z"
+    "Delivery ETA From": "2023-11-27T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-02T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN3PT174313",
+    "Stock Number": "TS174313",
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Jim Ellis Toyota of McDonough",
+    "Base MSRP": 38055,
+    "Total MSRP": 42293,
+    "Advertized Price": 40906.56,
+    "Mark Up": -1386.4400000000023,
+    "Exterior Color": "Barcelona Red Metallic",
+    "Interior Color": "Black with Red Accent Stitching Fabric",
+    "Delivery ETA From": "2023-11-02T00:00:00.000Z",
+    "Delivery ETA To": "2023-11-07T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN2PT174657",
@@ -68710,8 +68650,8 @@
     "Delivery ETA To": "2023-11-20T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN3PT174313",
-    "Stock Number": "TS174313",
+    "VIN": "3TMCZ5AN8PM651121",
+    "Stock Number": "TS651121",
     "Year": 2023,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
@@ -68724,10 +68664,10 @@
     "Total MSRP": 42293,
     "Advertized Price": 40906.56,
     "Mark Up": -1386.4400000000023,
-    "Exterior Color": "Barcelona Red Metallic",
-    "Interior Color": "Black with Red Accent Stitching Fabric",
-    "Delivery ETA From": "2023-11-02T00:00:00.000Z",
-    "Delivery ETA To": "2023-11-07T00:00:00.000Z"
+    "Exterior Color": "Black",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-11-22T00:00:00.000Z",
+    "Delivery ETA To": "2023-11-27T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN9PM220145",
@@ -68910,26 +68850,6 @@
     "Delivery ETA To": "2023-12-05T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN2PM218804",
-    "Stock Number": "PM218804",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Marietta Toyota",
-    "Base MSRP": 34980,
-    "Total MSRP": 41439,
-    "Advertized Price": 41439,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-28T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-03T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMAZ5CN4PM218805",
     "Stock Number": "PM218805",
     "Year": 2023,
@@ -68948,6 +68868,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-26T00:00:00.000Z",
     "Delivery ETA To": "2023-12-01T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMAZ5CN2PM218804",
+    "Stock Number": "PM218804",
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Marietta Toyota",
+    "Base MSRP": 34980,
+    "Total MSRP": 41439,
+    "Advertized Price": 41439,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-11-28T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-03T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN6PM218966",
@@ -69430,7 +69370,7 @@
     "Delivery ETA To": "2023-12-16T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN2PM653608",
+    "VIN": "3TMCZ5AN7PM654477",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
@@ -69450,7 +69390,7 @@
     "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
-    "VIN": "3TMCZ5AN7PM654477",
+    "VIN": "3TMCZ5AN2PM653608",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR5",
@@ -69546,8 +69486,8 @@
     "Mark Up": 0,
     "Exterior Color": "Magnetic Gray Metallic",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2023-12-07T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-12T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
     "VIN": "3TYGZ5ANXPT177789",
@@ -69850,26 +69790,6 @@
     "Delivery ETA To": "2023-12-05T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN0PM219160",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Cobb County Toyota",
-    "Base MSRP": 34980,
-    "Total MSRP": 39100,
-    "Advertized Price": 39100,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMAZ5CN2PM220438",
     "Stock Number": null,
     "Year": 2023,
@@ -69888,6 +69808,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-12-11T00:00:00.000Z",
     "Delivery ETA To": "2023-12-16T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMAZ5CN0PM219160",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Cobb County Toyota",
+    "Base MSRP": 34980,
+    "Total MSRP": 39100,
+    "Advertized Price": 39100,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN9PM220372",
@@ -70210,26 +70150,6 @@
     "Delivery ETA To": "2023-12-06T00:00:00.000Z"
   },
   {
-    "VIN": "3TYCZ5AN1PT177906",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Cobb County Toyota",
-    "Base MSRP": 38055,
-    "Total MSRP": 42574,
-    "Advertized Price": 42574,
-    "Mark Up": 0,
-    "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
-    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
-  },
-  {
     "VIN": "3TYCZ5AN1PT178330",
     "Stock Number": null,
     "Year": 2023,
@@ -70245,6 +70165,26 @@
     "Advertized Price": 42574,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "1900-01-01T00:00:00.000Z",
+    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TYCZ5AN1PT177906",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Cobb County Toyota",
+    "Base MSRP": 38055,
+    "Total MSRP": 42574,
+    "Advertized Price": 42574,
+    "Mark Up": 0,
+    "Exterior Color": "Blue Crush Metallic",
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
@@ -70266,8 +70206,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black with Red Accent Stitching Fabric",
-    "Delivery ETA From": "2023-12-06T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-11T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN4PT178337",
@@ -70326,8 +70266,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2024-01-08T00:00:00.000Z",
-    "Delivery ETA To": "2024-01-13T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "3TYCZ5AN7PT175240",
@@ -71546,6 +71486,42 @@
     "Delivery ETA To": "2023-11-12"
   },
   {
+    "VIN": "3TYSX5EN9PT022242",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Moses Toyota",
+    "Base MSRP": 31675,
+    "Total MSRP": 33877,
+    "Advertized Price": 32877,
+    "Mark Up": -1000,
+    "Exterior Color": "Magnetic Gray Metallic",
+    "Interior Color": "Cement Gray Fabric"
+  },
+  {
+    "VIN": "3TYSX5EN6PT022294",
+    "Stock Number": null,
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Moses Toyota",
+    "Base MSRP": 31675,
+    "Total MSRP": 33877,
+    "Advertized Price": 32877,
+    "Mark Up": -1000,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric"
+  },
+  {
     "VIN": "3TYSX5ENXPT022024",
     "Stock Number": "TT300825",
     "Year": 2023,
@@ -71584,42 +71560,6 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-22",
     "Delivery ETA To": "2023-11-24"
-  },
-  {
-    "VIN": "3TYSX5EN9PT022242",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Moses Toyota",
-    "Base MSRP": 31675,
-    "Total MSRP": 33877,
-    "Advertized Price": 32877,
-    "Mark Up": -1000,
-    "Exterior Color": "Magnetic Gray Metallic",
-    "Interior Color": "Cement Gray Fabric"
-  },
-  {
-    "VIN": "3TYSX5EN6PT022294",
-    "Stock Number": null,
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Moses Toyota",
-    "Base MSRP": 31675,
-    "Total MSRP": 33877,
-    "Advertized Price": 32877,
-    "Mark Up": -1000,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric"
   },
   {
     "VIN": "3TYSX5EN9PT021950",
@@ -72490,26 +72430,6 @@
     "Delivery ETA To": "2023-12-28"
   },
   {
-    "VIN": "3TMCZ5AN0PM646334",
-    "Stock Number": "H72173",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Haley Toyota of Richmond",
-    "Base MSRP": 34865,
-    "Total MSRP": 36907,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-12-01",
-    "Delivery ETA To": "2024-01-03"
-  },
-  {
     "VIN": "3TMCZ5AN9PM652875",
     "Stock Number": "H72127",
     "Year": 2023,
@@ -72528,6 +72448,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-26",
     "Delivery ETA To": "2023-12-28"
+  },
+  {
+    "VIN": "3TMCZ5AN0PM646334",
+    "Stock Number": "H72173",
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 3.5L V6 engine AT 4x4 5-ft. bed Double Cab",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Haley Toyota of Richmond",
+    "Base MSRP": 34865,
+    "Total MSRP": 36907,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-12-01",
+    "Delivery ETA To": "2024-01-03"
   },
   {
     "VIN": "3TYCZ5AN3PT172707",
@@ -73291,7 +73231,7 @@
     "Exterior Color": "Magnetic Gray Metallic",
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-30",
-    "Delivery ETA To": "2023-12-02"
+    "Delivery ETA To": "2023-12-01"
   },
   {
     "VIN": "3TMCZ5AN8PM643648",
@@ -73876,7 +73816,7 @@
     "Interior Color": "Cement Gray Fabric"
   },
   {
-    "VIN": "3TYSX5EN3PT022494",
+    "VIN": "3TYSX5EN3PT022768",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR",
@@ -73894,7 +73834,7 @@
     "Interior Color": "Cement Gray Fabric"
   },
   {
-    "VIN": "3TYSX5EN3PT022768",
+    "VIN": "3TYSX5EN3PT022494",
     "Stock Number": null,
     "Year": 2023,
     "Trim": "Tacoma SR",
@@ -75344,26 +75284,6 @@
     "Delivery ETA To": "2023-10-28T00:00:00.000Z"
   },
   {
-    "VIN": "3TMAZ5CN4PM217394",
-    "Stock Number": "PM217394",
-    "Year": 2023,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "AutoNation Toyota Thornton Road",
-    "Base MSRP": 34980,
-    "Total MSRP": 39231,
-    "Advertized Price": 38017.06,
-    "Mark Up": -1213.9400000000023,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-07T00:00:00.000Z",
-    "Delivery ETA To": "2023-11-12T00:00:00.000Z"
-  },
-  {
     "VIN": "3TMAZ5CN3PM217385",
     "Stock Number": "PM217385",
     "Year": 2023,
@@ -75382,6 +75302,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-26T00:00:00.000Z",
     "Delivery ETA To": "2023-12-01T00:00:00.000Z"
+  },
+  {
+    "VIN": "3TMAZ5CN4PM217394",
+    "Stock Number": "PM217394",
+    "Year": 2023,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 3.5L V6 engine AT 4x2 5-ft. bed Double Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "AutoNation Toyota Thornton Road",
+    "Base MSRP": 34980,
+    "Total MSRP": 39231,
+    "Advertized Price": 38017.06,
+    "Mark Up": -1213.9400000000023,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-11-07T00:00:00.000Z",
+    "Delivery ETA To": "2023-11-12T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN2PM215188",
@@ -75922,24 +75862,6 @@
     "Delivery ETA To": "2023-11-29"
   },
   {
-    "VIN": "3TYSX5EN7PT022207",
-    "Stock Number": "28123",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Advantage Toyota",
-    "Base MSRP": 31675,
-    "Total MSRP": 33877,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric"
-  },
-  {
     "VIN": "3TYSX5EN5PT022223",
     "Stock Number": "28130",
     "Year": 2023,
@@ -75955,6 +75877,24 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Magnetic Gray Metallic",
+    "Interior Color": "Cement Gray Fabric"
+  },
+  {
+    "VIN": "3TYSX5EN7PT022207",
+    "Stock Number": "28123",
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Advantage Toyota",
+    "Base MSRP": 31675,
+    "Total MSRP": 33877,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
     "Interior Color": "Cement Gray Fabric"
   },
   {
@@ -76012,6 +75952,24 @@
     "Interior Color": "Cement Gray Fabric"
   },
   {
+    "VIN": "3TYSX5EN4PT022438",
+    "Stock Number": "28127",
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Advantage Toyota",
+    "Base MSRP": 31675,
+    "Total MSRP": 33987,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Magnetic Gray Metallic",
+    "Interior Color": "Cement Gray Fabric"
+  },
+  {
     "VIN": "3TYSX5EN8PT022572",
     "Stock Number": "28131",
     "Year": 2023,
@@ -76045,24 +76003,6 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Cement Gray Fabric"
-  },
-  {
-    "VIN": "3TYSX5EN4PT022438",
-    "Stock Number": "28127",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Advantage Toyota",
-    "Base MSRP": 31675,
-    "Total MSRP": 33987,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Magnetic Gray Metallic",
     "Interior Color": "Cement Gray Fabric"
   },
   {
@@ -76160,24 +76100,6 @@
     "Interior Color": "Cement Gray Fabric"
   },
   {
-    "VIN": "3TYSX5EN8PT021437",
-    "Stock Number": "28133",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Advantage Toyota",
-    "Base MSRP": 31675,
-    "Total MSRP": 34555,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Cement Gray Fabric"
-  },
-  {
     "VIN": "3TYSX5EN3PT021250",
     "Stock Number": "28126",
     "Year": 2023,
@@ -76193,6 +76115,24 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Magnetic Gray Metallic",
+    "Interior Color": "Cement Gray Fabric"
+  },
+  {
+    "VIN": "3TYSX5EN8PT021437",
+    "Stock Number": "28133",
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Advantage Toyota",
+    "Base MSRP": 31675,
+    "Total MSRP": 34555,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Cement Gray Fabric"
   },
   {
@@ -76216,26 +76156,6 @@
     "Delivery ETA To": "2023-12-23"
   },
   {
-    "VIN": "3TYSX5EN7PT021249",
-    "Stock Number": "27986",
-    "Year": 2023,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Advantage Toyota",
-    "Base MSRP": 31675,
-    "Total MSRP": 34555,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Magnetic Gray Metallic",
-    "Interior Color": "Cement Gray Fabric",
-    "Delivery ETA From": "2023-11-29",
-    "Delivery ETA To": "2023-12-01"
-  },
-  {
     "VIN": "3TYSX5EN7PT021817",
     "Stock Number": "27987",
     "Year": 2023,
@@ -76254,6 +76174,26 @@
     "Interior Color": "Cement Gray Fabric",
     "Delivery ETA From": "2023-11-25",
     "Delivery ETA To": "2023-11-29"
+  },
+  {
+    "VIN": "3TYSX5EN7PT021249",
+    "Stock Number": "27986",
+    "Year": 2023,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Advantage Toyota",
+    "Base MSRP": 31675,
+    "Total MSRP": 34555,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Magnetic Gray Metallic",
+    "Interior Color": "Cement Gray Fabric",
+    "Delivery ETA From": "2023-11-29",
+    "Delivery ETA To": "2023-12-01"
   },
   {
     "VIN": "3TMCZ5AN7PM650400",
@@ -77654,8 +77594,8 @@
     "Mark Up": 0,
     "Exterior Color": "Magnetic Gray Metallic",
     "Interior Color": "Black with Red Accent Stitching Fabric",
-    "Delivery ETA From": "2023-12-06T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-11T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN1PM219958",
@@ -77694,8 +77634,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Cement/Black Fabric",
-    "Delivery ETA From": "2023-12-05T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-10T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-04T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-09T00:00:00.000Z"
   },
   {
     "VIN": "3TMAZ5CN7PM218958",
@@ -78834,8 +78774,8 @@
     "Mark Up": 0,
     "Exterior Color": "Wind Chill Pearl [extra_cost_color]",
     "Interior Color": "Black Leather-trimmed",
-    "Delivery ETA From": "2023-12-12T00:00:00.000Z",
-    "Delivery ETA To": "2023-12-17T00:00:00.000Z"
+    "Delivery ETA From": "2023-12-08T00:00:00.000Z",
+    "Delivery ETA To": "2023-12-13T00:00:00.000Z"
   },
   {
     "VIN": "5TFNC5DB7RX050131",
@@ -79190,8 +79130,8 @@
     "Interior Color": "Cement Gray Fabric"
   },
   {
-    "VIN": "3TYSX5EN2PT022440",
-    "Stock Number": "PT022440",
+    "VIN": "3TYSX5EN3PT022513",
+    "Stock Number": "PT022513",
     "Year": 2023,
     "Trim": "Tacoma SR",
     "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
@@ -79208,8 +79148,8 @@
     "Interior Color": "Cement Gray Fabric"
   },
   {
-    "VIN": "3TYSX5EN3PT022513",
-    "Stock Number": "PT022513",
+    "VIN": "3TYSX5EN2PT022440",
+    "Stock Number": "PT022440",
     "Year": 2023,
     "Trim": "Tacoma SR",
     "Description": "Tacoma SR 2.7L 4-cyl. engine AT 4x4 6-ft. bed Access Cab",
