@@ -159,7 +159,7 @@ async function run() {
         pageNo: page,
         pageSize: 100,
         seriesCodes: 'tacoma,tacomahybrid',
-        distance: 1000,
+        distance: 2000,
         year: 2024,
       },
       headers 
