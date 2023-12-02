@@ -140,38 +140,42 @@ function sleep(ms: number) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+const zipCodes = ["28270", "75201", "90274"];
+
 async function run() {
   const headers = await getHeaders();
 
-  let page = 1;
-  let pages = 1;
-
   let vehicles: VehicleSummary[] = [];
 
-  do {
-    console.log(`Page ${page}/${pages}`);
-    const result = await request<LocateVehiclesByZipResponse>(
-      "https://api.search-inventory.toyota.com/graphql",
-      INVENTORY_QUERY,
-      {
-        zipCode: "28270",
-        brand: "TOYOTA",
-        pageNo: page,
-        pageSize: 100,
-        seriesCodes: 'tacoma,tacomahybrid',
-        distance: 2000,
-        year: 2024,
-      },
-      headers 
-    );
+  for (const zipCode of zipCodes) {
+    let page = 1;
+    let pages = 1;
 
-    vehicles = vehicles.concat(result.locateVehiclesByZip.vehicleSummary);
-    
-    pages = result.locateVehiclesByZip.pagination.totalPages;
-    page++;
+    do {
+      console.log(`Zip Code ${zipCode} | Page ${page}/${pages}`);
+      const result = await request<LocateVehiclesByZipResponse>(
+        "https://api.search-inventory.toyota.com/graphql",
+        INVENTORY_QUERY,
+        {
+          zipCode: zipCode,
+          brand: "TOYOTA",
+          pageNo: page,
+          pageSize: 100,
+          seriesCodes: 'tacoma,tacomahybrid',
+          distance: 2000,
+          year: 2024,
+        },
+        headers 
+      );
 
-    await sleep(5000);
-  } while (page <= pages)
+      vehicles = vehicles.concat(result.locateVehiclesByZip.vehicleSummary);
+
+      pages = result.locateVehiclesByZip.pagination.totalPages;
+      page++;
+
+      await sleep(5000);
+    } while (page <= pages)
+  }
 
   const data = vehicles.map((v) => ({
     VIN: v.vin,
@@ -196,7 +200,12 @@ async function run() {
     "Delivery ETA To": v.eta?.currToDate,
   }));
 
-  const filteredData = data.filter(d => d.Year >= 2024);
+  const filteredData = data.reduce<typeof data>((acc, truck) => {
+    if (truck.Year >= 2024 && !acc.some(t => t.VIN === truck.VIN)) {
+      acc.push(truck);
+    }
+    return acc;
+  }, []);
 
   await writeFile("data.json", JSON.stringify(filteredData, null, 2));
 }
