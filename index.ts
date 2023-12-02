@@ -29,8 +29,8 @@ async function getHeaders() {
 
 
 const INVENTORY_QUERY = gql`
-  query LocateVehiclesByZip($zipCode: String, $brand: String, $pageNo: Int, $pageSize: Int, $seriesCodes: String, $distance: Int) {
-    locateVehiclesByZip(zipCode: $zipCode, brand: $brand, pageNo: $pageNo, pageSize: $pageSize, seriesCodes: $seriesCodes, distance: $distance) {
+  query LocateVehiclesByZip($zipCode: String, $brand: String, $pageNo: Int, $pageSize: Int, $seriesCodes: String, $distance: Int, $year: Int) {
+    locateVehiclesByZip(zipCode: $zipCode, brand: $brand, pageNo: $pageNo, pageSize: $pageSize, seriesCodes: $seriesCodes, distance: $distance, year: $year) {
       pagination {
         pageNo
         pageSize
@@ -143,8 +143,6 @@ function sleep(ms: number) {
 async function run() {
   const headers = await getHeaders();
 
-  console.log("Got headers", headers);
-
   let page = 1;
   let pages = 1;
 
@@ -160,8 +158,9 @@ async function run() {
         brand: "TOYOTA",
         pageNo: page,
         pageSize: 100,
-        seriesCodes: 'tundrahybrid,tacoma,tacomahybrid',
-        distance: 500,
+        seriesCodes: 'tacoma,tacomahybrid',
+        distance: 700,
+        year: 2024,
       },
       headers 
     );
@@ -174,12 +173,13 @@ async function run() {
     await sleep(5000);
   } while (page <= pages)
 
-  const final = vehicles.map((v) => ({
+  const data = vehicles.map((v) => ({
     VIN: v.vin,
     "Stock Number": v.stockNum,
     Year: v.year,
     Trim: v.model.marketingName,
     Description: v.model.marketingTitle,
+    Series: v.marketingSeries,
     "Shipping Status": getShippingStatus(v.dealerCategory),
     'Pre-Sold': v.isPreSold,
     'Hold Status': v.holdStatus,
@@ -195,8 +195,7 @@ async function run() {
     "Delivery ETA To": v.eta?.currToDate,
   }));
 
-  await writeFile("raw.json", JSON.stringify(vehicles, null, 2));
-  await writeFile("data.json", JSON.stringify(final, null, 2));
+  await writeFile("data.json", JSON.stringify(data, null, 2));
 }
 
 run();
