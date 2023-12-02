@@ -159,7 +159,7 @@ async function run() {
         pageNo: page,
         pageSize: 100,
         seriesCodes: 'tacoma,tacomahybrid',
-        distance: 700,
+        distance: 1000,
         year: 2024,
       },
       headers 
@@ -195,7 +195,9 @@ async function run() {
     "Delivery ETA To": v.eta?.currToDate,
   }));
 
-  await writeFile("data.json", JSON.stringify(data, null, 2));
+  const filteredData = data.filter(d => d.Year >= 2024);
+
+  await writeFile("data.json", JSON.stringify(filteredData, null, 2));
 }
 
 run();
