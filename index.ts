@@ -184,7 +184,6 @@ async function run() {
     Trim: v.model.marketingName,
     Description: v.model.marketingTitle,
     Series: v.marketingSeries,
-    Distance: v.distance,
     "Shipping Status": getShippingStatus(v.dealerCategory),
     'Pre-Sold': v.isPreSold,
     'Hold Status': v.holdStatus,
