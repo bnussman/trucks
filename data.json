@@ -608,5 +608,24 @@
     "Mark Up": 1999,
     "Exterior Color": null,
     "Interior Color": null
+  },
+  {
+    "VIN": "3TYLB5JN8RT51A033",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 6-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Toyota of Bellingham",
+    "Base MSRP": 40900,
+    "Total MSRP": 45607,
+    "Advertized Price": 46306,
+    "Mark Up": 699,
+    "Exterior Color": null,
+    "Interior Color": null
   }
 ]
