@@ -471,8 +471,8 @@
     "Total MSRP": 0,
     "Advertized Price": null,
     "Mark Up": 0,
-    "Exterior Color": null,
-    "Interior Color": null,
+    "Exterior Color": "ICE CAP",
+    "Interior Color": "BOULDER",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
     "Delivery ETA To": "1900-01-06T00:00:00.000Z"
   },
@@ -1290,8 +1290,8 @@
     "Total MSRP": 50274,
     "Advertized Price": 50274,
     "Mark Up": 0,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Exterior Color": "UNDERGROUND",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILV"
   },
   {
     "VIN": "3TYLB5JN7RT49A096",
@@ -1803,8 +1803,8 @@
     "Total MSRP": 54974,
     "Advertized Price": 54974,
     "Mark Up": 0,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Exterior Color": "UNDERGROUND",
+    "Interior Color": "BLACK"
   },
   {
     "VIN": "3TYLB5JN4RT51A465",
