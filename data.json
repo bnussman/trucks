@@ -190,15 +190,15 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN2RT02B160",
+    "VIN": "3TYLB5JN1RT03B761",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
     "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
     "Series": "Tacoma",
     "Shipping Status": "Allocated (A)",
-    "Pre-Sold": true,
-    "Hold Status": "DealerHold",
+    "Pre-Sold": false,
+    "Hold Status": null,
     "Temp VIN": true,
     "Dealer": "Fox Toyota",
     "Base MSRP": 42600,
@@ -209,15 +209,15 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN1RT03B761",
+    "VIN": "3TYLB5JN2RT02B160",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
     "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
     "Series": "Tacoma",
     "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
+    "Pre-Sold": true,
+    "Hold Status": "DealerHold",
     "Temp VIN": true,
     "Dealer": "Fox Toyota",
     "Base MSRP": 42600,
@@ -5131,7 +5131,7 @@
     "Series": "Tacoma",
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
-    "Hold Status": "Available",
+    "Hold Status": "DealerHold",
     "Temp VIN": true,
     "Dealer": "Northridge Toyota",
     "Base MSRP": 36900,
@@ -5294,7 +5294,7 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN1RT03B565",
+    "VIN": "3TYLB5JN5RT02B248",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Off-Road",
@@ -5302,7 +5302,7 @@
     "Series": "Tacoma",
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
-    "Hold Status": null,
+    "Hold Status": "Available",
     "Temp VIN": true,
     "Dealer": "Toyota of Santa Maria",
     "Base MSRP": 42900,
@@ -5313,7 +5313,7 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN5RT02B248",
+    "VIN": "3TYLB5JN1RT03B565",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Off-Road",
@@ -5321,7 +5321,7 @@
     "Series": "Tacoma",
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
-    "Hold Status": "Available",
+    "Hold Status": null,
     "Temp VIN": true,
     "Dealer": "Toyota of Santa Maria",
     "Base MSRP": 42900,
@@ -5560,7 +5560,7 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN0RT03A701",
+    "VIN": "3TYLB5JN9RT03B863",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Off-Road",
@@ -5579,7 +5579,7 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN9RT03B863",
+    "VIN": "3TYLB5JN0RT03A701",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Off-Road",
