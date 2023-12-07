@@ -152,7 +152,7 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN2RT02B160",
+    "VIN": "3TYLB5JN1RT03B761",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
@@ -171,7 +171,7 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN1RT03B761",
+    "VIN": "3TYLB5JN2RT02B160",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
@@ -1209,8 +1209,8 @@
     "Temp VIN": true,
     "Dealer": "Jones Toyota",
     "Base MSRP": 36900,
-    "Total MSRP": 38395,
-    "Advertized Price": 39395,
+    "Total MSRP": 39404,
+    "Advertized Price": 40404,
     "Mark Up": 1000,
     "Exterior Color": null,
     "Interior Color": null
@@ -1266,8 +1266,8 @@
     "Temp VIN": true,
     "Dealer": "Jones Toyota",
     "Base MSRP": 52100,
-    "Total MSRP": 55169,
-    "Advertized Price": 57669,
+    "Total MSRP": 55049,
+    "Advertized Price": 57549,
     "Mark Up": 2500,
     "Exterior Color": null,
     "Interior Color": null
@@ -1363,6 +1363,25 @@
     "Base MSRP": 42600,
     "Total MSRP": 52132,
     "Advertized Price": 52132,
+    "Mark Up": 0,
+    "Exterior Color": null,
+    "Interior Color": null
+  },
+  {
+    "VIN": "3TYLB5JN1RT02B764",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma Limited",
+    "Description": "Tacoma Limited 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "DealerHold",
+    "Temp VIN": true,
+    "Dealer": "Peppers Toyota",
+    "Base MSRP": 52100,
+    "Total MSRP": 54789,
+    "Advertized Price": 54789,
     "Mark Up": 0,
     "Exterior Color": null,
     "Interior Color": null
@@ -2590,6 +2609,44 @@
     "Interior Color": null
   },
   {
+    "VIN": "3TYLB5JN1RT01A358",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "DealerHold",
+    "Temp VIN": true,
+    "Dealer": "Waite Toyota",
+    "Base MSRP": 42600,
+    "Total MSRP": 54402,
+    "Advertized Price": 54402,
+    "Mark Up": 0,
+    "Exterior Color": null,
+    "Interior Color": null
+  },
+  {
+    "VIN": "3TYLB5JN8RT03A008",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma Limited",
+    "Description": "Tacoma Limited 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "DealerHold",
+    "Temp VIN": true,
+    "Dealer": "Waite Toyota",
+    "Base MSRP": 52100,
+    "Total MSRP": 55714,
+    "Advertized Price": 55714,
+    "Mark Up": 0,
+    "Exterior Color": null,
+    "Interior Color": null
+  },
+  {
     "VIN": "3TYLB5JN1RT49A188",
     "Stock Number": null,
     "Year": 2024,
@@ -3711,6 +3768,25 @@
     "Interior Color": null
   },
   {
+    "VIN": "3TYLB5JNXRT03B029",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Off-Road",
+    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Dan Deery Toyota",
+    "Base MSRP": 42900,
+    "Total MSRP": 46054,
+    "Advertized Price": 46054,
+    "Mark Up": 0,
+    "Exterior Color": null,
+    "Interior Color": null
+  },
+  {
     "VIN": "3TYLB5JN4RT51A465",
     "Stock Number": null,
     "Year": 2024,
@@ -3777,7 +3853,7 @@
     "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
     "Series": "Tacoma",
     "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
+    "Pre-Sold": true,
     "Hold Status": null,
     "Temp VIN": true,
     "Dealer": "Toyota of Des Moines",
@@ -4012,7 +4088,7 @@
     "Series": "Tacoma",
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
-    "Hold Status": null,
+    "Hold Status": "DealerHold",
     "Temp VIN": true,
     "Dealer": "Norm Reeves Toyota San Diego",
     "Base MSRP": 42600,
@@ -4031,7 +4107,7 @@
     "Series": "Tacoma",
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
-    "Hold Status": "Available",
+    "Hold Status": "DealerHold",
     "Temp VIN": true,
     "Dealer": "Norm Reeves Toyota San Diego",
     "Base MSRP": 42600,
@@ -4897,7 +4973,7 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN9RT03B863",
+    "VIN": "3TYLB5JN0RT03A701",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Off-Road",
@@ -4916,7 +4992,7 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN0RT03A701",
+    "VIN": "3TYLB5JN9RT03B863",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Off-Road",
@@ -5638,7 +5714,7 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN5RT02A004",
+    "VIN": "3TYLB5JN0RT01A545",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
@@ -5657,7 +5733,7 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN0RT01A545",
+    "VIN": "3TYLB5JN5RT02A004",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
@@ -5747,6 +5823,25 @@
     "Base MSRP": 43400,
     "Total MSRP": 51079,
     "Advertized Price": 51079,
+    "Mark Up": 0,
+    "Exterior Color": null,
+    "Interior Color": null
+  },
+  {
+    "VIN": "3TYLD5KN4RT000024",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Burien Toyota",
+    "Base MSRP": 36900,
+    "Total MSRP": 40493,
+    "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": null,
     "Interior Color": null
