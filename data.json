@@ -152,7 +152,7 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN2RT02B160",
+    "VIN": "3TYLB5JN1RT03B761",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
@@ -171,7 +171,7 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN1RT03B761",
+    "VIN": "3TYLB5JN2RT02B160",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
@@ -2204,8 +2204,8 @@
     "Dealer": "St. Charles Toyota",
     "Base MSRP": 42900,
     "Total MSRP": 54604,
-    "Advertized Price": 56144,
-    "Mark Up": 1540,
+    "Advertized Price": 54604,
+    "Mark Up": 0,
     "Exterior Color": null,
     "Interior Color": null
   },
@@ -5045,7 +5045,7 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN0RT01A545",
+    "VIN": "3TYLB5JN5RT02A004",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
@@ -5064,7 +5064,7 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN5RT02A004",
+    "VIN": "3TYLB5JN0RT01A545",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
