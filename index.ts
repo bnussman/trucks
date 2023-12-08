@@ -145,7 +145,7 @@ const zipCodes = ["28270", "75201", "90274"];
 async function run() {
   const headers = await getHeaders();
 
-  let vehicles: VehicleSummary[] = [];
+  let vehicles: (VehicleSummary & { nearMe: boolean })[] = [];
 
   for (const zipCode of zipCodes) {
     let page = 1;
@@ -168,7 +168,10 @@ async function run() {
         headers 
       );
 
-      vehicles = vehicles.concat(result.locateVehiclesByZip.vehicleSummary);
+      vehicles = vehicles.concat(result.locateVehiclesByZip.vehicleSummary.map(truck => ({
+        ...truck,
+        nearMe: zipCode === "28270" && truck.distance <= 300
+      })));
 
       pages = result.locateVehiclesByZip.pagination.totalPages;
       page++;
@@ -197,6 +200,7 @@ async function run() {
     "Interior Color": v.intColor.marketingName,
     "Delivery ETA From": v.eta?.currFromDate,
     "Delivery ETA To": v.eta?.currToDate,
+    "Near Me": v.nearMe,
   }));
 
   const filteredData = data.reduce<typeof data>((acc, truck) => {
