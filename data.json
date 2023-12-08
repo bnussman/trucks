@@ -190,15 +190,15 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN1RT03B761",
+    "VIN": "3TYLB5JN2RT02B160",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
     "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
     "Series": "Tacoma",
     "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
+    "Pre-Sold": true,
+    "Hold Status": "DealerHold",
     "Temp VIN": true,
     "Dealer": "Fox Toyota",
     "Base MSRP": 42600,
@@ -209,15 +209,15 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN2RT02B160",
+    "VIN": "3TYLB5JN1RT03B761",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
     "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
     "Series": "Tacoma",
     "Shipping Status": "Allocated (A)",
-    "Pre-Sold": true,
-    "Hold Status": "DealerHold",
+    "Pre-Sold": false,
+    "Hold Status": null,
     "Temp VIN": true,
     "Dealer": "Fox Toyota",
     "Base MSRP": 42600,
@@ -5239,6 +5239,25 @@
     "Interior Color": null
   },
   {
+    "VIN": "3TYLE5JN6RT03A662",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Off-Road",
+    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine MT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Northridge Toyota",
+    "Base MSRP": 41800,
+    "Total MSRP": 54819,
+    "Advertized Price": 56309,
+    "Mark Up": 1490,
+    "Exterior Color": null,
+    "Interior Color": null
+  },
+  {
     "VIN": "3TYLB5JN2RT51A240",
     "Stock Number": null,
     "Year": 2024,
@@ -6398,7 +6417,7 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN0RT01A545",
+    "VIN": "3TYLB5JN5RT02A004",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
@@ -6417,7 +6436,7 @@
     "Interior Color": null
   },
   {
-    "VIN": "3TYLB5JN5RT02A004",
+    "VIN": "3TYLB5JN0RT01A545",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
