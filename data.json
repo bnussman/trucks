@@ -16,7 +16,8 @@
     "Advertized Price": 36874,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT50A194",
@@ -35,7 +36,8 @@
     "Advertized Price": 46788,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT01A422",
@@ -54,7 +56,8 @@
     "Advertized Price": 55029,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT02B703",
@@ -73,7 +76,8 @@
     "Advertized Price": 46294,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLE5JN4RT02B281",
@@ -92,7 +96,8 @@
     "Advertized Price": 55893,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KNXRT51A818",
@@ -111,7 +116,8 @@
     "Advertized Price": 40134,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT000303",
@@ -130,7 +136,8 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT02A296",
@@ -149,7 +156,8 @@
     "Advertized Price": 46099,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT01A857",
@@ -168,7 +176,8 @@
     "Advertized Price": 46299,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT03A032",
@@ -187,26 +196,8 @@
     "Advertized Price": 50699,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYLB5JN1RT03B761",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Fox Toyota",
-    "Base MSRP": 42600,
-    "Total MSRP": 50699,
-    "Advertized Price": 50699,
-    "Mark Up": 0,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT02B160",
@@ -225,7 +216,28 @@
     "Advertized Price": 50699,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
+  },
+  {
+    "VIN": "3TYLB5JN1RT03B761",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Fox Toyota",
+    "Base MSRP": 42600,
+    "Total MSRP": 50699,
+    "Advertized Price": 50699,
+    "Mark Up": 0,
+    "Exterior Color": null,
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT02B165",
@@ -244,7 +256,8 @@
     "Advertized Price": 50699,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT02A901",
@@ -263,7 +276,8 @@
     "Advertized Price": 56164,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT02B397",
@@ -282,7 +296,8 @@
     "Advertized Price": 45318,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT50A010",
@@ -301,7 +316,8 @@
     "Advertized Price": 51085,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLE5JN0RT02B164",
@@ -320,7 +336,8 @@
     "Advertized Price": 51159,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT03B876",
@@ -339,7 +356,8 @@
     "Advertized Price": 53929,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HNXRT03A250",
@@ -358,7 +376,8 @@
     "Advertized Price": 40008,
     "Mark Up": 2000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT02B400",
@@ -377,7 +396,8 @@
     "Advertized Price": 46269,
     "Mark Up": 2000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT02A466",
@@ -396,7 +416,8 @@
     "Advertized Price": 48349,
     "Mark Up": 2000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT03A765",
@@ -415,7 +436,8 @@
     "Advertized Price": 48774,
     "Mark Up": 2000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT02A981",
@@ -434,7 +456,8 @@
     "Advertized Price": 50473,
     "Mark Up": 2000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT03B197",
@@ -453,7 +476,8 @@
     "Advertized Price": 50473,
     "Mark Up": 2000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT51A920",
@@ -472,7 +496,8 @@
     "Advertized Price": 55485,
     "Mark Up": 2000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT02B765",
@@ -491,7 +516,8 @@
     "Advertized Price": 57009,
     "Mark Up": 2000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT03B913",
@@ -510,26 +536,8 @@
     "Advertized Price": 58519,
     "Mark Up": 2000,
     "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYLB5JN2RT51A948",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Frankfort Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 48152,
-    "Advertized Price": 50652,
-    "Mark Up": 2500,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN9RT02A762",
@@ -548,7 +556,8 @@
     "Advertized Price": 37204,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT51A312",
@@ -567,26 +576,8 @@
     "Advertized Price": 46864,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYLD5KNXRT51A141",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Ourisman Fairfax Toyota",
-    "Base MSRP": 36900,
-    "Total MSRP": 40474,
-    "Advertized Price": 45474,
-    "Mark Up": 5000,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT51A777",
@@ -605,7 +596,8 @@
     "Advertized Price": 49464,
     "Mark Up": 3000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT03A131",
@@ -624,7 +616,8 @@
     "Advertized Price": 46504,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT51A229",
@@ -643,7 +636,8 @@
     "Advertized Price": 53249,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT01A417",
@@ -662,7 +656,8 @@
     "Advertized Price": 53129,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLD5KN9RT03A253",
@@ -681,7 +676,8 @@
     "Advertized Price": 40108,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT03C107",
@@ -700,7 +696,8 @@
     "Advertized Price": 47374,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT03B260",
@@ -719,26 +716,8 @@
     "Advertized Price": 47424,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYLB5JN4RT51A207",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Toyota of Bowling Green",
-    "Base MSRP": 42600,
-    "Total MSRP": 45974,
-    "Advertized Price": 48474,
-    "Mark Up": 2500,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT02A421",
@@ -757,7 +736,8 @@
     "Advertized Price": 54099,
     "Mark Up": 2500,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT03B540",
@@ -776,7 +756,8 @@
     "Advertized Price": 56004,
     "Mark Up": 2500,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT02B255",
@@ -795,7 +776,8 @@
     "Advertized Price": 56429,
     "Mark Up": 2500,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT50A320",
@@ -814,7 +796,8 @@
     "Advertized Price": 46308,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT02B664",
@@ -833,7 +816,8 @@
     "Advertized Price": 53454,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT03B530",
@@ -852,7 +836,8 @@
     "Advertized Price": 54196,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT51A648",
@@ -871,7 +856,8 @@
     "Advertized Price": 59819,
     "Mark Up": 5000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT51A726",
@@ -890,7 +876,8 @@
     "Advertized Price": 43439,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT02A693",
@@ -909,7 +896,8 @@
     "Advertized Price": 44698,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT01A923",
@@ -928,7 +916,8 @@
     "Advertized Price": 47853,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT01A842",
@@ -947,7 +936,8 @@
     "Advertized Price": 46458,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT03B343",
@@ -966,7 +956,8 @@
     "Advertized Price": 46458,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT03B031",
@@ -985,7 +976,8 @@
     "Advertized Price": 49151,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT01A957",
@@ -1004,7 +996,8 @@
     "Advertized Price": 52082,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT03A829",
@@ -1023,7 +1016,8 @@
     "Advertized Price": 52082,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT03A862",
@@ -1042,7 +1036,8 @@
     "Advertized Price": 52082,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT01A950",
@@ -1061,7 +1056,8 @@
     "Advertized Price": 52082,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT02A839",
@@ -1080,7 +1076,8 @@
     "Advertized Price": 52736,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT02A959",
@@ -1099,7 +1096,8 @@
     "Advertized Price": 55613,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT51A639",
@@ -1118,7 +1116,8 @@
     "Advertized Price": 57048,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT03B011",
@@ -1137,7 +1136,8 @@
     "Advertized Price": 54438,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT000225",
@@ -1156,7 +1156,8 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT02A266",
@@ -1175,7 +1176,8 @@
     "Advertized Price": 46458,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT03A755",
@@ -1194,7 +1196,8 @@
     "Advertized Price": 48152,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT03B552",
@@ -1213,7 +1216,8 @@
     "Advertized Price": 52656,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT50A142",
@@ -1232,7 +1236,8 @@
     "Advertized Price": 53238,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLD5KNXRT02B822",
@@ -1251,7 +1256,8 @@
     "Advertized Price": 40404,
     "Mark Up": 1000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT03A023",
@@ -1270,7 +1276,8 @@
     "Advertized Price": 53499,
     "Mark Up": 2500,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT50A024",
@@ -1289,7 +1296,8 @@
     "Advertized Price": 55860,
     "Mark Up": 2500,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT03A840",
@@ -1308,7 +1316,8 @@
     "Advertized Price": 57549,
     "Mark Up": 2500,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLD5KN0RT51A732",
@@ -1327,7 +1336,8 @@
     "Advertized Price": 38704,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYKD5HN5RT01A617",
@@ -1346,7 +1356,8 @@
     "Advertized Price": 36994,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLD5KN3RT03B236",
@@ -1365,7 +1376,8 @@
     "Advertized Price": 39079,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT51A481",
@@ -1384,7 +1396,8 @@
     "Advertized Price": 52257,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT03A496",
@@ -1403,7 +1416,8 @@
     "Advertized Price": 47948,
     "Mark Up": 999,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT03B557",
@@ -1422,7 +1436,8 @@
     "Advertized Price": 53924,
     "Mark Up": 2000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT02B702",
@@ -1441,7 +1456,8 @@
     "Advertized Price": 44740,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT51A512",
@@ -1460,7 +1476,8 @@
     "Advertized Price": 46868,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT03B670",
@@ -1479,7 +1496,8 @@
     "Advertized Price": 52132,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT02B764",
@@ -1498,7 +1516,8 @@
     "Advertized Price": 54789,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT01B073",
@@ -1517,7 +1536,8 @@
     "Advertized Price": 55252,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT51A059",
@@ -1536,7 +1556,8 @@
     "Advertized Price": 47209,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT01A339",
@@ -1555,7 +1576,8 @@
     "Advertized Price": 49869,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT02A233",
@@ -1574,26 +1596,8 @@
     "Advertized Price": 50569,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYLB5JN6RT51A502",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Toyota of Bedford",
-    "Base MSRP": 40400,
-    "Total MSRP": 47999,
-    "Advertized Price": 51264,
-    "Mark Up": 3265,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYKD5HN4RT02A989",
@@ -1612,7 +1616,8 @@
     "Advertized Price": 35374,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT51A613",
@@ -1631,7 +1636,8 @@
     "Advertized Price": 49308,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT51A505",
@@ -1650,7 +1656,8 @@
     "Advertized Price": 46528,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT03C084",
@@ -1669,7 +1676,8 @@
     "Advertized Price": 46854,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT03B706",
@@ -1688,7 +1696,8 @@
     "Advertized Price": 54454,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT51A070",
@@ -1707,7 +1716,8 @@
     "Advertized Price": 54630,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT51A633",
@@ -1726,7 +1736,8 @@
     "Advertized Price": 56338,
     "Mark Up": 1274,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT50A235",
@@ -1745,7 +1756,8 @@
     "Advertized Price": 44822,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT03B271",
@@ -1764,7 +1776,8 @@
     "Advertized Price": 50396,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT03A993",
@@ -1783,7 +1796,8 @@
     "Advertized Price": 55201,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT01A206",
@@ -1802,7 +1816,8 @@
     "Advertized Price": 56543,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT04B048",
@@ -1821,7 +1836,8 @@
     "Advertized Price": 49064,
     "Mark Up": 1995,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT51A541",
@@ -1840,7 +1856,8 @@
     "Advertized Price": 48508,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLD5KN5RT01A906",
@@ -1859,7 +1876,8 @@
     "Advertized Price": 40128,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT51A562",
@@ -1878,7 +1896,8 @@
     "Advertized Price": 50785,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT02B146",
@@ -1897,26 +1916,8 @@
     "Advertized Price": 52462,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYLB5JN9RT51A350",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Marion Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 48387,
-    "Advertized Price": 48387,
-    "Mark Up": 0,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT51A122",
@@ -1935,7 +1936,8 @@
     "Advertized Price": 47913,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT03B875",
@@ -1954,7 +1956,8 @@
     "Advertized Price": 54281,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT05A173",
@@ -1973,7 +1976,8 @@
     "Advertized Price": 51849,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TMLB5JN2RM05A315",
@@ -1994,7 +1998,8 @@
     "Exterior Color": null,
     "Interior Color": null,
     "Delivery ETA From": "2024-01-07",
-    "Delivery ETA To": "2024-02-14"
+    "Delivery ETA To": "2024-02-14",
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT02A968",
@@ -2013,7 +2018,8 @@
     "Advertized Price": 49659,
     "Mark Up": 2500,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT03C068",
@@ -2032,7 +2038,8 @@
     "Advertized Price": 53174,
     "Mark Up": 2500,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT01A866",
@@ -2051,7 +2058,8 @@
     "Advertized Price": 52659,
     "Mark Up": 2995,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT02A078",
@@ -2070,7 +2078,8 @@
     "Advertized Price": 53984,
     "Mark Up": 2995,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT01A195",
@@ -2089,7 +2098,8 @@
     "Advertized Price": 56008,
     "Mark Up": 2594,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYKB5FNXRT03A418",
@@ -2110,26 +2120,8 @@
     "Exterior Color": "ICE CAP",
     "Interior Color": "BOULDER",
     "Delivery ETA From": "1900-01-01T00:00:00.000Z",
-    "Delivery ETA To": "1900-01-06T00:00:00.000Z"
-  },
-  {
-    "VIN": "3TYLB5JN1RT51A536",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Crestmont Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 46024,
-    "Advertized Price": 46024,
-    "Mark Up": 0,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Delivery ETA To": "1900-01-06T00:00:00.000Z",
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT01A969",
@@ -2148,7 +2140,8 @@
     "Advertized Price": 55151,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT03A157",
@@ -2167,7 +2160,8 @@
     "Advertized Price": 56394,
     "Mark Up": 5995,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT51A677",
@@ -2186,7 +2180,8 @@
     "Advertized Price": 59655,
     "Mark Up": 5995,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT51A507",
@@ -2205,7 +2200,8 @@
     "Advertized Price": 50549,
     "Mark Up": 3500,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT03B871",
@@ -2224,7 +2220,8 @@
     "Advertized Price": 51849,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT01A678",
@@ -2243,7 +2240,8 @@
     "Advertized Price": 58466,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT01A810",
@@ -2262,7 +2260,8 @@
     "Advertized Price": 52485,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT51A065",
@@ -2281,7 +2280,8 @@
     "Advertized Price": 50659,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT50A453",
@@ -2300,7 +2300,8 @@
     "Advertized Price": 46774,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT49A082",
@@ -2319,7 +2320,8 @@
     "Advertized Price": 46308,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT50A139",
@@ -2338,7 +2340,8 @@
     "Advertized Price": 50709,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT03A172",
@@ -2357,7 +2360,8 @@
     "Advertized Price": 59227,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLD5KN2RT01A605",
@@ -2376,7 +2380,8 @@
     "Advertized Price": 39529,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLD5KN9RT03B094",
@@ -2395,7 +2400,8 @@
     "Advertized Price": 40129,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLD5KN1RT03B963",
@@ -2414,7 +2420,8 @@
     "Advertized Price": 40479,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT03B256",
@@ -2433,7 +2440,8 @@
     "Advertized Price": 47923,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT03B753",
@@ -2452,7 +2460,8 @@
     "Advertized Price": 50544,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT03A818",
@@ -2471,7 +2480,8 @@
     "Advertized Price": 50544,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT02A522",
@@ -2490,7 +2500,8 @@
     "Advertized Price": 54053,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT02A310",
@@ -2509,7 +2520,8 @@
     "Advertized Price": 46794,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT04A168",
@@ -2528,7 +2540,8 @@
     "Advertized Price": 51849,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYKD5HN8RT01B129",
@@ -2547,7 +2560,8 @@
     "Advertized Price": 37014,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLD5KN8RT02A068",
@@ -2566,7 +2580,8 @@
     "Advertized Price": 41139,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT50A293",
@@ -2587,7 +2602,8 @@
     "Exterior Color": null,
     "Interior Color": null,
     "Delivery ETA From": "2023-12-24",
-    "Delivery ETA To": "2024-01-26"
+    "Delivery ETA To": "2024-01-26",
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT05A220",
@@ -2606,7 +2622,8 @@
     "Advertized Price": 47069,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT50A351",
@@ -2625,7 +2642,8 @@
     "Advertized Price": 46565,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT03A500",
@@ -2644,7 +2662,8 @@
     "Advertized Price": 46849,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT51A153",
@@ -2663,7 +2682,8 @@
     "Advertized Price": 45944,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT04A169",
@@ -2682,7 +2702,8 @@
     "Advertized Price": 53406,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT02A511",
@@ -2701,7 +2722,8 @@
     "Advertized Price": 57747,
     "Mark Up": 2000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT02A253",
@@ -2720,7 +2742,8 @@
     "Advertized Price": 47162,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT01B064",
@@ -2739,7 +2762,8 @@
     "Advertized Price": 54604,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT50A055",
@@ -2758,7 +2782,8 @@
     "Advertized Price": 43103,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT03A873",
@@ -2777,7 +2802,8 @@
     "Advertized Price": 52946,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT03A387",
@@ -2796,7 +2822,8 @@
     "Advertized Price": 46787,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT02A435",
@@ -2815,7 +2842,8 @@
     "Advertized Price": 54477,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT03C167",
@@ -2834,7 +2862,8 @@
     "Advertized Price": 49863,
     "Mark Up": 2000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT02A781",
@@ -2853,7 +2882,8 @@
     "Advertized Price": 50016,
     "Mark Up": 2000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT03B647",
@@ -2872,7 +2902,8 @@
     "Advertized Price": 57207,
     "Mark Up": 2000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT03B481",
@@ -2891,7 +2922,8 @@
     "Advertized Price": 57811,
     "Mark Up": 2000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT02A902",
@@ -2910,7 +2942,8 @@
     "Advertized Price": 55127,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT51A398",
@@ -2929,7 +2962,8 @@
     "Advertized Price": 55550,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT03B529",
@@ -2948,7 +2982,8 @@
     "Advertized Price": 56119,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT01A528",
@@ -2967,7 +3002,8 @@
     "Advertized Price": 43734,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT01A900",
@@ -2986,7 +3022,8 @@
     "Advertized Price": 48214,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT01B054",
@@ -3005,7 +3042,8 @@
     "Advertized Price": 50939,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT49A152",
@@ -3024,7 +3062,8 @@
     "Advertized Price": 53834,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT01A358",
@@ -3043,7 +3082,8 @@
     "Advertized Price": 54402,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT03A008",
@@ -3062,7 +3102,8 @@
     "Advertized Price": 55714,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT49A188",
@@ -3081,7 +3122,8 @@
     "Advertized Price": 54429,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT03B756",
@@ -3100,7 +3142,8 @@
     "Advertized Price": 50559,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT50A260",
@@ -3119,7 +3162,8 @@
     "Advertized Price": 53873,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT50A458",
@@ -3138,7 +3182,8 @@
     "Advertized Price": 48048,
     "Mark Up": -250,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT51A555",
@@ -3157,7 +3202,8 @@
     "Advertized Price": 52228,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT04B666",
@@ -3176,7 +3222,8 @@
     "Advertized Price": 51139,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT50A006",
@@ -3195,7 +3242,8 @@
     "Advertized Price": 54628,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYKD5HNXRT01A936",
@@ -3214,7 +3262,8 @@
     "Advertized Price": 35374,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT03A204",
@@ -3233,7 +3282,8 @@
     "Advertized Price": 47319,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT03A081",
@@ -3252,7 +3302,8 @@
     "Advertized Price": 47504,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT51A965",
@@ -3271,7 +3322,8 @@
     "Advertized Price": 42869,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT03A423",
@@ -3290,7 +3342,8 @@
     "Advertized Price": 44714,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT03B217",
@@ -3309,7 +3362,8 @@
     "Advertized Price": 46024,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT02B001",
@@ -3328,7 +3382,8 @@
     "Advertized Price": 46524,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT02A009",
@@ -3347,7 +3402,8 @@
     "Advertized Price": 50274,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT02B410",
@@ -3366,7 +3422,8 @@
     "Advertized Price": 50274,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT03A716",
@@ -3385,7 +3442,8 @@
     "Advertized Price": 50574,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT01A741",
@@ -3404,7 +3462,8 @@
     "Advertized Price": 53389,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT03A177",
@@ -3423,7 +3482,8 @@
     "Advertized Price": 53514,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLE5JN0RT02A922",
@@ -3442,7 +3502,8 @@
     "Advertized Price": 49899,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT01B181",
@@ -3461,7 +3522,8 @@
     "Advertized Price": 47216.4,
     "Mark Up": 2248.4000000000015,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT02A014",
@@ -3480,7 +3542,8 @@
     "Advertized Price": 47216.4,
     "Mark Up": 2248.4000000000015,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT02B409",
@@ -3499,7 +3562,8 @@
     "Advertized Price": 54834.15,
     "Mark Up": 2611.1500000000015,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT51A167",
@@ -3518,7 +3582,8 @@
     "Advertized Price": 55788.6,
     "Mark Up": 2656.5999999999985,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT03A540",
@@ -3537,7 +3602,8 @@
     "Advertized Price": 44718,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT51A942",
@@ -3556,7 +3622,8 @@
     "Advertized Price": 51062,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT03B009",
@@ -3575,7 +3642,8 @@
     "Advertized Price": 51923,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT03B386",
@@ -3594,7 +3662,8 @@
     "Advertized Price": 42869,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT02B068",
@@ -3613,7 +3682,8 @@
     "Advertized Price": 46024,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT03B751",
@@ -3632,7 +3702,8 @@
     "Advertized Price": 49774,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT02A672",
@@ -3651,7 +3722,8 @@
     "Advertized Price": 50274,
     "Mark Up": 0,
     "Exterior Color": "UNDERGROUND",
-    "Interior Color": "BLACK/WHITE"
+    "Interior Color": "BLACK/WHITE",
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT03B185",
@@ -3670,7 +3742,8 @@
     "Advertized Price": 50274,
     "Mark Up": 0,
     "Exterior Color": "UNDERGROUND",
-    "Interior Color": "BOULDER/BLACK (SMOKE SILV"
+    "Interior Color": "BOULDER/BLACK (SMOKE SILV",
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT03A911",
@@ -3689,7 +3762,8 @@
     "Advertized Price": 53389,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT03B707",
@@ -3708,7 +3782,8 @@
     "Advertized Price": 54309,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT02A342",
@@ -3727,7 +3802,8 @@
     "Advertized Price": 46834,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT03B629",
@@ -3746,7 +3822,8 @@
     "Advertized Price": 47229,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT49A202",
@@ -3765,7 +3842,8 @@
     "Advertized Price": 50319,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT03C095",
@@ -3784,7 +3862,8 @@
     "Advertized Price": 50358,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT03A814",
@@ -3803,7 +3882,8 @@
     "Advertized Price": 51159,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT01A210",
@@ -3822,7 +3902,8 @@
     "Advertized Price": 54974,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT02B415",
@@ -3841,7 +3922,8 @@
     "Advertized Price": 48974,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT03B732",
@@ -3860,7 +3942,8 @@
     "Advertized Price": 54654,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT50A135",
@@ -3879,7 +3962,8 @@
     "Advertized Price": 50229,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT03A029",
@@ -3898,7 +3982,8 @@
     "Advertized Price": 51683,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT03B570",
@@ -3917,7 +4002,8 @@
     "Advertized Price": 52626,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT02A395",
@@ -3936,7 +4022,8 @@
     "Advertized Price": 54974,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT01B011",
@@ -3955,7 +4042,8 @@
     "Advertized Price": 46660,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT49A128",
@@ -3974,7 +4062,8 @@
     "Advertized Price": 50214,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT01A772",
@@ -3993,7 +4082,8 @@
     "Advertized Price": 50590,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT01A773",
@@ -4012,7 +4102,8 @@
     "Advertized Price": 50590,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT01A689",
@@ -4031,7 +4122,8 @@
     "Advertized Price": 50890,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT02A236",
@@ -4050,7 +4142,8 @@
     "Advertized Price": 54950,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT02A684",
@@ -4069,7 +4162,8 @@
     "Advertized Price": 51598,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT03A712",
@@ -4088,7 +4182,8 @@
     "Advertized Price": 51906,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT03C062",
@@ -4107,7 +4202,8 @@
     "Advertized Price": 52296,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT03B025",
@@ -4126,7 +4222,8 @@
     "Advertized Price": 54877,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT01A792",
@@ -4145,7 +4242,8 @@
     "Advertized Price": 54974,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT50A131",
@@ -4164,7 +4262,8 @@
     "Advertized Price": 46809,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT000288",
@@ -4185,7 +4284,8 @@
     "Exterior Color": null,
     "Interior Color": null,
     "Delivery ETA From": "2023-12-19",
-    "Delivery ETA To": "2024-01-19"
+    "Delivery ETA To": "2024-01-19",
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT03B828",
@@ -4206,7 +4306,8 @@
     "Exterior Color": null,
     "Interior Color": null,
     "Delivery ETA From": "2024-02-04",
-    "Delivery ETA To": "2024-03-12"
+    "Delivery ETA To": "2024-03-12",
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT03A927",
@@ -4227,7 +4328,8 @@
     "Exterior Color": null,
     "Interior Color": null,
     "Delivery ETA From": "2024-01-29",
-    "Delivery ETA To": "2024-03-06"
+    "Delivery ETA To": "2024-03-06",
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT04C036",
@@ -4248,7 +4350,8 @@
     "Exterior Color": null,
     "Interior Color": null,
     "Delivery ETA From": "2024-02-17",
-    "Delivery ETA To": "2024-03-30"
+    "Delivery ETA To": "2024-03-30",
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT04A763",
@@ -4267,7 +4370,8 @@
     "Advertized Price": 52274,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT51A142",
@@ -4286,7 +4390,8 @@
     "Advertized Price": 46974,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT03B250",
@@ -4305,7 +4410,8 @@
     "Advertized Price": 49942,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLD5KN1RT03B087",
@@ -4324,7 +4430,8 @@
     "Advertized Price": 38525,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT51A569",
@@ -4343,7 +4450,8 @@
     "Advertized Price": 49455,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYKB5FN5RT03A276",
@@ -4362,7 +4470,8 @@
     "Advertized Price": 41043,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT49A012",
@@ -4381,7 +4490,8 @@
     "Advertized Price": 43457,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT51A547",
@@ -4400,26 +4510,8 @@
     "Advertized Price": 58850,
     "Mark Up": 5000,
     "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYLB5JN6RT51A550",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Off-Road",
-    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 6-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "DealerHold",
-    "Temp VIN": true,
-    "Dealer": "Anderson Toyota",
-    "Base MSRP": 43400,
-    "Total MSRP": 52259,
-    "Advertized Price": 53954,
-    "Mark Up": 1695,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYKB5FN5RT03A326",
@@ -4438,7 +4530,8 @@
     "Advertized Price": 45252,
     "Mark Up": 5000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT03B975",
@@ -4457,7 +4550,8 @@
     "Advertized Price": 48452,
     "Mark Up": 5000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT51A359",
@@ -4476,7 +4570,8 @@
     "Advertized Price": 50705,
     "Mark Up": 5000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT02B092",
@@ -4495,7 +4590,8 @@
     "Advertized Price": 52192,
     "Mark Up": 5000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT03B314",
@@ -4514,7 +4610,8 @@
     "Advertized Price": 52752,
     "Mark Up": 5000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT03B685",
@@ -4533,7 +4630,8 @@
     "Advertized Price": 54455,
     "Mark Up": 5000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT51A188",
@@ -4552,7 +4650,8 @@
     "Advertized Price": 54610,
     "Mark Up": 5000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5FN3RT51A191",
@@ -4571,7 +4670,8 @@
     "Advertized Price": 54660,
     "Mark Up": 5000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT03A019",
@@ -4590,7 +4690,8 @@
     "Advertized Price": 49455,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT49A071",
@@ -4609,7 +4710,8 @@
     "Advertized Price": 60025,
     "Mark Up": 6112,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT02B152",
@@ -4628,7 +4730,8 @@
     "Advertized Price": 53485,
     "Mark Up": 3180,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLE5JN3RT03A781",
@@ -4647,7 +4750,8 @@
     "Advertized Price": 56418,
     "Mark Up": 3180,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT51A853",
@@ -4666,7 +4770,8 @@
     "Advertized Price": 57093,
     "Mark Up": 3180,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLE5JN4RT03B521",
@@ -4685,7 +4790,8 @@
     "Advertized Price": 57838,
     "Mark Up": 3180,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT03B371",
@@ -4704,7 +4810,8 @@
     "Advertized Price": 58491,
     "Mark Up": 6997,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT51A106",
@@ -4723,7 +4830,8 @@
     "Advertized Price": 59956,
     "Mark Up": 8942,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT03A703",
@@ -4742,7 +4850,8 @@
     "Advertized Price": 60791,
     "Mark Up": 6997,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLE5JN0RT01B069",
@@ -4761,7 +4870,8 @@
     "Advertized Price": 62071,
     "Mark Up": 6997,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT02A821",
@@ -4780,7 +4890,8 @@
     "Advertized Price": 62921,
     "Mark Up": 6997,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT03B901",
@@ -4799,7 +4910,8 @@
     "Advertized Price": 63376,
     "Mark Up": 6997,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT000279",
@@ -4818,7 +4930,8 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT03B566",
@@ -4837,7 +4950,8 @@
     "Advertized Price": 52349,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT03A161",
@@ -4856,7 +4970,8 @@
     "Advertized Price": 55689,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT51A498",
@@ -4875,7 +4990,8 @@
     "Advertized Price": 54985,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYKD5HN3RT02B048",
@@ -4894,7 +5010,8 @@
     "Advertized Price": 36994,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYKD5HN0RT02B797",
@@ -4913,7 +5030,8 @@
     "Advertized Price": 37419,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYKB5FN9RT01A855",
@@ -4932,7 +5050,8 @@
     "Advertized Price": 43518,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYKB5FN0RT03A525",
@@ -4951,7 +5070,8 @@
     "Advertized Price": 43943,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5FN0RT02A680",
@@ -4970,7 +5090,8 @@
     "Advertized Price": 45648,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT51A835",
@@ -4989,7 +5110,8 @@
     "Advertized Price": 44970,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT51A774",
@@ -5008,7 +5130,8 @@
     "Advertized Price": 46265,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5FN7RT49A043",
@@ -5027,26 +5150,8 @@
     "Advertized Price": 47320,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYLB5JN1RT51A598",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 6-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "AutoNation Toyota Cerritos",
-    "Base MSRP": 43100,
-    "Total MSRP": 50800,
-    "Advertized Price": 50800,
-    "Mark Up": 0,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYKD5HNXRT50A034",
@@ -5065,7 +5170,8 @@
     "Advertized Price": 35195,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT51A724",
@@ -5084,7 +5190,8 @@
     "Advertized Price": 46265,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT50A155",
@@ -5103,7 +5210,8 @@
     "Advertized Price": 51734,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT50A375",
@@ -5122,45 +5230,8 @@
     "Advertized Price": 57858,
     "Mark Up": 7500,
     "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYKB5FN6RT02A632",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Northridge Toyota",
-    "Base MSRP": 37200,
-    "Total MSRP": 39529,
-    "Advertized Price": 41019,
-    "Mark Up": 1490,
-    "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYKB5FNXRT02A729",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Northridge Toyota",
-    "Base MSRP": 37200,
-    "Total MSRP": 40704,
-    "Advertized Price": 42194,
-    "Mark Up": 1490,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLD5KN6RT01A476",
@@ -5179,26 +5250,8 @@
     "Advertized Price": 42739,
     "Mark Up": 1490,
     "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYLB5JNXRT03B290",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 6-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Northridge Toyota",
-    "Base MSRP": 40900,
-    "Total MSRP": 47619,
-    "Advertized Price": 49109,
-    "Mark Up": 1490,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT03B744",
@@ -5209,7 +5262,7 @@
     "Series": "Tacoma",
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
-    "Hold Status": "DealerHold",
+    "Hold Status": "Available",
     "Temp VIN": true,
     "Dealer": "Northridge Toyota",
     "Base MSRP": 42600,
@@ -5217,45 +5270,8 @@
     "Advertized Price": 52299,
     "Mark Up": 1490,
     "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYLB5JN1RT03B842",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Off-Road",
-    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 6-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Northridge Toyota",
-    "Base MSRP": 43400,
-    "Total MSRP": 52264,
-    "Advertized Price": 53754,
-    "Mark Up": 1490,
-    "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYLE5JN6RT03A662",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Off-Road",
-    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine MT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Northridge Toyota",
-    "Base MSRP": 41800,
-    "Total MSRP": 54819,
-    "Advertized Price": 56309,
-    "Mark Up": 1490,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT51A240",
@@ -5274,7 +5290,8 @@
     "Advertized Price": 58408,
     "Mark Up": 5000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT02B355",
@@ -5293,7 +5310,8 @@
     "Advertized Price": 42428,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT01A843",
@@ -5312,7 +5330,8 @@
     "Advertized Price": 46168,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT01A246",
@@ -5331,7 +5350,8 @@
     "Advertized Price": 46364,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT02B247",
@@ -5350,7 +5370,8 @@
     "Advertized Price": 51164,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT03B565",
@@ -5369,7 +5390,8 @@
     "Advertized Price": 51164,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT02B248",
@@ -5388,7 +5410,8 @@
     "Advertized Price": 51164,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT02A164",
@@ -5407,7 +5430,8 @@
     "Advertized Price": 51664,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT03A118",
@@ -5426,7 +5450,8 @@
     "Advertized Price": 51664,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT50A271",
@@ -5445,7 +5470,8 @@
     "Advertized Price": 51734,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT02B427",
@@ -5464,7 +5490,8 @@
     "Advertized Price": 53454,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT02A683",
@@ -5483,7 +5510,8 @@
     "Advertized Price": 53879,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT02A854",
@@ -5502,7 +5530,8 @@
     "Advertized Price": 55164,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT03B580",
@@ -5521,7 +5550,8 @@
     "Advertized Price": 55164,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYKB5FN1RT03B375",
@@ -5540,7 +5570,8 @@
     "Advertized Price": 41798,
     "Mark Up": 2500,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT51A314",
@@ -5559,7 +5590,8 @@
     "Advertized Price": 48513,
     "Mark Up": 2500,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYKB5FN9RT02B015",
@@ -5578,7 +5610,8 @@
     "Advertized Price": 48537,
     "Mark Up": 5499,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT50A040",
@@ -5597,7 +5630,8 @@
     "Advertized Price": 52162,
     "Mark Up": 5499,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT03C057",
@@ -5616,26 +5650,8 @@
     "Advertized Price": 55703,
     "Mark Up": 5499,
     "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYLB5JN0RT03A701",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Off-Road",
-    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Toyota San Luis Obispo",
-    "Base MSRP": 42900,
-    "Total MSRP": 51234,
-    "Advertized Price": 56733,
-    "Mark Up": 5499,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT03B863",
@@ -5654,7 +5670,28 @@
     "Advertized Price": 56733,
     "Mark Up": 5499,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN0RT03A701",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Off-Road",
+    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Toyota San Luis Obispo",
+    "Base MSRP": 42900,
+    "Total MSRP": 51234,
+    "Advertized Price": 56733,
+    "Mark Up": 5499,
+    "Exterior Color": null,
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT03C065",
@@ -5673,7 +5710,8 @@
     "Advertized Price": 58953,
     "Mark Up": 5499,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT03A410",
@@ -5692,7 +5730,8 @@
     "Advertized Price": 43499,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT03A040",
@@ -5711,7 +5750,8 @@
     "Advertized Price": 49769,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT01A779",
@@ -5730,7 +5770,8 @@
     "Advertized Price": 55134,
     "Mark Up": 4995,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT02A852",
@@ -5749,7 +5790,8 @@
     "Advertized Price": 55509,
     "Mark Up": 4995,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT02A272",
@@ -5768,7 +5810,8 @@
     "Advertized Price": 57124,
     "Mark Up": 9995,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT01B038",
@@ -5787,7 +5830,8 @@
     "Advertized Price": 63774,
     "Mark Up": 9995,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT02A346",
@@ -5806,7 +5850,8 @@
     "Advertized Price": 51099,
     "Mark Up": 4995,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT02A156",
@@ -5825,7 +5870,8 @@
     "Advertized Price": 55009,
     "Mark Up": 4995,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT50A456",
@@ -5844,7 +5890,8 @@
     "Advertized Price": 46748,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT01A574",
@@ -5863,7 +5910,8 @@
     "Advertized Price": 53814,
     "Mark Up": 10000,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT02B676",
@@ -5882,26 +5930,8 @@
     "Advertized Price": 60809,
     "Mark Up": 10000,
     "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYLB5JN1RT51A794",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 6-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Jimmy Vasser Toyota",
-    "Base MSRP": 40900,
-    "Total MSRP": 42644,
-    "Advertized Price": 47644,
-    "Mark Up": 5000,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT03A154",
@@ -5920,7 +5950,8 @@
     "Advertized Price": 51132,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT02A918",
@@ -5939,7 +5970,8 @@
     "Advertized Price": 52586,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT02B242",
@@ -5958,7 +5990,8 @@
     "Advertized Price": 54211,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLD5KNXRT49A117",
@@ -5977,7 +6010,8 @@
     "Advertized Price": 39895,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT01A643",
@@ -5996,7 +6030,8 @@
     "Advertized Price": 46837,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT01A540",
@@ -6015,7 +6050,8 @@
     "Advertized Price": 47132,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT02B711",
@@ -6034,7 +6070,8 @@
     "Advertized Price": 48318,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT51A493",
@@ -6053,7 +6090,8 @@
     "Advertized Price": 50573,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT03B403",
@@ -6072,7 +6110,8 @@
     "Advertized Price": 47299,
     "Mark Up": 2500,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN1RT01A523",
@@ -6091,7 +6130,8 @@
     "Advertized Price": 48084,
     "Mark Up": 2500,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT02A508",
@@ -6110,7 +6150,8 @@
     "Advertized Price": 49837,
     "Mark Up": 2500,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT02B669",
@@ -6129,7 +6170,8 @@
     "Advertized Price": 50094,
     "Mark Up": 2500,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT03B932",
@@ -6148,7 +6190,8 @@
     "Advertized Price": 50294,
     "Mark Up": 2500,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT02B742",
@@ -6167,26 +6210,8 @@
     "Advertized Price": 54028,
     "Mark Up": 2500,
     "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYLB5JN6RT51A645",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Off-Road",
-    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "DealerHold",
-    "Temp VIN": true,
-    "Dealer": "Kendall Toyota of Bend",
-    "Base MSRP": 42900,
-    "Total MSRP": 51702,
-    "Advertized Price": 54202,
-    "Mark Up": 2500,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT03B400",
@@ -6205,7 +6230,8 @@
     "Advertized Price": 43229,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT03B289",
@@ -6224,26 +6250,8 @@
     "Advertized Price": 43229,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYLB5JNXRT51A860",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 6-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Capitol Toyota of Salem",
-    "Base MSRP": 43100,
-    "Total MSRP": 45784,
-    "Advertized Price": 45784,
-    "Mark Up": 0,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT03B284",
@@ -6262,7 +6270,8 @@
     "Advertized Price": 45884,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT51A653",
@@ -6281,7 +6290,8 @@
     "Advertized Price": 46148,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT02B426",
@@ -6300,7 +6310,8 @@
     "Advertized Price": 46204,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT03B240",
@@ -6319,7 +6330,8 @@
     "Advertized Price": 43684,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT03B190",
@@ -6338,7 +6350,8 @@
     "Advertized Price": 45884,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT02A577",
@@ -6357,7 +6370,8 @@
     "Advertized Price": 46064,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT51A497",
@@ -6376,7 +6390,8 @@
     "Advertized Price": 46504,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT01B043",
@@ -6395,26 +6410,8 @@
     "Advertized Price": 47019,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYLB5JN0RT02A847",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Off-Road",
-    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 6-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Toyota of Puyallup",
-    "Base MSRP": 43400,
-    "Total MSRP": 47019,
-    "Advertized Price": 47019,
-    "Mark Up": 0,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT02A004",
@@ -6433,7 +6430,8 @@
     "Advertized Price": 47084,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT01A545",
@@ -6452,7 +6450,8 @@
     "Advertized Price": 47084,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN5RT51A605",
@@ -6471,7 +6470,8 @@
     "Advertized Price": 46339,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT51A287",
@@ -6490,7 +6490,8 @@
     "Advertized Price": 46779,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT03B931",
@@ -6509,7 +6510,8 @@
     "Advertized Price": 47183,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT02B243",
@@ -6528,7 +6530,8 @@
     "Advertized Price": 51079,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLD5KN4RT000024",
@@ -6547,7 +6550,8 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT03A642",
@@ -6566,7 +6570,8 @@
     "Advertized Price": 53346,
     "Mark Up": 7282,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN0RT03A133",
@@ -6585,7 +6590,8 @@
     "Advertized Price": 53846,
     "Mark Up": 7282,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT02A578",
@@ -6604,26 +6610,8 @@
     "Advertized Price": 54126,
     "Mark Up": 7282,
     "Exterior Color": null,
-    "Interior Color": null
-  },
-  {
-    "VIN": "3TYLB5JNXRT51A843",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Off-Road",
-    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Toyota of Kirkland",
-    "Base MSRP": 42900,
-    "Total MSRP": 50808,
-    "Advertized Price": 58090,
-    "Mark Up": 7282,
-    "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT03B399",
@@ -6642,7 +6630,8 @@
     "Advertized Price": 44659,
     "Mark Up": 395,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT03A217",
@@ -6661,7 +6650,8 @@
     "Advertized Price": 46459,
     "Mark Up": 395,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT03A923",
@@ -6680,7 +6670,8 @@
     "Advertized Price": 46709,
     "Mark Up": 395,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT03A135",
@@ -6699,7 +6690,8 @@
     "Advertized Price": 47384,
     "Mark Up": 395,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN9RT51A008",
@@ -6718,7 +6710,8 @@
     "Advertized Price": 47489,
     "Mark Up": 395,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLE5JN1RT02B299",
@@ -6737,7 +6730,8 @@
     "Advertized Price": 47564,
     "Mark Up": 395,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN6RT03B478",
@@ -6756,7 +6750,8 @@
     "Advertized Price": 47764,
     "Mark Up": 395,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYKB5FNXRT02A035",
@@ -6775,7 +6770,8 @@
     "Advertized Price": 45524,
     "Mark Up": 5995,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT50A233",
@@ -6794,7 +6790,8 @@
     "Advertized Price": 49943,
     "Mark Up": 5995,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN2RT01A918",
@@ -6813,7 +6810,8 @@
     "Advertized Price": 44846,
     "Mark Up": 399,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN4RT51A353",
@@ -6832,7 +6830,8 @@
     "Advertized Price": 47806,
     "Mark Up": 399,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JNXRT51A518",
@@ -6851,7 +6850,8 @@
     "Advertized Price": 49481,
     "Mark Up": 1999,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN8RT51A033",
@@ -6870,7 +6870,8 @@
     "Advertized Price": 44802,
     "Mark Up": 699,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN3RT02B412",
@@ -6889,7 +6890,8 @@
     "Advertized Price": 46913,
     "Mark Up": 699,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT02A151",
@@ -6908,7 +6910,8 @@
     "Advertized Price": 47963,
     "Mark Up": 699,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   },
   {
     "VIN": "3TYLB5JN7RT02A148",
@@ -6927,6 +6930,7 @@
     "Advertized Price": 48268,
     "Mark Up": 699,
     "Exterior Color": null,
-    "Interior Color": null
+    "Interior Color": null,
+    "Near Me": false
   }
 ]
