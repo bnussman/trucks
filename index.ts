@@ -60,13 +60,8 @@ const INVENTORY_QUERY = gql`
         }
         price {
           advertizedPrice
-          nonSpAdvertizedPrice
           totalMsrp
           sellingPrice
-          dph
-          dioTotalMsrp
-          dioTotalDealerSellingPrice
-          dealerCashApplied
           baseMsrp
         }
         options {
