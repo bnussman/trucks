@@ -175,28 +175,29 @@ async function run() {
     } while (page <= pages)
   }
 
-  const data = vehicles.map((v) => ({
-    VIN: v.vin,
-    "Stock Number": v.stockNum,
-    Year: v.year,
-    Trim: v.model.marketingName,
-    Description: v.model.marketingTitle,
-    Series: v.marketingSeries,
-    "Shipping Status": getShippingStatus(v.dealerCategory),
-    'Pre-Sold': v.isPreSold,
-    'Hold Status': v.holdStatus,
-    'Temp VIN': v.isTempVin,
-    'Dealer': v.dealerMarketingName,
-    'Base MSRP': v.price.baseMsrp,
-    'Total MSRP': v.price.totalMsrp,
-    'Advertized Price': v.price.advertizedPrice,
-    'Mark Up': (v.price.advertizedPrice && v.price.totalMsrp) ? (v.price.advertizedPrice - v.price.totalMsrp) : 0,
-    "Exterior Color": v.extColor.marketingName,
-    "Interior Color": v.intColor.marketingName,
-    "Delivery ETA From": v.eta?.currFromDate,
-    "Delivery ETA To": v.eta?.currToDate,
-    "Near Me": v.nearMe,
-  }));
+  const data = vehicles.map((v) => {
+    return ({
+      VIN: v.vin,
+      "Stock Number": v.stockNum,
+      Year: v.year,
+      Trim: v.model.marketingName,
+      Description: v.model.marketingTitle,
+      Series: v.marketingSeries,
+      "Shipping Status": getShippingStatus(v.dealerCategory),
+      'Pre-Sold': v.isPreSold,
+      'Hold Status': v.holdStatus,
+      'Temp VIN': v.isTempVin,
+      'Dealer': v.dealerMarketingName,
+      'Base MSRP': v.price.baseMsrp,
+      'Total MSRP': v.price.totalMsrp,
+      'Advertized Price': v.price.advertizedPrice,
+      'Mark Up': (v.price.advertizedPrice && v.price.totalMsrp) ? (v.price.advertizedPrice - v.price.totalMsrp) : 0,
+      "Exterior Color": v.extColor.marketingName,
+      "Interior Color": v.intColor.marketingName,
+      "Delivery ETA From": v.eta?.currFromDate ?? null,
+      "Delivery ETA To": v.eta?.currToDate ?? null,
+      "Near Me": v.nearMe,
+    })});
 
   const filteredData = data.reduce<typeof data>((acc, truck) => {
     if (truck.Year >= 2024 && !acc.some(t => t.VIN === truck.VIN)) {
