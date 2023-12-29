@@ -2,11 +2,13 @@ import { firefox } from 'playwright';
 import { request, gql } from "graphql-request";
 import { LocateVehiclesByZipResponse, VehicleSummary } from './types';
 import { writeFile } from 'fs/promises';
+import { getRandom } from 'random-useragent';
 
 async function getHeaders() {
   const browser = await firefox.launch();
   const page = await browser.newPage({
-    viewport: { width: 1920, height: 1080 }
+    viewport: { width: 1920, height: 1080 },
+    userAgent: getRandom(),
   });
 
   let headers;

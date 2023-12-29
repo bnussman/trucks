@@ -10,6 +10,7 @@
   "devDependencies": {
     "@playwright/test": "^1.40.0",
     "@types/node": "^20.10.0",
+    "@types/random-useragent": "^0.3.3",
     "concurrently": "latest",
     "typescript": "latest"
   },
@@ -17,6 +18,7 @@
   "dependencies": {
     "graphql": "^16.8.1",
     "graphql-request": "^6.1.0",
-    "playwright": "latest"
+    "playwright": "latest",
+    "random-useragent": "^0.5.0"
   }
 }
