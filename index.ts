@@ -138,7 +138,9 @@ function sleep(ms: number) {
 const zipCodes = ["28270", "75201", "90274"];
 
 async function run() {
-  const headers = await getHeaders();
+  let headers = await getHeaders();
+
+  let failures = 0;
 
   let vehicles: (VehicleSummary & { nearMe: boolean })[] = [];
 
@@ -146,22 +148,35 @@ async function run() {
     let page = 1;
     let pages = 1;
 
+    let result = null;
+
     do {
       console.log(`Zip Code ${zipCode} | Page ${page}/${pages}`);
-      const result = await request<LocateVehiclesByZipResponse>(
-        "https://api.search-inventory.toyota.com/graphql",
-        INVENTORY_QUERY,
-        {
-          zipCode: zipCode,
-          brand: "TOYOTA",
-          pageNo: page,
-          pageSize: 100,
-          seriesCodes: 'tacoma,tacomahybrid',
-          distance: 2000,
-          year: 2024,
-        },
-        headers 
-      );
+      try {
+        result = await request<LocateVehiclesByZipResponse>(
+          "https://api.search-inventory.toyota.com/graphql",
+          INVENTORY_QUERY,
+          {
+            zipCode: zipCode,
+            brand: "TOYOTA",
+            pageNo: page,
+            pageSize: 100,
+            seriesCodes: 'tacoma,tacomahybrid',
+            distance: 2000,
+            year: 2024,
+          },
+          headers 
+        );
+      } catch (error) {
+        console.error("Got request error", error)
+        failures++;
+        
+        if (failures > 3) {
+          process.exit();
+        }
+        headers = await getHeaders();
+        continue;
+      }
 
       vehicles = vehicles.concat(result.locateVehiclesByZip.vehicleSummary.map(truck => ({
         ...truck,
@@ -171,7 +186,7 @@ async function run() {
       pages = result.locateVehiclesByZip.pagination.totalPages;
       page++;
 
-      await sleep(5000);
+      await sleep(2_000);
     } while (page <= pages)
   }
 
