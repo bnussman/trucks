@@ -5874,7 +5874,7 @@
     "Near Me": true
   },
   {
-    "VIN": "3TYLB5JN9RT04A465",
+    "VIN": "3TYLB5JN6RT04A889",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR5",
@@ -5896,7 +5896,7 @@
     "Near Me": true
   },
   {
-    "VIN": "3TYLB5JN6RT04A889",
+    "VIN": "3TYLB5JN9RT04A465",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR5",
@@ -7348,7 +7348,7 @@
     "Near Me": true
   },
   {
-    "VIN": "3TYLB5JN2RT05B842",
+    "VIN": "3TYLB5JN9RT05A946",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR5",
@@ -7370,7 +7370,7 @@
     "Near Me": true
   },
   {
-    "VIN": "3TYLB5JN9RT05A946",
+    "VIN": "3TYLB5JN2RT05B842",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR5",
@@ -7568,28 +7568,6 @@
     "Near Me": true
   },
   {
-    "VIN": "3TYLB5JN2RT02A848",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Off-Road",
-    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "DealerHold",
-    "Temp VIN": true,
-    "Dealer": "Dan Cava's Toyota World",
-    "Base MSRP": 42900,
-    "Total MSRP": 51335,
-    "Advertized Price": 51335,
-    "Mark Up": 0,
-    "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": true
-  },
-  {
     "VIN": "3TYLB5JNXRT03B872",
     "Stock Number": null,
     "Year": 2024,
@@ -7606,6 +7584,28 @@
     "Advertized Price": 51335,
     "Mark Up": 0,
     "Exterior Color": "Underground",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": true
+  },
+  {
+    "VIN": "3TYLB5JN2RT02A848",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Off-Road",
+    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "DealerHold",
+    "Temp VIN": true,
+    "Dealer": "Dan Cava's Toyota World",
+    "Base MSRP": 42900,
+    "Total MSRP": 51335,
+    "Advertized Price": 51335,
+    "Mark Up": 0,
+    "Exterior Color": "Blue Crush Metallic",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -7807,7 +7807,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN7RT02A929",
@@ -7829,7 +7829,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT02A840",
@@ -7851,7 +7851,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT51A328",
@@ -7873,7 +7873,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HNXRT03B947",
@@ -7895,7 +7895,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5FN2RT51A859",
@@ -7917,7 +7917,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FNXRT50A284",
@@ -7939,7 +7939,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT02A954",
@@ -7961,7 +7961,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN1RT51A841",
@@ -7983,7 +7983,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT01A648",
@@ -8005,7 +8005,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT50A205",
@@ -8027,7 +8027,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN1RT05C346",
@@ -8049,7 +8049,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT51A948",
@@ -8071,7 +8071,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT05A651",
@@ -8093,7 +8093,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT04A776",
@@ -8115,7 +8115,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN9RT02A762",
@@ -8137,7 +8137,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT51A312",
@@ -8159,7 +8159,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT05B367",
@@ -8181,7 +8181,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT04B916",
@@ -8203,7 +8203,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT05A996",
@@ -8225,7 +8225,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT05C003",
@@ -8247,7 +8247,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT05B869",
@@ -8269,7 +8269,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT04C320",
@@ -8291,7 +8291,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT04A242",
@@ -8313,7 +8313,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT51A325",
@@ -8335,7 +8335,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT05A177",
@@ -8357,7 +8357,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT04C182",
@@ -8379,7 +8379,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT05C067",
@@ -8401,7 +8401,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT51A257",
@@ -8423,7 +8423,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT51A747",
@@ -8445,7 +8445,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN4RT02A175",
@@ -8467,7 +8467,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT51A656",
@@ -8489,7 +8489,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TMLB5JNXRM08C090",
@@ -8511,7 +8511,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": "2024-03-20T00:00:00.000Z",
     "Delivery ETA To": "2024-03-25T00:00:00.000Z",
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN5RT05A597",
@@ -8533,7 +8533,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT03B405",
@@ -8555,7 +8555,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT51A331",
@@ -8577,7 +8577,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT03C139",
@@ -8599,7 +8599,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT02B065",
@@ -8621,7 +8621,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT03A426",
@@ -8643,7 +8643,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT03A016",
@@ -8665,7 +8665,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT02A850",
@@ -8687,7 +8687,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KNXRT51A141",
@@ -8709,7 +8709,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT51A777",
@@ -8731,7 +8731,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT04B364",
@@ -8753,7 +8753,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT05C316",
@@ -8775,7 +8775,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT04A167",
@@ -8797,7 +8797,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT05B258",
@@ -8819,7 +8819,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT51A229",
@@ -8841,7 +8841,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN9RT51A210",
@@ -8863,7 +8863,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT02A521",
@@ -8885,7 +8885,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN7RT02A761",
@@ -8907,7 +8907,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT01B173",
@@ -8929,7 +8929,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT03B923",
@@ -8951,7 +8951,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT51A254",
@@ -8973,7 +8973,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT03A837",
@@ -8995,7 +8995,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT05B078",
@@ -9017,7 +9017,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT05B079",
@@ -9039,7 +9039,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT04B512",
@@ -9061,7 +9061,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT03B325",
@@ -9083,7 +9083,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT02B250",
@@ -9105,7 +9105,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT51A597",
@@ -9127,7 +9127,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT01A686",
@@ -9149,7 +9149,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT51A829",
@@ -9171,7 +9171,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN5RT01A769",
@@ -9193,7 +9193,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT000336",
@@ -9215,7 +9215,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN6RT05A589",
@@ -9237,7 +9237,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN2RT02A336",
@@ -9259,7 +9259,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT51A655",
@@ -9281,7 +9281,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TMLB5JN3RM08C559",
@@ -9303,7 +9303,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": "2024-03-19T00:00:00.000Z",
     "Delivery ETA To": "2024-03-24T00:00:00.000Z",
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT02B041",
@@ -9325,7 +9325,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN0RT02A481",
@@ -9347,7 +9347,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT51A755",
@@ -9369,7 +9369,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT02A942",
@@ -9391,7 +9391,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT01A417",
@@ -9413,7 +9413,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN3RT51A252",
@@ -9435,7 +9435,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN1RT02A263",
@@ -9457,7 +9457,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT02A369",
@@ -9479,7 +9479,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN9RT03A253",
@@ -9501,7 +9501,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT05A406",
@@ -9523,7 +9523,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT03B260",
@@ -9545,7 +9545,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT51A207",
@@ -9567,7 +9567,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT02A344",
@@ -9589,7 +9589,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT03B540",
@@ -9611,7 +9611,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT04A744",
@@ -9633,7 +9633,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT50A320",
@@ -9655,7 +9655,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT51A657",
@@ -9677,7 +9677,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT01A796",
@@ -9699,7 +9699,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT000380",
@@ -9721,7 +9721,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN0RT02B329",
@@ -9743,7 +9743,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FNXRT51A622",
@@ -9765,7 +9765,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT02B141",
@@ -9787,7 +9787,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FNXRT50A253",
@@ -9809,7 +9809,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN8RT01A720",
@@ -9831,7 +9831,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT01A798",
@@ -9853,7 +9853,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT02A393",
@@ -9875,7 +9875,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN4RT01B127",
@@ -9897,7 +9897,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN8RT01A717",
@@ -9919,7 +9919,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT51A335",
@@ -9941,7 +9941,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT02A842",
@@ -9963,7 +9963,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT000167",
@@ -9985,7 +9985,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT49A073",
@@ -10007,7 +10007,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT51A768",
@@ -10029,7 +10029,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FNXRT02A925",
@@ -10051,7 +10051,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT02A398",
@@ -10073,7 +10073,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN5RT02B338",
@@ -10095,7 +10095,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLE5JN7RT02B744",
@@ -10117,7 +10117,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT02A197",
@@ -10139,7 +10139,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT02B181",
@@ -10161,7 +10161,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLE5JNXRT01A673",
@@ -10183,7 +10183,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT000410",
@@ -10205,7 +10205,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN6RT02A873",
@@ -10227,7 +10227,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN8RT51A585",
@@ -10249,7 +10249,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLE5JN8RT51A105",
@@ -10271,7 +10271,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN1RT05B939",
@@ -10293,7 +10293,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT03A527",
@@ -10315,7 +10315,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT01A304",
@@ -10337,7 +10337,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT03C164",
@@ -10359,7 +10359,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT01A849",
@@ -10381,7 +10381,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT02B791",
@@ -10403,7 +10403,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT51A134",
@@ -10425,7 +10425,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT01A693",
@@ -10447,7 +10447,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT03A145",
@@ -10469,7 +10469,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT05B253",
@@ -10491,7 +10491,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT05B603",
@@ -10513,7 +10513,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT04A164",
@@ -10535,7 +10535,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN1RT51A301",
@@ -10557,7 +10557,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT02A225",
@@ -10579,7 +10579,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT51A689",
@@ -10601,7 +10601,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN5RT05A258",
@@ -10623,7 +10623,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT51A726",
@@ -10645,7 +10645,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT02A693",
@@ -10667,7 +10667,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT01A923",
@@ -10689,7 +10689,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TMLB5JN3RM05A520",
@@ -10711,7 +10711,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT05C286",
@@ -10733,7 +10733,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN0RT05C337",
@@ -10755,7 +10755,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT03B343",
@@ -10777,7 +10777,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT01A842",
@@ -10799,7 +10799,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT03B031",
@@ -10821,7 +10821,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT51A639",
@@ -10843,7 +10843,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT05B089",
@@ -10865,7 +10865,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT03A829",
@@ -10887,7 +10887,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT03A862",
@@ -10909,7 +10909,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT01A957",
@@ -10931,7 +10931,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT01A950",
@@ -10953,7 +10953,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT05B605",
@@ -10975,7 +10975,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT02A839",
@@ -10997,7 +10997,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT02A959",
@@ -11019,7 +11019,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN8RT05B512",
@@ -11041,7 +11041,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT000416",
@@ -11063,7 +11063,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT03B011",
@@ -11085,7 +11085,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT51A590",
@@ -11107,7 +11107,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT04C221",
@@ -11129,7 +11129,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT04A257",
@@ -11151,7 +11151,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT05C300",
@@ -11173,7 +11173,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN1RT02A733",
@@ -11195,7 +11195,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT03A582",
@@ -11217,7 +11217,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT03B174",
@@ -11239,7 +11239,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT03A411",
@@ -11261,7 +11261,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT01A823",
@@ -11283,7 +11283,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT04B177",
@@ -11305,7 +11305,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT03B804",
@@ -11327,7 +11327,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT02A984",
@@ -11349,7 +11349,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT51A563",
@@ -11371,7 +11371,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT01A337",
@@ -11393,7 +11393,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT03A847",
@@ -11415,7 +11415,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT04B501",
@@ -11437,7 +11437,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT05A851",
@@ -11459,7 +11459,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT000225",
@@ -11481,7 +11481,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN3RT01A065",
@@ -11503,7 +11503,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FNXRT01A914",
@@ -11525,7 +11525,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN8RT50A347",
@@ -11547,7 +11547,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLE5JN6RT02B251",
@@ -11569,7 +11569,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN3RT01B015",
@@ -11591,7 +11591,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN6RT51A164",
@@ -11613,7 +11613,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT50A257",
@@ -11635,7 +11635,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN5RT51A647",
@@ -11657,7 +11657,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN6RT01A389",
@@ -11679,7 +11679,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN1RT51A928",
@@ -11701,7 +11701,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLE5JN2RT51A178",
@@ -11723,7 +11723,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT01A945",
@@ -11745,7 +11745,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN0RT000019",
@@ -11767,7 +11767,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN2RT51A839",
@@ -11789,7 +11789,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT51A542",
@@ -11811,7 +11811,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN9RT05B526",
@@ -11833,7 +11833,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT02A266",
@@ -11855,7 +11855,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT04A423",
@@ -11877,7 +11877,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT05C164",
@@ -11899,7 +11899,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT04A536",
@@ -11921,7 +11921,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT03A755",
@@ -11943,7 +11943,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT05B309",
@@ -11965,7 +11965,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT04B506",
@@ -11987,7 +11987,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT03B552",
@@ -12009,7 +12009,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT50A142",
@@ -12031,7 +12031,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT05B786",
@@ -12053,7 +12053,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT000457",
@@ -12075,7 +12075,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT51A159",
@@ -12097,7 +12097,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN2RT51A534",
@@ -12119,7 +12119,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLE5JN0RT01A777",
@@ -12141,7 +12141,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN6RT02A923",
@@ -12163,7 +12163,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT49A134",
@@ -12185,7 +12185,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT02A527",
@@ -12207,7 +12207,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN7RT51A517",
@@ -12229,7 +12229,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KNXRT02B822",
@@ -12251,7 +12251,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN5RT05B354",
@@ -12273,7 +12273,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT05C375",
@@ -12295,7 +12295,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT04A043",
@@ -12317,7 +12317,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT05B017",
@@ -12339,7 +12339,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT05A477",
@@ -12361,7 +12361,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT05B883",
@@ -12383,7 +12383,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT04B421",
@@ -12405,7 +12405,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT05A364",
@@ -12427,7 +12427,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT05A761",
@@ -12449,7 +12449,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT05A020",
@@ -12471,7 +12471,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT04C202",
@@ -12493,7 +12493,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT05C234",
@@ -12515,7 +12515,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT03A023",
@@ -12537,7 +12537,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT50A024",
@@ -12559,7 +12559,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT03A840",
@@ -12581,7 +12581,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5FNXRT50A161",
@@ -12603,7 +12603,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN5RT02A928",
@@ -12625,7 +12625,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN3RT51A090",
@@ -12647,7 +12647,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT02A412",
@@ -12669,7 +12669,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN8RT50A078",
@@ -12691,7 +12691,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT50A337",
@@ -12713,7 +12713,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN7RT01A322",
@@ -12735,7 +12735,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT51A256",
@@ -12757,7 +12757,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN4RT51A857",
@@ -12779,7 +12779,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT01A333",
@@ -12801,7 +12801,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FNXRT51A216",
@@ -12823,7 +12823,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT02A992",
@@ -12845,7 +12845,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN3RT05C347",
@@ -12867,7 +12867,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN4RT51A765",
@@ -12889,7 +12889,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT04A618",
@@ -12911,7 +12911,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT04A141",
@@ -12933,7 +12933,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN2RT51A344",
@@ -12955,7 +12955,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN7RT51A464",
@@ -12977,7 +12977,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN9RT05A246",
@@ -12999,7 +12999,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT000445",
@@ -13021,7 +13021,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN0RT51A732",
@@ -13043,7 +13043,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT05A421",
@@ -13065,7 +13065,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT05B893",
@@ -13087,7 +13087,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT51A740",
@@ -13109,7 +13109,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN1RT02A912",
@@ -13131,7 +13131,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLE5JN4RT02B197",
@@ -13153,7 +13153,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN3RT51A204",
@@ -13175,7 +13175,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKE5JN3RT000171",
@@ -13197,7 +13197,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN9RT02A477",
@@ -13219,7 +13219,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT51A261",
@@ -13241,7 +13241,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN9RT03B096",
@@ -13263,7 +13263,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN7RT05A257",
@@ -13285,7 +13285,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT04A893",
@@ -13307,7 +13307,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT04B587",
@@ -13329,7 +13329,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT05B228",
@@ -13351,7 +13351,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT04A466",
@@ -13373,7 +13373,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT05A355",
@@ -13395,7 +13395,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT04B397",
@@ -13417,7 +13417,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT51A197",
@@ -13439,7 +13439,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT04C178",
@@ -13461,7 +13461,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT05A667",
@@ -13483,7 +13483,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT04B702",
@@ -13505,7 +13505,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN3RT03A252",
@@ -13527,7 +13527,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT000389",
@@ -13549,7 +13549,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN5RT01A617",
@@ -13571,7 +13571,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN3RT03B236",
@@ -13593,7 +13593,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN1RT05B873",
@@ -13615,7 +13615,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT04B595",
@@ -13637,7 +13637,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT04A667",
@@ -13659,7 +13659,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT05A951",
@@ -13681,7 +13681,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT51A481",
@@ -13703,7 +13703,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN1RT04A064",
@@ -13725,7 +13725,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN2RT05A604",
@@ -13747,7 +13747,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN0RT05C335",
@@ -13769,7 +13769,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT04A346",
@@ -13791,7 +13791,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT04A775",
@@ -13813,7 +13813,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT05B472",
@@ -13835,7 +13835,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT03B803",
@@ -13857,7 +13857,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT04A677",
@@ -13879,7 +13879,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT02A087",
@@ -13901,7 +13901,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT02A341",
@@ -13923,7 +13923,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT05A621",
@@ -13945,7 +13945,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT03B725",
@@ -13967,7 +13967,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT02B155",
@@ -13989,7 +13989,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT51A432",
@@ -14011,7 +14011,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN1RT01A482",
@@ -14033,7 +14033,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN2RT03B437",
@@ -14055,7 +14055,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT04A891",
@@ -14077,7 +14077,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT03B345",
@@ -14099,7 +14099,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT03A496",
@@ -14121,7 +14121,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT51A902",
@@ -14143,7 +14143,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT01A970",
@@ -14165,7 +14165,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT04B721",
@@ -14187,7 +14187,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN7RT02B028",
@@ -14209,7 +14209,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN1RT02B168",
@@ -14231,7 +14231,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT49A196",
@@ -14253,7 +14253,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT01B063",
@@ -14275,7 +14275,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN5RT01A884",
@@ -14297,7 +14297,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN0RT50A116",
@@ -14319,7 +14319,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT02A462",
@@ -14341,7 +14341,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT03A089",
@@ -14363,7 +14363,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT51A255",
@@ -14385,7 +14385,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT03B686",
@@ -14407,7 +14407,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT03B557",
@@ -14429,7 +14429,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT02B178",
@@ -14451,7 +14451,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT05A881",
@@ -14473,7 +14473,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT05A991",
@@ -14495,7 +14495,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT51A512",
@@ -14517,7 +14517,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT03B670",
@@ -14539,7 +14539,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT02B764",
@@ -14561,7 +14561,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT01B073",
@@ -14583,7 +14583,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT000429",
@@ -14605,7 +14605,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN1RT05A242",
@@ -14627,7 +14627,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT51A059",
@@ -14649,7 +14649,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT05C012",
@@ -14671,7 +14671,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT01A339",
@@ -14693,7 +14693,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT02A233",
@@ -14715,7 +14715,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT05C260",
@@ -14737,7 +14737,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT04C039",
@@ -14759,7 +14759,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKE5JN3RT05A928",
@@ -14781,7 +14781,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN5RT04B413",
@@ -14803,7 +14803,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT03B921",
@@ -14825,7 +14825,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT05B734",
@@ -14847,7 +14847,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN8RT50A210",
@@ -14869,7 +14869,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT05A187",
@@ -14891,7 +14891,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT04B995",
@@ -14913,7 +14913,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN4RT02A989",
@@ -14935,7 +14935,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT04B594",
@@ -14957,7 +14957,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT51A613",
@@ -14979,7 +14979,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN0RT01A825",
@@ -15001,7 +15001,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN9RT50A017",
@@ -15023,7 +15023,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN3RT02A930",
@@ -15045,7 +15045,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT01A782",
@@ -15067,7 +15067,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT02A513",
@@ -15089,7 +15089,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT03B421",
@@ -15111,7 +15111,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN9RT02A172",
@@ -15133,7 +15133,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLE5JN5RT02A849",
@@ -15155,7 +15155,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT000239",
@@ -15177,7 +15177,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT01A288",
@@ -15199,7 +15199,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT02A195",
@@ -15221,7 +15221,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT51A583",
@@ -15243,7 +15243,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT000251",
@@ -15265,7 +15265,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN4RT51A468",
@@ -15287,7 +15287,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT51A521",
@@ -15309,7 +15309,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT01A795",
@@ -15331,7 +15331,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT51A147",
@@ -15353,7 +15353,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT03B232",
@@ -15375,7 +15375,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT05B581",
@@ -15397,7 +15397,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT03A812",
@@ -15419,7 +15419,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT05B438",
@@ -15441,7 +15441,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT05B130",
@@ -15463,7 +15463,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT03B646",
@@ -15485,7 +15485,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN1RT000090",
@@ -15507,7 +15507,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT50A305",
@@ -15529,7 +15529,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT01A964",
@@ -15551,7 +15551,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN8RT03A618",
@@ -15573,7 +15573,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT04A230",
@@ -15595,7 +15595,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT05B306",
@@ -15617,7 +15617,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT03C084",
@@ -15639,7 +15639,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT04B095",
@@ -15661,7 +15661,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT03B706",
@@ -15683,7 +15683,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT000349",
@@ -15705,7 +15705,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT05C313",
@@ -15727,7 +15727,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT04A614",
@@ -15749,7 +15749,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT51A633",
@@ -15771,7 +15771,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT03B913",
@@ -15793,7 +15793,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN7RT01A868",
@@ -15815,7 +15815,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FNXRT01A718",
@@ -15837,7 +15837,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN5RT02B027",
@@ -15859,7 +15859,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT01A822",
@@ -15881,7 +15881,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN1RT01A185",
@@ -15903,7 +15903,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT02A227",
@@ -15925,7 +15925,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT51A969",
@@ -15947,7 +15947,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT50A368",
@@ -15969,7 +15969,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT01A329",
@@ -15991,7 +15991,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT51A659",
@@ -16013,7 +16013,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN6RT02A209",
@@ -16035,7 +16035,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN2RT01A356",
@@ -16057,7 +16057,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT50A333",
@@ -16079,7 +16079,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN1RT04A844",
@@ -16101,7 +16101,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN1RT04B005",
@@ -16123,7 +16123,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT50A235",
@@ -16145,7 +16145,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT03B271",
@@ -16167,7 +16167,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT04C240",
@@ -16189,7 +16189,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT05B917",
@@ -16211,7 +16211,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT04B408",
@@ -16233,7 +16233,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLE5JN3RT05A674",
@@ -16255,7 +16255,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT03A993",
@@ -16277,7 +16277,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT05A831",
@@ -16299,7 +16299,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT01A206",
@@ -16321,7 +16321,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN1RT50A058",
@@ -16343,7 +16343,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN0RT01A159",
@@ -16365,7 +16365,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN3RT01A768",
@@ -16387,7 +16387,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT02A394",
@@ -16409,7 +16409,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT01B058",
@@ -16431,7 +16431,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT02A127",
@@ -16453,7 +16453,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN3RT05C345",
@@ -16475,7 +16475,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FNXRT01B139",
@@ -16497,7 +16497,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT01A416",
@@ -16519,7 +16519,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN0RT04A861",
@@ -16541,7 +16541,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT05C377",
@@ -16563,7 +16563,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT05B488",
@@ -16585,7 +16585,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT05A224",
@@ -16607,7 +16607,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT04A422",
@@ -16629,7 +16629,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT04B428",
@@ -16651,7 +16651,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT51A104",
@@ -16673,7 +16673,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT05A680",
@@ -16695,7 +16695,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT05B254",
@@ -16717,7 +16717,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT51A477",
@@ -16739,7 +16739,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT50A199",
@@ -16761,7 +16761,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT04C194",
@@ -16783,7 +16783,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FNXRT02A181",
@@ -16805,7 +16805,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT02A461",
@@ -16827,7 +16827,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN3RT01A981",
@@ -16849,7 +16849,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT51A916",
@@ -16871,7 +16871,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT02A649",
@@ -16893,7 +16893,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT05A166",
@@ -16915,7 +16915,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT02A638",
@@ -16937,7 +16937,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN4RT02A872",
@@ -16959,7 +16959,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT51A402",
@@ -16981,7 +16981,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT000455",
@@ -17003,7 +17003,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN5RT02A371",
@@ -17025,7 +17025,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT01A229",
@@ -17047,7 +17047,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TMLB5JN8RM04A095",
@@ -17069,7 +17069,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": "2024-01-05",
     "Delivery ETA To": "2024-02-06",
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT51A865",
@@ -17091,7 +17091,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT01A209",
@@ -17113,7 +17113,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT51A951",
@@ -17135,7 +17135,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT03B752",
@@ -17157,7 +17157,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT03B541",
@@ -17179,7 +17179,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT04C292",
@@ -17201,7 +17201,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT04B515",
@@ -17223,7 +17223,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT04B243",
@@ -17245,7 +17245,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT04C033",
@@ -17267,7 +17267,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN3RT51A635",
@@ -17289,7 +17289,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN0RT04C198",
@@ -17311,7 +17311,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT04B048",
@@ -17333,7 +17333,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT05C251",
@@ -17355,7 +17355,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT05C153",
@@ -17377,7 +17377,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT51A541",
@@ -17399,7 +17399,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT04A411",
@@ -17421,7 +17421,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT05B422",
@@ -17443,7 +17443,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT04B205",
@@ -17465,7 +17465,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN5RT01A906",
@@ -17487,7 +17487,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN4RT05A605",
@@ -17509,7 +17509,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN1RT04B369",
@@ -17531,7 +17531,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT04B915",
@@ -17553,7 +17553,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT04A978",
@@ -17575,7 +17575,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT05B868",
@@ -17597,7 +17597,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT51A562",
@@ -17619,7 +17619,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT02B146",
@@ -17641,7 +17641,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT05A681",
@@ -17663,7 +17663,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT05A850",
@@ -17685,7 +17685,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT51A917",
@@ -17707,7 +17707,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN9RT02A687",
@@ -17729,7 +17729,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT51A736",
@@ -17751,7 +17751,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN8RT01A233",
@@ -17773,7 +17773,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT01A332",
@@ -17795,7 +17795,7 @@
     "Interior Color": "Boulder SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN4RT02A483",
@@ -17817,7 +17817,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT02A271",
@@ -17839,7 +17839,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN1RT51A587",
@@ -17861,7 +17861,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN0RT02A173",
@@ -17883,7 +17883,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN7RT51A749",
@@ -17905,7 +17905,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT02A240",
@@ -17927,7 +17927,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT50A348",
@@ -17949,7 +17949,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN9RT51A350",
@@ -17971,7 +17971,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT05A689",
@@ -17993,7 +17993,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT01A987",
@@ -18015,7 +18015,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKE5JN0RT50A079",
@@ -18037,7 +18037,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN5RT02A055",
@@ -18059,7 +18059,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FNXRT51A913",
@@ -18081,7 +18081,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN2RT02A174",
@@ -18103,7 +18103,7 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN4RT02A138",
@@ -18125,7 +18125,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN6RT50A127",
@@ -18147,7 +18147,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN1RT51A251",
@@ -18169,7 +18169,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN4RT02A354",
@@ -18191,7 +18191,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN1RT01A943",
@@ -18213,7 +18213,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKD5HN7RT02A596",
@@ -18235,7 +18235,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT01A308",
@@ -18257,7 +18257,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN2RT02A137",
@@ -18279,7 +18279,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN6RT50A083",
@@ -18301,7 +18301,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN5RT51A152",
@@ -18323,7 +18323,7 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT51A504",
@@ -18345,7 +18345,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JN8RT05C302",
@@ -18367,7 +18367,7 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN4RT50A264",
@@ -18389,7 +18389,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYKB5FN2RT02A482",
@@ -18411,7 +18411,7 @@
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLB5JNXRT51A700",
@@ -18433,7 +18433,7 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
-    "Near Me": false
+    "Near Me": true
   },
   {
     "VIN": "3TYLD5KN5RT01A615",
@@ -21868,28 +21868,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKD5HN7RT03A240",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Toyota of Hackensack",
-    "Base MSRP": 33700,
-    "Total MSRP": 36934,
-    "Advertized Price": 36834,
-    "Mark Up": -100,
-    "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKD5HN4RT04B020",
     "Stock Number": null,
     "Year": 2024,
@@ -21906,6 +21884,28 @@
     "Advertized Price": 36834,
     "Mark Up": -100,
     "Exterior Color": "Black",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKD5HN7RT03A240",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Toyota of Hackensack",
+    "Base MSRP": 33700,
+    "Total MSRP": 36934,
+    "Advertized Price": 36834,
+    "Mark Up": -100,
+    "Exterior Color": "Underground",
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -27720,28 +27720,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN5RT03B780",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Lia Toyota of Colonie",
-    "Base MSRP": 42600,
-    "Total MSRP": 54129,
-    "Advertized Price": 54129,
-    "Mark Up": 0,
-    "Exterior Color": "Underground",
-    "Interior Color": "Black SofTex",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYLB5JN1RT03B775",
     "Stock Number": null,
     "Year": 2024,
@@ -27758,6 +27736,28 @@
     "Advertized Price": 54129,
     "Mark Up": 0,
     "Exterior Color": "Black",
+    "Interior Color": "Black SofTex",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN5RT03B780",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Lia Toyota of Colonie",
+    "Base MSRP": 42600,
+    "Total MSRP": 54129,
+    "Advertized Price": 54129,
+    "Mark Up": 0,
+    "Exterior Color": "Underground",
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -35420,28 +35420,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN8RM05A013",
-    "Stock Number": "69394",
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "DealerHold",
-    "Temp VIN": true,
-    "Dealer": "Karl Malone Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 43528,
-    "Advertized Price": 43528,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-01-03",
-    "Delivery ETA To": "2024-01-11",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN1RM05A340",
     "Stock Number": "69399",
     "Year": 2024,
@@ -35461,6 +35439,28 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN8RM05A013",
+    "Stock Number": "69394",
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "DealerHold",
+    "Temp VIN": true,
+    "Dealer": "Karl Malone Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 43528,
+    "Advertized Price": 43528,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": "2024-01-03",
+    "Delivery ETA To": "2024-01-11",
     "Near Me": false
   },
   {
@@ -37862,7 +37862,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN3RT05B624",
+    "VIN": "3TYLB5JN5RT05A698",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Off-Road",
@@ -37884,7 +37884,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN5RT05A698",
+    "VIN": "3TYLB5JN3RT05B624",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Off-Road",
@@ -37928,28 +37928,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN0RT05A155",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Off-Road",
-    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Toyota of El Cajon",
-    "Base MSRP": 42900,
-    "Total MSRP": 52649,
-    "Advertized Price": 55139,
-    "Mark Up": 2490,
-    "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Black/White Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYLB5JN8RT05B232",
     "Stock Number": null,
     "Year": 2024,
@@ -37967,6 +37945,28 @@
     "Mark Up": 2490,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN0RT05A155",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Off-Road",
+    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Toyota of El Cajon",
+    "Base MSRP": 42900,
+    "Total MSRP": 52649,
+    "Advertized Price": 55139,
+    "Mark Up": 2490,
+    "Exterior Color": "Blue Crush Metallic",
+    "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -38434,28 +38434,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN5RT04A138",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Off-Road",
-    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Toyota Chula Vista",
-    "Base MSRP": 42900,
-    "Total MSRP": 55888,
-    "Advertized Price": 55888,
-    "Mark Up": 0,
-    "Exterior Color": "Underground",
-    "Interior Color": "Black SofTex",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYLB5JN0RT05A639",
     "Stock Number": null,
     "Year": 2024,
@@ -38472,6 +38450,28 @@
     "Advertized Price": 55888,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
+    "Interior Color": "Black SofTex",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN5RT04A138",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Off-Road",
+    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Toyota Chula Vista",
+    "Base MSRP": 42900,
+    "Total MSRP": 55888,
+    "Advertized Price": 55888,
+    "Mark Up": 0,
+    "Exterior Color": "Underground",
     "Interior Color": "Black SofTex",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -40502,28 +40502,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN0RM05A054",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Longo Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 46248,
-    "Advertized Price": 46248,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-01-04",
-    "Delivery ETA To": "2024-01-13",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN5RM05A244",
     "Stock Number": null,
     "Year": 2024,
@@ -40542,6 +40520,28 @@
     "Exterior Color": "Black",
     "Interior Color": "Black Fabric",
     "Delivery ETA From": "2024-01-03",
+    "Delivery ETA To": "2024-01-13",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN0RM05A054",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Longo Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 46248,
+    "Advertized Price": 46248,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": "2024-01-04",
     "Delivery ETA To": "2024-01-13",
     "Near Me": false
   },
@@ -40590,28 +40590,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN8RM05A254",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Longo Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 46248,
-    "Advertized Price": 46248,
-    "Mark Up": 0,
-    "Exterior Color": "Black",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-01-04",
-    "Delivery ETA To": "2024-01-14",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JNXRM05A238",
     "Stock Number": null,
     "Year": 2024,
@@ -40631,6 +40609,28 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": "2024-01-03",
     "Delivery ETA To": "2024-01-13",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN8RM05A254",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Longo Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 46248,
+    "Advertized Price": 46248,
+    "Mark Up": 0,
+    "Exterior Color": "Black",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": "2024-01-04",
+    "Delivery ETA To": "2024-01-14",
     "Near Me": false
   },
   {
@@ -41030,6 +41030,28 @@
     "Near Me": false
   },
   {
+    "VIN": "3TMLB5JN2RM05A430",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Longo Toyota",
+    "Base MSRP": 42600,
+    "Total MSRP": 53633,
+    "Advertized Price": 53633,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Black SofTex",
+    "Delivery ETA From": "2024-01-04",
+    "Delivery ETA To": "2024-01-14",
+    "Near Me": false
+  },
+  {
     "VIN": "3TMLB5JN9RM04A056",
     "Stock Number": null,
     "Year": 2024,
@@ -41093,28 +41115,6 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": "2024-01-03",
     "Delivery ETA To": "2024-01-13",
-    "Near Me": false
-  },
-  {
-    "VIN": "3TMLB5JN2RM05A430",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Longo Toyota",
-    "Base MSRP": 42600,
-    "Total MSRP": 53633,
-    "Advertized Price": 53633,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-01-04",
-    "Delivery ETA To": "2024-01-14",
     "Near Me": false
   },
   {
@@ -41250,28 +41250,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN1RM05A547",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Longo Toyota",
-    "Base MSRP": 42600,
-    "Total MSRP": 53633,
-    "Advertized Price": 53633,
-    "Mark Up": 0,
-    "Exterior Color": "Underground",
-    "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-01-04",
-    "Delivery ETA To": "2024-01-14",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN1RM04A214",
     "Stock Number": null,
     "Year": 2024,
@@ -41291,6 +41269,28 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": "2024-01-03",
     "Delivery ETA To": "2024-01-13",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN1RM05A547",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Longo Toyota",
+    "Base MSRP": 42600,
+    "Total MSRP": 53633,
+    "Advertized Price": 53633,
+    "Mark Up": 0,
+    "Exterior Color": "Underground",
+    "Interior Color": "Black SofTex",
+    "Delivery ETA From": "2024-01-04",
+    "Delivery ETA To": "2024-01-14",
     "Near Me": false
   },
   {
@@ -41756,28 +41756,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN0RM05A118",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 6-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "AutoNation Toyota Cerritos",
-    "Base MSRP": 43100,
-    "Total MSRP": 50025,
-    "Advertized Price": 50025,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-01-03",
-    "Delivery ETA To": "2024-01-13",
-    "Near Me": false
-  },
-  {
     "VIN": "3TYLB5JN1RT51A598",
     "Stock Number": null,
     "Year": 2024,
@@ -41797,6 +41775,28 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN0RM05A118",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 6-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "AutoNation Toyota Cerritos",
+    "Base MSRP": 43100,
+    "Total MSRP": 50025,
+    "Advertized Price": 50025,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": "2024-01-03",
+    "Delivery ETA To": "2024-01-13",
     "Near Me": false
   },
   {
@@ -42416,7 +42416,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JNXRT03B290",
+    "VIN": "3TYLB5JN5RT04B399",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR5",
@@ -42424,7 +42424,7 @@
     "Series": "Tacoma",
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
-    "Hold Status": "Available",
+    "Hold Status": null,
     "Temp VIN": true,
     "Dealer": "Northridge Toyota",
     "Base MSRP": 40900,
@@ -42438,7 +42438,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN5RT04B399",
+    "VIN": "3TYLB5JNXRT03B290",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR5",
@@ -42446,7 +42446,7 @@
     "Series": "Tacoma",
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
-    "Hold Status": null,
+    "Hold Status": "Available",
     "Temp VIN": true,
     "Dealer": "Northridge Toyota",
     "Base MSRP": 40900,
@@ -42702,28 +42702,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN3RT04B661",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Off-Road",
-    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Simi Valley Toyota",
-    "Base MSRP": 42900,
-    "Total MSRP": 52578,
-    "Advertized Price": 54073,
-    "Mark Up": 1495,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYLB5JN1RT05B623",
     "Stock Number": null,
     "Year": 2024,
@@ -42741,6 +42719,28 @@
     "Mark Up": 1495,
     "Exterior Color": "Underground",
     "Interior Color": "Black/White Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN3RT04B661",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Off-Road",
+    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Simi Valley Toyota",
+    "Base MSRP": 42900,
+    "Total MSRP": 52578,
+    "Advertized Price": 54073,
+    "Mark Up": 1495,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -48197,6 +48197,160 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMKB5FN0RM04A175",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Toyota of Renton",
+    "Base MSRP": 37200,
+    "Total MSRP": 39350,
+    "Advertized Price": 40048,
+    "Mark Up": 698,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN3RT50A221",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Toyota of Renton",
+    "Base MSRP": 40400,
+    "Total MSRP": 43774,
+    "Advertized Price": 44472,
+    "Mark Up": 698,
+    "Exterior Color": "Supersonic Red [extra_cost_color]",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN4RT04B815",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 6-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Toyota of Renton",
+    "Base MSRP": 40900,
+    "Total MSRP": 45129,
+    "Advertized Price": 45827,
+    "Mark Up": 698,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN0RT04B973",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Off-Road",
+    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Toyota of Renton",
+    "Base MSRP": 42900,
+    "Total MSRP": 45965,
+    "Advertized Price": 46663,
+    "Mark Up": 698,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN1RT02A579",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Off-Road",
+    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Toyota of Renton",
+    "Base MSRP": 42900,
+    "Total MSRP": 46665,
+    "Advertized Price": 47363,
+    "Mark Up": 698,
+    "Exterior Color": "Underground",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN0RT04B648",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Off-Road",
+    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 6-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Toyota of Renton",
+    "Base MSRP": 43400,
+    "Total MSRP": 50614,
+    "Advertized Price": 51312,
+    "Mark Up": 698,
+    "Exterior Color": "Underground",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN7RT03B831",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Off-Road",
+    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Toyota of Renton",
+    "Base MSRP": 42900,
+    "Total MSRP": 50645,
+    "Advertized Price": 51343,
+    "Mark Up": 698,
+    "Exterior Color": "Underground",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false

@@ -137,7 +137,7 @@ function sleep(ms: number) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-const zipCodes = ["28270", "75201", "90274"];
+const zipCodes = ["28270", "75201", "90274", "32198", "10003"];
 
 async function run() {
   let headers = await getHeaders();
