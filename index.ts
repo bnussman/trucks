@@ -173,7 +173,7 @@ async function run() {
         console.error("Got request error", error)
         failures++;
         
-        if (failures > 3) {
+        if (failures > 5) {
           process.exit();
         }
         headers = await getHeaders();
@@ -188,7 +188,7 @@ async function run() {
       pages = result.locateVehiclesByZip.pagination.totalPages;
       page++;
 
-      await sleep(2_000);
+      await sleep(5_000);
     } while (page <= pages)
   }
 
