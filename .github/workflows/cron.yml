@@ -16,8 +16,11 @@ jobs:
       - uses: oven-sh/setup-bun@v1
         with:
           bun-version: canary
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
       - name: Install Playwright Browsers
-        run: bunx playwright install --with-deps
+        run: npx playwright install --with-deps
       - run: bun i
       - run: bun --bun index.ts
       - name: Commit report
