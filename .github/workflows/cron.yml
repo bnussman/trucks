@@ -19,9 +19,9 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-      - name: Install Playwright Browsers
-        run: npx playwright install --with-deps
       - run: bun i
+      - name: Install Playwright Browsers
+        run: bunx playwright install --with-deps
       - run: bun run build
       - run: bun run start
       - name: Commit report
