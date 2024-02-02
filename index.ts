@@ -180,6 +180,10 @@ async function run() {
         continue;
       }
 
+      if (!result?.locateVehiclesByZip) {
+        break;
+      }
+
       vehicles = vehicles.concat(result.locateVehiclesByZip.vehicleSummary.map(truck => ({
         ...truck,
         nearMe: zipCode === "28270" && truck.distance <= 500
