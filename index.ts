@@ -173,7 +173,8 @@ async function run() {
         console.error("Got request error", error)
         failures++;
         
-        if (failures > 5) {
+        if (failures > 10) {
+          console.error(`Exiting because we've had ${failures} errors`);
           process.exit();
         }
         headers = await getHeaders();
@@ -181,7 +182,8 @@ async function run() {
       }
 
       if (!result?.locateVehiclesByZip) {
-        break;
+        page++;
+        continue;
       }
 
       vehicles = vehicles.concat(result.locateVehiclesByZip.vehicleSummary.map(truck => ({
