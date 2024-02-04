@@ -188,7 +188,7 @@ async function run() {
 
       vehicles = vehicles.concat(result.locateVehiclesByZip.vehicleSummary.map(truck => ({
         ...truck,
-        nearMe: zipCode === "28270" && truck.distance <= 500
+        nearMe: zipCode === "28270" && truck.distance <= 100
       })));
 
       pages = result.locateVehiclesByZip.pagination.totalPages;
