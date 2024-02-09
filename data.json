@@ -264,28 +264,6 @@
     "Near Me": true
   },
   {
-    "VIN": "3TYKB5FN1RT08B676",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Town & Country Toyota",
-    "Base MSRP": 39400,
-    "Total MSRP": 45218,
-    "Advertized Price": 45218,
-    "Mark Up": 0,
-    "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": true
-  },
-  {
     "VIN": "3TYKB5FN2RT06B436",
     "Stock Number": null,
     "Year": 2024,
@@ -308,6 +286,28 @@
     "Near Me": true
   },
   {
+    "VIN": "3TYKB5FN1RT08B676",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Town & Country Toyota",
+    "Base MSRP": 39400,
+    "Total MSRP": 45218,
+    "Advertized Price": 45218,
+    "Mark Up": 0,
+    "Exterior Color": "Black",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": true
+  },
+  {
     "VIN": "3TYLB5JN4RT05A627",
     "Stock Number": null,
     "Year": 2024,
@@ -324,7 +324,7 @@
     "Advertized Price": 45240,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -764,7 +764,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -896,7 +896,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -940,7 +940,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Wind Chill Pearl [extra_cost_color]",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -984,7 +984,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Solar Octane [extra_cost_color]",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -1226,7 +1226,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -1336,7 +1336,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -1424,7 +1424,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Wind Chill Pearl [extra_cost_color]",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -1666,7 +1666,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -2018,7 +2018,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -2128,7 +2128,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-03-11T00:00:00.000Z",
     "Delivery ETA To": "2024-03-16T00:00:00.000Z",
     "Near Me": true
@@ -2436,7 +2436,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -2480,7 +2480,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -2590,7 +2590,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Wind Chill Pearl [extra_cost_color]",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -3030,7 +3030,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -3140,7 +3140,7 @@
     "Advertized Price": 37722,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -3734,7 +3734,7 @@
     "Advertized Price": 52311,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -3998,7 +3998,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -4196,7 +4196,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -4218,7 +4218,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -4240,7 +4240,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -4966,7 +4966,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -4988,7 +4988,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -5010,7 +5010,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -5032,7 +5032,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -5098,7 +5098,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -5120,7 +5120,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -5164,7 +5164,7 @@
     "Advertized Price": 35690,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -5670,7 +5670,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -5736,7 +5736,7 @@
     "Advertized Price": 36631,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -5824,7 +5824,7 @@
     "Advertized Price": 45760,
     "Mark Up": 2500,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": "2024-02-03T00:00:00.000Z",
     "Delivery ETA To": "2024-02-08T00:00:00.000Z",
     "Near Me": true
@@ -5868,7 +5868,7 @@
     "Advertized Price": 47106,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -5912,7 +5912,7 @@
     "Advertized Price": 47285,
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -6132,7 +6132,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -6176,7 +6176,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -6286,7 +6286,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -6616,7 +6616,7 @@
     "Advertized Price": 50071,
     "Mark Up": 0,
     "Exterior Color": "Solar Octane [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -6660,7 +6660,7 @@
     "Advertized Price": 52980,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -6858,7 +6858,7 @@
     "Advertized Price": 49815,
     "Mark Up": 5000,
     "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -6924,7 +6924,7 @@
     "Advertized Price": 52497,
     "Mark Up": 5000,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -6946,7 +6946,7 @@
     "Advertized Price": 53346,
     "Mark Up": 5000,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -6968,7 +6968,7 @@
     "Advertized Price": 54384,
     "Mark Up": 5000,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -7034,7 +7034,7 @@
     "Advertized Price": 59701,
     "Mark Up": 5000,
     "Exterior Color": "Black",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -7210,7 +7210,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -7430,7 +7430,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -7474,7 +7474,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -7496,7 +7496,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -7518,7 +7518,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Solar Octane [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -7562,7 +7562,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-03-11T00:00:00.000Z",
     "Delivery ETA To": "2024-03-16T00:00:00.000Z",
     "Near Me": true
@@ -7694,7 +7694,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -8090,7 +8090,7 @@
     "Advertized Price": 53568,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -8376,7 +8376,7 @@
     "Advertized Price": 55250,
     "Mark Up": -500,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -8618,7 +8618,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -8662,7 +8662,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -8706,7 +8706,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -8728,7 +8728,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -8750,7 +8750,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -8970,7 +8970,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -9080,7 +9080,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -9234,7 +9234,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -9256,7 +9256,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-04-01T00:00:00.000Z",
     "Delivery ETA To": "2024-04-06T00:00:00.000Z",
     "Near Me": true
@@ -9454,7 +9454,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -9586,7 +9586,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -9762,7 +9762,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -9784,7 +9784,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -9872,7 +9872,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -9982,7 +9982,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -10048,7 +10048,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -10136,7 +10136,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -10158,7 +10158,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -10400,7 +10400,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -10422,7 +10422,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -10466,7 +10466,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -10510,7 +10510,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -10884,7 +10884,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -10906,7 +10906,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": true
@@ -11104,7 +11104,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -11412,7 +11412,7 @@
     "Advertized Price": 48261,
     "Mark Up": 0,
     "Exterior Color": "Solar Octane [extra_cost_color]",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -11500,7 +11500,7 @@
     "Advertized Price": 52120,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -11566,7 +11566,7 @@
     "Advertized Price": 54561,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-03-11T00:00:00.000Z",
     "Delivery ETA To": "2024-03-16T00:00:00.000Z",
     "Near Me": false
@@ -11588,7 +11588,7 @@
     "Advertized Price": 54746,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -11946,28 +11946,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN5RT05A944",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Fred Anderson Toyota of Asheville",
-    "Base MSRP": 40400,
-    "Total MSRP": 46732,
-    "Advertized Price": 46732,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYLB5JN9RT08B484",
     "Stock Number": null,
     "Year": 2024,
@@ -11984,6 +11962,28 @@
     "Advertized Price": 46732,
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN5RT05A944",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Fred Anderson Toyota of Asheville",
+    "Base MSRP": 40400,
+    "Total MSRP": 46732,
+    "Advertized Price": 46732,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -12028,7 +12028,7 @@
     "Advertized Price": 47445,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -12116,7 +12116,7 @@
     "Advertized Price": 51383,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -12204,7 +12204,7 @@
     "Advertized Price": 52559,
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -12270,7 +12270,7 @@
     "Advertized Price": 53728,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -12358,7 +12358,7 @@
     "Advertized Price": 55999,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -12380,7 +12380,7 @@
     "Advertized Price": 55999,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -12798,7 +12798,7 @@
     "Advertized Price": 55985,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -12820,7 +12820,7 @@
     "Advertized Price": 56089,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -12864,7 +12864,7 @@
     "Advertized Price": 56657,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -13018,7 +13018,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -13194,7 +13194,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": "2024-02-21T00:00:00.000Z",
     "Delivery ETA To": "2024-02-26T00:00:00.000Z",
     "Near Me": false
@@ -13414,7 +13414,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -13502,7 +13502,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Solar Octane [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -13590,7 +13590,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -13766,7 +13766,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -13854,7 +13854,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -14448,7 +14448,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -14536,7 +14536,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -15834,7 +15834,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -16362,7 +16362,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -16428,7 +16428,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-03-14T00:00:00.000Z",
     "Delivery ETA To": "2024-03-19T00:00:00.000Z",
     "Near Me": false
@@ -16890,7 +16890,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -16934,7 +16934,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -17000,7 +17000,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -17902,7 +17902,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": "2024-02-21T00:00:00.000Z",
     "Delivery ETA To": "2024-02-26T00:00:00.000Z",
     "Near Me": false
@@ -17924,7 +17924,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -18210,7 +18210,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -19376,7 +19376,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -19398,7 +19398,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -19420,7 +19420,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-03-25T00:00:00.000Z",
     "Delivery ETA To": "2024-03-30T00:00:00.000Z",
     "Near Me": false
@@ -19596,7 +19596,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Solar Octane [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -19904,7 +19904,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-02-21T00:00:00.000Z",
     "Delivery ETA To": "2024-02-26T00:00:00.000Z",
     "Near Me": false
@@ -19926,7 +19926,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -20366,7 +20366,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Solar Octane [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -20432,7 +20432,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -20520,7 +20520,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -20564,7 +20564,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-03-11T00:00:00.000Z",
     "Delivery ETA To": "2024-03-16T00:00:00.000Z",
     "Near Me": false
@@ -20586,7 +20586,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-03-27T00:00:00.000Z",
     "Delivery ETA To": "2024-04-01T00:00:00.000Z",
     "Near Me": false
@@ -21004,7 +21004,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -21048,7 +21048,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Wind Chill Pearl [extra_cost_color]",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -21114,7 +21114,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -21224,7 +21224,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -21532,7 +21532,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -21576,7 +21576,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -21642,7 +21642,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": "2024-02-21T00:00:00.000Z",
     "Delivery ETA To": "2024-02-26T00:00:00.000Z",
     "Near Me": false
@@ -21664,7 +21664,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -22126,7 +22126,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -22148,7 +22148,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-03-11T00:00:00.000Z",
     "Delivery ETA To": "2024-03-16T00:00:00.000Z",
     "Near Me": false
@@ -22500,7 +22500,7 @@
     "Advertized Price": 47105,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -22588,7 +22588,7 @@
     "Advertized Price": 47836,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -22676,7 +22676,7 @@
     "Advertized Price": 52718,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -22698,7 +22698,7 @@
     "Advertized Price": 55739,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -22720,7 +22720,7 @@
     "Advertized Price": 56158,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -23006,7 +23006,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -23182,7 +23182,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -23292,7 +23292,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -23578,7 +23578,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -23908,7 +23908,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -23930,7 +23930,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-02-03T00:00:00.000Z",
     "Delivery ETA To": "2024-02-08T00:00:00.000Z",
     "Near Me": false
@@ -23952,7 +23952,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -24304,7 +24304,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -24574,28 +24574,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FNXRT06B426",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Five Star Toyota of Milledgeville",
-    "Base MSRP": 39400,
-    "Total MSRP": 45084,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Black",
-    "Interior Color": "Black/White Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN6RT07B483",
     "Stock Number": null,
     "Year": 2024,
@@ -24612,6 +24590,28 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Black/White Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FNXRT06B426",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Five Star Toyota of Milledgeville",
+    "Base MSRP": 39400,
+    "Total MSRP": 45084,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Black",
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -24722,7 +24722,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -25492,7 +25492,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -25800,7 +25800,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": "2024-02-21T00:00:00.000Z",
     "Delivery ETA To": "2024-02-26T00:00:00.000Z",
     "Near Me": false
@@ -26262,7 +26262,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -26790,7 +26790,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -26966,7 +26966,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Solar Octane [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -27120,7 +27120,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -27252,7 +27252,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -27318,7 +27318,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-02-05T00:00:00.000Z",
     "Delivery ETA To": "2024-02-10T00:00:00.000Z",
     "Near Me": false
@@ -27736,7 +27736,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -27956,7 +27956,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -27978,7 +27978,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -28000,7 +28000,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -28022,7 +28022,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -28110,7 +28110,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Solar Octane [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -28176,7 +28176,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -28308,7 +28308,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -28330,7 +28330,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -28374,7 +28374,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Wind Chill Pearl [extra_cost_color]",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -28506,7 +28506,7 @@
     "Advertized Price": 37259,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -28572,7 +28572,7 @@
     "Advertized Price": 45137,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -28660,7 +28660,7 @@
     "Advertized Price": 57336,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -28682,7 +28682,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-02-19T00:00:00.000Z",
     "Delivery ETA To": "2024-02-24T00:00:00.000Z",
     "Near Me": false
@@ -28858,7 +28858,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -28968,7 +28968,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -29100,7 +29100,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -29408,7 +29408,7 @@
     "Advertized Price": 36760,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -29430,7 +29430,7 @@
     "Advertized Price": 38190,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -29672,7 +29672,7 @@
     "Advertized Price": 50006,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -29892,7 +29892,7 @@
     "Advertized Price": 50685,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -30266,7 +30266,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -30486,7 +30486,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -30882,7 +30882,7 @@
     "Advertized Price": 36631,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -30904,7 +30904,7 @@
     "Advertized Price": 38061,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -31102,7 +31102,7 @@
     "Advertized Price": 51121,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": "2024-02-21T00:00:00.000Z",
     "Delivery ETA To": "2024-02-26T00:00:00.000Z",
     "Near Me": false
@@ -31124,7 +31124,7 @@
     "Advertized Price": 52718,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -31146,7 +31146,7 @@
     "Advertized Price": 52898,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -31190,7 +31190,7 @@
     "Advertized Price": 56338,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -31212,7 +31212,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -31234,7 +31234,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -31256,7 +31256,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -31520,7 +31520,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -31564,7 +31564,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Solar Octane [extra_cost_color]",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -31960,7 +31960,7 @@
     "Advertized Price": 51297,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -32048,7 +32048,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -33104,7 +33104,7 @@
     "Advertized Price": 53959,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -33434,7 +33434,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -33786,7 +33786,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -33830,7 +33830,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -34078,28 +34078,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN5RM08A912",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Ourisman Toyota of Richmond",
-    "Base MSRP": 40400,
-    "Total MSRP": 47429,
-    "Advertized Price": 47429,
-    "Mark Up": 0,
-    "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN0RM08B983",
     "Stock Number": null,
     "Year": 2024,
@@ -34122,7 +34100,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN1RM08A969",
+    "VIN": "3TMLB5JN5RM08A912",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR5",
@@ -34137,7 +34115,7 @@
     "Total MSRP": 47429,
     "Advertized Price": 47429,
     "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
+    "Exterior Color": "Blue Crush Metallic",
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -34160,6 +34138,28 @@
     "Advertized Price": 47429,
     "Mark Up": 0,
     "Exterior Color": "Black",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN1RM08A969",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Ourisman Toyota of Richmond",
+    "Base MSRP": 40400,
+    "Total MSRP": 47429,
+    "Advertized Price": 47429,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -34628,7 +34628,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN5RT08A705",
+    "VIN": "3TYLB5JN1RT08C080",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Off-Road",
@@ -34650,7 +34650,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN1RT08C080",
+    "VIN": "3TYLB5JN5RT08A705",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Off-Road",
@@ -36184,7 +36184,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -36228,7 +36228,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Solar Octane [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -36316,7 +36316,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -36734,7 +36734,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -36778,7 +36778,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -36822,7 +36822,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -36894,7 +36894,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN0RT08A373",
+    "VIN": "3TYKB5FN4RT001959",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR5",
@@ -36903,7 +36903,7 @@
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
     "Hold Status": "Available",
-    "Temp VIN": true,
+    "Temp VIN": false,
     "Dealer": "Hall Toyota Elizabeth City",
     "Base MSRP": 37200,
     "Total MSRP": 43622,
@@ -36916,7 +36916,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN4RT001959",
+    "VIN": "3TYKB5FN0RT08A373",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR5",
@@ -36925,7 +36925,7 @@
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
     "Hold Status": "Available",
-    "Temp VIN": false,
+    "Temp VIN": true,
     "Dealer": "Hall Toyota Elizabeth City",
     "Base MSRP": 37200,
     "Total MSRP": 43622,
@@ -37152,7 +37152,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -38472,7 +38472,7 @@
     "Advertized Price": 56837,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -39902,7 +39902,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -39924,7 +39924,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -39946,7 +39946,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -40100,7 +40100,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -40276,7 +40276,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -40914,7 +40914,7 @@
     "Advertized Price": 47285,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -43356,7 +43356,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -43554,7 +43554,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -43774,7 +43774,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -43840,7 +43840,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -43862,7 +43862,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -44016,7 +44016,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -44192,7 +44192,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -46612,7 +46612,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -46722,7 +46722,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -47778,7 +47778,7 @@
     "Advertized Price": 54247,
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -47800,7 +47800,7 @@
     "Advertized Price": 55240,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -49274,7 +49274,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -49318,7 +49318,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -50792,7 +50792,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -50836,7 +50836,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -53146,7 +53146,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -53168,7 +53168,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -53570,28 +53570,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FNXRT07A479",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Arlington Toyota",
-    "Base MSRP": 39400,
-    "Total MSRP": 50074,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Black/White Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN9RT07A490",
     "Stock Number": null,
     "Year": 2024,
@@ -53609,6 +53587,28 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FNXRT07A479",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Arlington Toyota",
+    "Base MSRP": 39400,
+    "Total MSRP": 50074,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Blue Crush Metallic",
+    "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -53696,7 +53696,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -53806,7 +53806,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -53828,7 +53828,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -53982,7 +53982,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": "2024-02-21T00:00:00.000Z",
     "Delivery ETA To": "2024-02-26T00:00:00.000Z",
     "Near Me": false
@@ -54224,7 +54224,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -54246,7 +54246,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Solar Octane [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -54290,7 +54290,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -54862,7 +54862,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -54906,7 +54906,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-03-11T00:00:00.000Z",
     "Delivery ETA To": "2024-03-16T00:00:00.000Z",
     "Near Me": false
@@ -56798,7 +56798,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -56820,7 +56820,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -56842,7 +56842,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -57194,7 +57194,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-02-21T00:00:00.000Z",
     "Delivery ETA To": "2024-02-26T00:00:00.000Z",
     "Near Me": false
@@ -57216,7 +57216,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -57238,7 +57238,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -58580,7 +58580,7 @@
     "Advertized Price": 36631,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -58602,7 +58602,7 @@
     "Advertized Price": 38486,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -58866,7 +58866,7 @@
     "Advertized Price": 48628,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -58954,7 +58954,7 @@
     "Advertized Price": 50234,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -58998,7 +58998,7 @@
     "Advertized Price": 52051,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -59108,7 +59108,7 @@
     "Advertized Price": 56158,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-03-11T00:00:00.000Z",
     "Delivery ETA To": "2024-03-16T00:00:00.000Z",
     "Near Me": false
@@ -60956,7 +60956,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -61000,7 +61000,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -61198,7 +61198,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -62188,7 +62188,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -62452,7 +62452,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -62474,7 +62474,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -63486,7 +63486,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -63508,7 +63508,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -64592,28 +64592,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN0RM08C485",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Off-Road",
-    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Voss Toyota",
-    "Base MSRP": 42900,
-    "Total MSRP": 46720,
-    "Advertized Price": 46720,
-    "Mark Up": 0,
-    "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-03-06",
-    "Delivery ETA To": "2024-04-01",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN3RM09A564",
     "Stock Number": null,
     "Year": 2024,
@@ -64633,6 +64611,28 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": "2024-03-31",
     "Delivery ETA To": "2024-04-25",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN0RM08C485",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Off-Road",
+    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Voss Toyota",
+    "Base MSRP": 42900,
+    "Total MSRP": 46720,
+    "Advertized Price": 46720,
+    "Mark Up": 0,
+    "Exterior Color": "Blue Crush Metallic",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": "2024-03-06",
+    "Delivery ETA To": "2024-04-01",
     "Near Me": false
   },
   {
@@ -67160,7 +67160,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -67556,7 +67556,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -67622,7 +67622,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -67710,7 +67710,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -67864,7 +67864,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -67930,7 +67930,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -67974,7 +67974,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -68018,7 +68018,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -68062,7 +68062,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -68238,7 +68238,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -68326,7 +68326,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -68590,7 +68590,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -68612,7 +68612,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -68634,7 +68634,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -68656,7 +68656,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -69162,7 +69162,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -69184,7 +69184,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -69206,7 +69206,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -69228,7 +69228,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -69448,7 +69448,7 @@
     "Advertized Price": 47451,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -70290,28 +70290,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN4RM10E844",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Jim Shorkey Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 47204,
-    "Advertized Price": 47204,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-04-09",
-    "Delivery ETA To": "2024-05-08",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN0RM11F386",
     "Stock Number": null,
     "Year": 2024,
@@ -70331,6 +70309,28 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": "2024-04-23",
     "Delivery ETA To": "2024-05-22",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN4RM10E844",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Jim Shorkey Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 47204,
+    "Advertized Price": 47204,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": "2024-04-09",
+    "Delivery ETA To": "2024-05-08",
     "Near Me": false
   },
   {
@@ -70378,7 +70378,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN3RM11F480",
+    "VIN": "3TMLB5JN5RM10F078",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR5",
@@ -70393,10 +70393,10 @@
     "Total MSRP": 47204,
     "Advertized Price": 47204,
     "Mark Up": 0,
-    "Exterior Color": "Black",
+    "Exterior Color": "Underground",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-04-30",
-    "Delivery ETA To": "2024-05-29",
+    "Delivery ETA From": "2024-04-11",
+    "Delivery ETA To": "2024-05-10",
     "Near Me": false
   },
   {
@@ -72072,28 +72072,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN8RM08B925",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Ourisman Toyota 40",
-    "Base MSRP": 40400,
-    "Total MSRP": 46944,
-    "Advertized Price": 46944,
-    "Mark Up": 0,
-    "Exterior Color": "Black",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-01",
-    "Delivery ETA To": "2024-03-25",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN8RM09C195",
     "Stock Number": null,
     "Year": 2024,
@@ -72113,6 +72091,28 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": "2024-03-11",
     "Delivery ETA To": "2024-04-08",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN8RM08B925",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Ourisman Toyota 40",
+    "Base MSRP": 40400,
+    "Total MSRP": 46944,
+    "Advertized Price": 46944,
+    "Mark Up": 0,
+    "Exterior Color": "Black",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": "2024-03-01",
+    "Delivery ETA To": "2024-03-25",
     "Near Me": false
   },
   {
@@ -72638,7 +72638,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Solar Octane [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -72864,28 +72864,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN7RM07B564",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "DealerHold",
-    "Temp VIN": true,
-    "Dealer": "Baierl Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 46914,
-    "Advertized Price": 46914,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-03-23",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN6RM07A731",
     "Stock Number": null,
     "Year": 2024,
@@ -72905,6 +72883,28 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": "2024-02-29",
     "Delivery ETA To": "2024-03-24",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN7RM07B564",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "DealerHold",
+    "Temp VIN": true,
+    "Dealer": "Baierl Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 46914,
+    "Advertized Price": 46914,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": "2024-02-23",
+    "Delivery ETA To": "2024-03-23",
     "Near Me": false
   },
   {
@@ -74970,7 +74970,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -75014,7 +75014,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -75322,7 +75322,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -75564,7 +75564,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -75586,7 +75586,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -75960,7 +75960,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -76026,7 +76026,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Solar Octane [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -76444,7 +76444,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-02-21T00:00:00.000Z",
     "Delivery ETA To": "2024-02-26T00:00:00.000Z",
     "Near Me": false
@@ -76466,7 +76466,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -76642,7 +76642,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -78886,7 +78886,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -79172,7 +79172,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -79414,7 +79414,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -80008,7 +80008,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -80052,7 +80052,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -82302,28 +82302,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN3RM11D566",
-    "Stock Number": "21597",
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Lancaster Toyota",
-    "Base MSRP": 42600,
-    "Total MSRP": 50465,
-    "Advertized Price": 50465,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-04-25",
-    "Delivery ETA To": "2024-05-24",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN7RM10F647",
     "Stock Number": "21598",
     "Year": 2024,
@@ -82343,6 +82321,28 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": "2024-04-02",
     "Delivery ETA To": "2024-05-01",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN3RM11D566",
+    "Stock Number": "21597",
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Lancaster Toyota",
+    "Base MSRP": 42600,
+    "Total MSRP": 50465,
+    "Advertized Price": 50465,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": "2024-04-25",
+    "Delivery ETA To": "2024-05-24",
     "Near Me": false
   },
   {
@@ -83066,7 +83066,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -83550,7 +83550,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -83594,7 +83594,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Solar Octane [extra_cost_color]",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -84430,7 +84430,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -84474,7 +84474,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -86152,28 +86152,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN5RM09C168",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Team Toyota of Glen Mills",
-    "Base MSRP": 40400,
-    "Total MSRP": 47089,
-    "Advertized Price": 47089,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-12",
-    "Delivery ETA To": "2024-04-10",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN9RM11F323",
     "Stock Number": null,
     "Year": 2024,
@@ -86193,6 +86171,28 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": "2024-04-20",
     "Delivery ETA To": "2024-05-20",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN5RM09C168",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Team Toyota of Glen Mills",
+    "Base MSRP": 40400,
+    "Total MSRP": 47089,
+    "Advertized Price": 47089,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-04-10",
     "Near Me": false
   },
   {
@@ -87620,7 +87620,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -88016,7 +88016,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -88286,28 +88286,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN6RT05A746",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Phillips Toyota",
-    "Base MSRP": 39400,
-    "Total MSRP": 42439,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN3RT000690",
     "Stock Number": null,
     "Year": 2024,
@@ -88325,6 +88303,28 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FN6RT05A746",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Phillips Toyota",
+    "Base MSRP": 39400,
+    "Total MSRP": 42439,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Underground",
+    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -88478,7 +88478,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -88500,7 +88500,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -88588,7 +88588,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -90216,7 +90216,7 @@
     "Advertized Price": 44305,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -90392,7 +90392,7 @@
     "Advertized Price": 50155,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Interior Color": "BOULDER/BLACK (SMOKE SILVER)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -90414,7 +90414,7 @@
     "Advertized Price": 50234,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -90458,7 +90458,7 @@
     "Advertized Price": 52471,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -93258,28 +93258,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN7RT06B433",
-    "Stock Number": "RT06B433",
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "AutoNation Toyota Winter Park",
-    "Base MSRP": 39400,
-    "Total MSRP": 43967,
-    "Advertized Price": 43967,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN8RT06B442",
     "Stock Number": "RT06B442",
     "Year": 2024,
@@ -93297,6 +93275,28 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FN7RT06B433",
+    "Stock Number": "RT06B433",
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "AutoNation Toyota Winter Park",
+    "Base MSRP": 39400,
+    "Total MSRP": 43967,
+    "Advertized Price": 43967,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -93434,28 +93434,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN0RT07A586",
-    "Stock Number": "RT07A586",
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "AutoNation Toyota Winter Park",
-    "Base MSRP": 39400,
-    "Total MSRP": 45218,
-    "Advertized Price": 45218,
-    "Mark Up": 0,
-    "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN3RT08B114",
     "Stock Number": "RT08B114",
     "Year": 2024,
@@ -93473,6 +93451,28 @@
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
     "Interior Color": "Black/White Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FN0RT07A586",
+    "Stock Number": "RT07A586",
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "AutoNation Toyota Winter Park",
+    "Base MSRP": 39400,
+    "Total MSRP": 45218,
+    "Advertized Price": 45218,
+    "Mark Up": 0,
+    "Exterior Color": "Black",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -93604,7 +93604,7 @@
     "Advertized Price": 46778,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": "2024-02-20T00:00:00.000Z",
     "Delivery ETA To": "2024-02-25T00:00:00.000Z",
     "Near Me": false
@@ -93626,7 +93626,7 @@
     "Advertized Price": 47017,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -93978,7 +93978,7 @@
     "Advertized Price": 50094,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -94088,7 +94088,7 @@
     "Advertized Price": 53240,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -94792,7 +94792,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -94814,7 +94814,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -94880,7 +94880,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -95034,7 +95034,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -95650,7 +95650,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -95920,28 +95920,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN7RT06B142",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Toyota of Orlando",
-    "Base MSRP": 39400,
-    "Total MSRP": 43967,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN7RT06A265",
     "Stock Number": null,
     "Year": 2024,
@@ -95959,6 +95937,28 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FN7RT06B142",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Toyota of Orlando",
+    "Base MSRP": 39400,
+    "Total MSRP": 43967,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -96156,7 +96156,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -96178,7 +96178,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -98026,7 +98026,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -98114,7 +98114,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -98950,7 +98950,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -98994,7 +98994,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -101612,7 +101612,7 @@
     "Advertized Price": 52132,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -103284,7 +103284,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -103614,7 +103614,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -103658,7 +103658,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-03-21T00:00:00.000Z",
     "Delivery ETA To": "2024-03-26T00:00:00.000Z",
     "Near Me": false
@@ -104296,7 +104296,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -104472,7 +104472,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -104582,7 +104582,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -104604,7 +104604,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
+    "Interior Color": "BLACK",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -104912,7 +104912,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Interior Color": "BOULDER/BLACK (BLUE)",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -105044,7 +105044,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
-    "Interior Color": "Black/White Fabric",
+    "Interior Color": "BLACK/WHITE",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -105198,7 +105198,7 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
-    "Interior Color": "Black SofTex",
+    "Interior Color": "BLACK",
     "Delivery ETA From": "2024-03-11T00:00:00.000Z",
     "Delivery ETA To": "2024-03-16T00:00:00.000Z",
     "Near Me": false
