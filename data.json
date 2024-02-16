@@ -374,28 +374,6 @@
     "Near Me": true
   },
   {
-    "VIN": "3TYKB5FN2RT06B436",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Town & Country Toyota",
-    "Base MSRP": 39400,
-    "Total MSRP": 45218,
-    "Advertized Price": 45218,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": true
-  },
-  {
     "VIN": "3TYKB5FN1RT08B676",
     "Stock Number": null,
     "Year": 2024,
@@ -412,6 +390,28 @@
     "Advertized Price": 45218,
     "Mark Up": 0,
     "Exterior Color": "Black",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": true
+  },
+  {
+    "VIN": "3TYKB5FN2RT06B436",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Town & Country Toyota",
+    "Base MSRP": 39400,
+    "Total MSRP": 45218,
+    "Advertized Price": 45218,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -3894,28 +3894,6 @@
     "Near Me": true
   },
   {
-    "VIN": "3TMLB5JN5RM08B266",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Cloninger Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 47185,
-    "Advertized Price": 47185,
-    "Mark Up": 0,
-    "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-03-25T00:00:00.000Z",
-    "Delivery ETA To": "2024-03-30T00:00:00.000Z",
-    "Near Me": true
-  },
-  {
     "VIN": "3TMLB5JN5RM09B392",
     "Stock Number": null,
     "Year": 2024,
@@ -3935,6 +3913,28 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": "2024-04-03T00:00:00.000Z",
     "Delivery ETA To": "2024-04-08T00:00:00.000Z",
+    "Near Me": true
+  },
+  {
+    "VIN": "3TMLB5JN5RM08B266",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Cloninger Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 47185,
+    "Advertized Price": 47185,
+    "Mark Up": 0,
+    "Exterior Color": "Underground",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": "2024-03-25T00:00:00.000Z",
+    "Delivery ETA To": "2024-03-30T00:00:00.000Z",
     "Near Me": true
   },
   {
@@ -4422,28 +4422,6 @@
     "Near Me": true
   },
   {
-    "VIN": "3TYLB5JN4RT004758",
-    "Stock Number": "60752",
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "At dealer (G)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Mike Johnson's Hickory Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 42992,
-    "Advertized Price": 42992,
-    "Mark Up": 0,
-    "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-15T00:00:00.000Z",
-    "Delivery ETA To": "2024-02-20T00:00:00.000Z",
-    "Near Me": true
-  },
-  {
     "VIN": "3TYLB5JNXRT06A904",
     "Stock Number": null,
     "Year": 2024,
@@ -4463,6 +4441,28 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
+    "Near Me": true
+  },
+  {
+    "VIN": "3TYLB5JN4RT004758",
+    "Stock Number": "60752",
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Mike Johnson's Hickory Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 42992,
+    "Advertized Price": 42992,
+    "Mark Up": 0,
+    "Exterior Color": "Underground",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": "2024-02-15T00:00:00.000Z",
+    "Delivery ETA To": "2024-02-20T00:00:00.000Z",
     "Near Me": true
   },
   {
@@ -4906,28 +4906,6 @@
     "Near Me": true
   },
   {
-    "VIN": "3TYLB5JN8RT09B598",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Mike Johnson's Hickory Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 49524,
-    "Advertized Price": 49524,
-    "Mark Up": 0,
-    "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": true
-  },
-  {
     "VIN": "3TMLB5JN6RM09A333",
     "Stock Number": null,
     "Year": 2024,
@@ -4947,6 +4925,28 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": "2024-03-27T00:00:00.000Z",
     "Delivery ETA To": "2024-04-01T00:00:00.000Z",
+    "Near Me": true
+  },
+  {
+    "VIN": "3TYLB5JN8RT09B598",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Mike Johnson's Hickory Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 49524,
+    "Advertized Price": 49524,
+    "Mark Up": 0,
+    "Exterior Color": "Blue Crush Metallic",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
     "Near Me": true
   },
   {
@@ -14344,7 +14344,7 @@
     "Near Me": true
   },
   {
-    "VIN": "3TYKD5HN3RT07A038",
+    "VIN": "3TYKD5HN3RT10A493",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR",
@@ -14366,7 +14366,7 @@
     "Near Me": true
   },
   {
-    "VIN": "3TYKD5HN3RT10A493",
+    "VIN": "3TYKD5HN3RT07A038",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR",
@@ -14938,8 +14938,8 @@
     "Near Me": true
   },
   {
-    "VIN": "3TYKB5FN3RT002360",
-    "Stock Number": "RT05B820*O",
+    "VIN": "3TYKB5FN6RT09B586",
+    "Stock Number": "T09B586*O",
     "Year": 2024,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
@@ -14947,7 +14947,7 @@
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
     "Hold Status": "Available",
-    "Temp VIN": false,
+    "Temp VIN": true,
     "Dealer": "Rick Hendrick Toyota",
     "Base MSRP": 37200,
     "Total MSRP": 43265,
@@ -14982,8 +14982,8 @@
     "Near Me": true
   },
   {
-    "VIN": "3TYKB5FN6RT09B586",
-    "Stock Number": "T09B586*O",
+    "VIN": "3TYKB5FN3RT002360",
+    "Stock Number": "RT05B820*O",
     "Year": 2024,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
@@ -14991,7 +14991,7 @@
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
     "Hold Status": "Available",
-    "Temp VIN": true,
+    "Temp VIN": false,
     "Dealer": "Rick Hendrick Toyota",
     "Base MSRP": 37200,
     "Total MSRP": 43265,
@@ -15048,28 +15048,6 @@
     "Near Me": true
   },
   {
-    "VIN": "3TYLB5JN0RT008533",
-    "Stock Number": "RT05B489*O",
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Rick Hendrick Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 44558,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": true
-  },
-  {
     "VIN": "3TYLB5JN6RT005278",
     "Stock Number": "RT03B976*O",
     "Year": 2024,
@@ -15089,6 +15067,28 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": "2024-02-28T00:00:00.000Z",
     "Delivery ETA To": "2024-03-04T00:00:00.000Z",
+    "Near Me": true
+  },
+  {
+    "VIN": "3TYLB5JN0RT008533",
+    "Stock Number": "RT05B489*O",
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Rick Hendrick Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 44558,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
     "Near Me": true
   },
   {
@@ -17094,28 +17094,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN3RT09B752",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Fred Anderson Toyota of Asheville",
-    "Base MSRP": 40400,
-    "Total MSRP": 46861,
-    "Advertized Price": 46861,
-    "Mark Up": 0,
-    "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYLB5JN3RT10B678",
     "Stock Number": null,
     "Year": 2024,
@@ -17132,6 +17110,28 @@
     "Advertized Price": 46861,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN3RT09B752",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Fred Anderson Toyota of Asheville",
+    "Base MSRP": 40400,
+    "Total MSRP": 46861,
+    "Advertized Price": 46861,
+    "Mark Up": 0,
+    "Exterior Color": "Underground",
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -18832,28 +18832,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN6RM09B398",
-    "Stock Number": "M09B398*O",
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Hendrick Toyota Apex",
-    "Base MSRP": 40400,
-    "Total MSRP": 49364,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-03-26T00:00:00.000Z",
-    "Delivery ETA To": "2024-03-31T00:00:00.000Z",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN4RM07B845",
     "Stock Number": "M07B845*O",
     "Year": 2024,
@@ -18895,6 +18873,28 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": "2024-04-02T00:00:00.000Z",
     "Delivery ETA To": "2024-04-07T00:00:00.000Z",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN6RM09B398",
+    "Stock Number": "M09B398*O",
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Hendrick Toyota Apex",
+    "Base MSRP": 40400,
+    "Total MSRP": 49364,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": "2024-03-26T00:00:00.000Z",
+    "Delivery ETA To": "2024-03-31T00:00:00.000Z",
     "Near Me": false
   },
   {
@@ -21291,8 +21291,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-25",
-    "Delivery ETA To": "2024-03-01",
+    "Delivery ETA From": "2024-02-26",
+    "Delivery ETA To": "2024-03-02",
     "Near Me": false
   },
   {
@@ -21577,8 +21577,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-03-17",
-    "Delivery ETA To": "2024-04-12",
+    "Delivery ETA From": "2024-03-10",
+    "Delivery ETA To": "2024-04-13",
     "Near Me": false
   },
   {
@@ -23755,8 +23755,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-25",
-    "Delivery ETA To": "2024-03-01",
+    "Delivery ETA From": "2024-02-26",
+    "Delivery ETA To": "2024-03-02",
     "Near Me": false
   },
   {
@@ -27253,8 +27253,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -30223,8 +30223,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-03-17",
+    "Delivery ETA From": "2024-03-20",
+    "Delivery ETA To": "2024-04-11",
     "Near Me": false
   },
   {
@@ -30729,8 +30729,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -30839,8 +30839,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -32555,8 +32555,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Black/White Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-17",
     "Near Me": false
   },
   {
@@ -34799,8 +34799,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black/White Fabric",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -35019,8 +35019,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-03-13",
-    "Delivery ETA To": "2024-04-07",
+    "Delivery ETA From": "2024-03-09",
+    "Delivery ETA To": "2024-04-11",
     "Near Me": false
   },
   {
@@ -36471,8 +36471,8 @@
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-04",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-25",
     "Near Me": false
   },
   {
@@ -36537,8 +36537,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-04",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-25",
     "Near Me": false
   },
   {
@@ -37840,28 +37840,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN1RT07A175",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 6-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Toyota of New Bern",
-    "Base MSRP": 37700,
-    "Total MSRP": 40631,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Underground",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN7RT08B519",
     "Stock Number": null,
     "Year": 2024,
@@ -37879,6 +37857,28 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FN1RT07A175",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 6-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Toyota of New Bern",
+    "Base MSRP": 37700,
+    "Total MSRP": 40631,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Underground",
+    "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -40348,28 +40348,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKE5JN6RT09B554",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 2.4L-T 4-cyl. engine MT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Savannah Toyota",
-    "Base MSRP": 36900,
-    "Total MSRP": 41107,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Black",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKE5JN8RT08B298",
     "Stock Number": null,
     "Year": 2024,
@@ -40386,6 +40364,28 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKE5JN6RT09B554",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 2.4L-T 4-cyl. engine MT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Savannah Toyota",
+    "Base MSRP": 36900,
+    "Total MSRP": 41107,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Black",
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -43252,28 +43252,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN2RT07A749",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Marietta Toyota",
-    "Base MSRP": 37200,
-    "Total MSRP": 43622,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Black",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN4RT06B616",
     "Stock Number": null,
     "Year": 2024,
@@ -43290,6 +43268,28 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FN2RT07A749",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Marietta Toyota",
+    "Base MSRP": 37200,
+    "Total MSRP": 43622,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Black",
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -45007,8 +45007,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-03-17",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-04-06",
     "Near Me": false
   },
   {
@@ -46041,8 +46041,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-10",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-31",
     "Near Me": false
   },
   {
@@ -47146,28 +47146,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN0RM08A915",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Ourisman Toyota of Richmond",
-    "Base MSRP": 40400,
-    "Total MSRP": 47294,
-    "Advertized Price": 47294,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN4RM08A920",
     "Stock Number": null,
     "Year": 2024,
@@ -47184,6 +47162,28 @@
     "Advertized Price": 47294,
     "Mark Up": 0,
     "Exterior Color": "Underground",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN0RM08A915",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Ourisman Toyota of Richmond",
+    "Base MSRP": 40400,
+    "Total MSRP": 47294,
+    "Advertized Price": 47294,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -47234,28 +47234,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN4RM08B999",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Ourisman Toyota of Richmond",
-    "Base MSRP": 40400,
-    "Total MSRP": 47294,
-    "Advertized Price": 47294,
-    "Mark Up": 0,
-    "Exterior Color": "Black",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN1RM08A969",
     "Stock Number": null,
     "Year": 2024,
@@ -47272,6 +47250,28 @@
     "Advertized Price": 47294,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN4RM08B999",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Ourisman Toyota of Richmond",
+    "Base MSRP": 40400,
+    "Total MSRP": 47294,
+    "Advertized Price": 47294,
+    "Mark Up": 0,
+    "Exterior Color": "Black",
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -47652,7 +47652,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN5RT08A705",
+    "VIN": "3TYLB5JN1RT08C080",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Off-Road",
@@ -47674,7 +47674,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN1RT08C080",
+    "VIN": "3TYLB5JN5RT08A705",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Off-Road",
@@ -47713,8 +47713,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-03-16",
+    "Delivery ETA From": "2024-03-21",
+    "Delivery ETA To": "2024-04-12",
     "Near Me": false
   },
   {
@@ -47933,8 +47933,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -48043,8 +48043,8 @@
     "Mark Up": 2694,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-25",
-    "Delivery ETA To": "2024-03-01",
+    "Delivery ETA From": "2024-02-26",
+    "Delivery ETA To": "2024-03-02",
     "Near Me": false
   },
   {
@@ -49121,8 +49121,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder SofTex",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
+    "Delivery ETA From": "2024-03-17",
+    "Delivery ETA To": "2024-04-13",
     "Near Me": false
   },
   {
@@ -51502,28 +51502,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN6RT005958",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Buckhannon Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 47284,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Black",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-03-09",
-    "Delivery ETA To": "2024-04-08",
-    "Near Me": false
-  },
-  {
     "VIN": "3TYLB5JN9RT005260",
     "Stock Number": null,
     "Year": 2024,
@@ -51540,6 +51518,28 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": "2024-03-09",
+    "Delivery ETA To": "2024-04-08",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN6RT005958",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Buckhannon Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 47284,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Black",
     "Interior Color": "Black Fabric",
     "Delivery ETA From": "2024-03-09",
     "Delivery ETA To": "2024-04-08",
@@ -51959,8 +51959,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-03",
+    "Delivery ETA From": "2024-03-17",
+    "Delivery ETA To": "2024-03-29",
     "Near Me": false
   },
   {
@@ -52641,8 +52641,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-03-12",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-04-01",
     "Near Me": false
   },
   {
@@ -52949,8 +52949,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-03-15",
+    "Delivery ETA From": "2024-03-19",
+    "Delivery ETA To": "2024-04-09",
     "Near Me": false
   },
   {
@@ -53081,8 +53081,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-03-16",
-    "Delivery ETA To": "2024-03-27",
+    "Delivery ETA From": "2024-03-17",
+    "Delivery ETA To": "2024-03-28",
     "Near Me": false
   },
   {
@@ -53103,8 +53103,8 @@
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
-    "Delivery ETA From": "2024-03-16",
-    "Delivery ETA To": "2024-03-27",
+    "Delivery ETA From": "2024-03-17",
+    "Delivery ETA To": "2024-03-28",
     "Near Me": false
   },
   {
@@ -53169,8 +53169,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder SofTex",
-    "Delivery ETA From": "2024-02-21",
-    "Delivery ETA To": "2024-03-04",
+    "Delivery ETA From": "2024-03-17",
+    "Delivery ETA To": "2024-03-29",
     "Near Me": false
   },
   {
@@ -53191,8 +53191,8 @@
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
     "Interior Color": "Boulder SofTex",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-03",
+    "Delivery ETA From": "2024-03-17",
+    "Delivery ETA To": "2024-03-29",
     "Near Me": false
   },
   {
@@ -53939,8 +53939,8 @@
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-16",
-    "Delivery ETA To": "2024-03-28",
+    "Delivery ETA From": "2024-03-17",
+    "Delivery ETA To": "2024-03-29",
     "Near Me": false
   },
   {
@@ -54274,28 +54274,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN3RT06A778",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "LaGrange Toyota",
-    "Base MSRP": 37200,
-    "Total MSRP": 43222,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN2RT06B615",
     "Stock Number": null,
     "Year": 2024,
@@ -54313,6 +54291,28 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FN3RT06A778",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "LaGrange Toyota",
+    "Base MSRP": 37200,
+    "Total MSRP": 43222,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -55941,8 +55941,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder SofTex",
-    "Delivery ETA From": "2024-03-12",
-    "Delivery ETA To": "2024-03-31",
+    "Delivery ETA From": "2024-03-13",
+    "Delivery ETA To": "2024-04-01",
     "Near Me": false
   },
   {
@@ -56645,8 +56645,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -56887,8 +56887,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-09",
+    "Delivery ETA From": "2024-03-13",
+    "Delivery ETA To": "2024-03-31",
     "Near Me": false
   },
   {
@@ -56909,8 +56909,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black/White Fabric",
-    "Delivery ETA From": "2024-04-16",
-    "Delivery ETA To": "2024-05-15",
+    "Delivery ETA From": "2024-03-16",
+    "Delivery ETA To": "2024-04-13",
     "Near Me": false
   },
   {
@@ -57112,28 +57112,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN5RT007362",
-    "Stock Number": "58036",
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": "DealerHold",
-    "Temp VIN": false,
-    "Dealer": "Dan Cava's Toyota World",
-    "Base MSRP": 40400,
-    "Total MSRP": 43284,
-    "Advertized Price": 43284,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-10",
-    "Delivery ETA To": "2024-04-08",
-    "Near Me": false
-  },
-  {
     "VIN": "3TYLB5JN9RT006246",
     "Stock Number": "58039",
     "Year": 2024,
@@ -57150,6 +57128,28 @@
     "Advertized Price": 43284,
     "Mark Up": 0,
     "Exterior Color": "Black",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": "2024-03-10",
+    "Delivery ETA To": "2024-04-08",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN5RT007362",
+    "Stock Number": "58036",
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": "DealerHold",
+    "Temp VIN": false,
+    "Dealer": "Dan Cava's Toyota World",
+    "Base MSRP": 40400,
+    "Total MSRP": 43284,
+    "Advertized Price": 43284,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": "2024-03-10",
     "Delivery ETA To": "2024-04-08",
@@ -58119,8 +58119,8 @@
     "Mark Up": 2000,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-01",
-    "Delivery ETA To": "2024-03-06",
+    "Delivery ETA From": "2024-03-02",
+    "Delivery ETA To": "2024-03-07",
     "Near Me": false
   },
   {
@@ -58273,8 +58273,8 @@
     "Mark Up": 2000,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-01",
-    "Delivery ETA To": "2024-03-06",
+    "Delivery ETA From": "2024-03-02",
+    "Delivery ETA To": "2024-03-07",
     "Near Me": false
   },
   {
@@ -58322,28 +58322,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKD5HN1RT10B996",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Rivertown Toyota",
-    "Base MSRP": 33700,
-    "Total MSRP": 36631,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKD5HN6RT07A938",
     "Stock Number": null,
     "Year": 2024,
@@ -58360,6 +58338,28 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKD5HN1RT10B996",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Rivertown Toyota",
+    "Base MSRP": 33700,
+    "Total MSRP": 36631,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -59730,28 +59730,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN6RT10A397",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Sunny King Toyota",
-    "Base MSRP": 37200,
-    "Total MSRP": 43136,
-    "Advertized Price": 44131,
-    "Mark Up": 995,
-    "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN5RT09B594",
     "Stock Number": null,
     "Year": 2024,
@@ -59769,6 +59747,28 @@
     "Mark Up": 995,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FN6RT10A397",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Sunny King Toyota",
+    "Base MSRP": 37200,
+    "Total MSRP": 43136,
+    "Advertized Price": 44131,
+    "Mark Up": 995,
+    "Exterior Color": "Underground",
+    "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -60869,8 +60869,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-11",
-    "Delivery ETA To": "2024-04-06",
+    "Delivery ETA From": "2024-03-10",
+    "Delivery ETA To": "2024-04-13",
     "Near Me": false
   },
   {
@@ -61353,8 +61353,8 @@
     "Mark Up": 4995,
     "Exterior Color": "Black",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-03-10",
-    "Delivery ETA To": "2024-03-27",
+    "Delivery ETA From": "2024-03-11",
+    "Delivery ETA To": "2024-03-28",
     "Near Me": false
   },
   {
@@ -61793,8 +61793,8 @@
     "Mark Up": 1500,
     "Exterior Color": "Underground",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-04-16",
-    "Delivery ETA To": "2024-05-15",
+    "Delivery ETA From": "2024-03-16",
+    "Delivery ETA To": "2024-04-13",
     "Near Me": false
   },
   {
@@ -61969,8 +61969,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-21",
-    "Delivery ETA To": "2024-03-09",
+    "Delivery ETA From": "2024-03-13",
+    "Delivery ETA To": "2024-03-30",
     "Near Me": false
   },
   {
@@ -62475,8 +62475,8 @@
     "Mark Up": -100,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-09",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-04-01",
     "Near Me": false
   },
   {
@@ -63267,8 +63267,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-04-13",
-    "Delivery ETA To": "2024-05-12",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-04-11",
     "Near Me": false
   },
   {
@@ -63316,28 +63316,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN2RM002020",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Ourisman Chantilly Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 46889,
-    "Advertized Price": 46889,
-    "Mark Up": 0,
-    "Exterior Color": "Underground",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-09",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN7RM07B581",
     "Stock Number": null,
     "Year": 2024,
@@ -63357,6 +63335,28 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": "2024-03-01",
     "Delivery ETA To": "2024-03-27",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN2RM002020",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Ourisman Chantilly Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 46889,
+    "Advertized Price": 46889,
+    "Mark Up": 0,
+    "Exterior Color": "Underground",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-30",
     "Near Me": false
   },
   {
@@ -63382,28 +63382,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN5RM09C199",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Ourisman Chantilly Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 46989,
-    "Advertized Price": 46989,
-    "Mark Up": 0,
-    "Exterior Color": "Underground",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-08",
-    "Delivery ETA To": "2024-04-08",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN4RM08C005",
     "Stock Number": null,
     "Year": 2024,
@@ -63423,6 +63401,28 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": "2024-03-06",
     "Delivery ETA To": "2024-04-01",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN5RM09C199",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Ourisman Chantilly Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 46989,
+    "Advertized Price": 46989,
+    "Mark Up": 0,
+    "Exterior Color": "Underground",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": "2024-03-08",
+    "Delivery ETA To": "2024-04-08",
     "Near Me": false
   },
   {
@@ -63597,8 +63597,8 @@
     "Mark Up": 2000,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-03-11",
-    "Delivery ETA To": "2024-03-29",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
     "Near Me": false
   },
   {
@@ -64213,30 +64213,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-09",
-    "Near Me": false
-  },
-  {
-    "VIN": "3TMLB5JN1RM002428",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Priority Toyota Springfield",
-    "Base MSRP": 42600,
-    "Total MSRP": 49930,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-03-20",
+    "Delivery ETA From": "2024-03-11",
+    "Delivery ETA To": "2024-03-29",
     "Near Me": false
   },
   {
@@ -64262,25 +64240,25 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKD5HN7RT000182",
-    "Stock Number": "230237",
+    "VIN": "3TMLB5JN1RM002428",
+    "Stock Number": null,
     "Year": 2024,
-    "Trim": "Tacoma SR",
-    "Description": "Tacoma SR 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
     "Series": "Tacoma",
-    "Shipping Status": "At dealer (G)",
+    "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
     "Hold Status": null,
     "Temp VIN": false,
-    "Dealer": "Ourisman Fairfax Toyota",
-    "Base MSRP": 33700,
-    "Total MSRP": 37015,
-    "Advertized Price": 37015,
+    "Dealer": "Priority Toyota Springfield",
+    "Base MSRP": 42600,
+    "Total MSRP": 49930,
+    "Advertized Price": null,
     "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-09",
-    "Delivery ETA To": "2024-02-09",
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-03-20",
     "Near Me": false
   },
   {
@@ -64303,6 +64281,28 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKD5HN7RT000182",
+    "Stock Number": "230237",
+    "Year": 2024,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "At dealer (G)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Ourisman Fairfax Toyota",
+    "Base MSRP": 33700,
+    "Total MSRP": 37015,
+    "Advertized Price": 37015,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": "2024-02-09",
+    "Delivery ETA To": "2024-02-09",
     "Near Me": false
   },
   {
@@ -64367,8 +64367,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-09",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-30",
     "Near Me": false
   },
   {
@@ -64435,6 +64435,28 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": "2024-03-09",
     "Delivery ETA To": "2024-04-04",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN7RT09B107",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Ourisman Fairfax Toyota",
+    "Base MSRP": 42600,
+    "Total MSRP": 46000,
+    "Advertized Price": 48000,
+    "Mark Up": 2000,
+    "Exterior Color": "Blue Crush Metallic",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
     "Near Me": false
   },
   {
@@ -66237,8 +66259,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-04-05",
-    "Delivery ETA To": "2024-05-05",
+    "Delivery ETA From": "2024-03-19",
+    "Delivery ETA To": "2024-04-16",
     "Near Me": false
   },
   {
@@ -66545,8 +66567,8 @@
     "Mark Up": 2450,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-03-14",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-04-03",
     "Near Me": false
   },
   {
@@ -67117,8 +67139,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Black/White Fabric",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-09",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-30",
     "Near Me": false
   },
   {
@@ -67865,8 +67887,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -67914,7 +67936,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN7RM07B614",
+    "VIN": "3TYLB5JN2RT09B550",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR5",
@@ -67926,13 +67948,13 @@
     "Temp VIN": true,
     "Dealer": "Toyota of Gallatin",
     "Base MSRP": 40400,
-    "Total MSRP": 43644,
-    "Advertized Price": 43644,
+    "Total MSRP": 42854,
+    "Advertized Price": 42854,
     "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
+    "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-27",
-    "Delivery ETA To": "2024-03-25",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
     "Near Me": false
   },
   {
@@ -67955,6 +67977,28 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": "2024-03-03",
     "Delivery ETA To": "2024-03-30",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN7RM07B614",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Toyota of Gallatin",
+    "Base MSRP": 40400,
+    "Total MSRP": 43644,
+    "Advertized Price": 43644,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": "2024-02-27",
+    "Delivery ETA To": "2024-03-25",
     "Near Me": false
   },
   {
@@ -68134,28 +68178,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN3RM10F872",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Off-Road",
-    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Toyota of Gallatin",
-    "Base MSRP": 42900,
-    "Total MSRP": 46119,
-    "Advertized Price": 46119,
-    "Mark Up": 0,
-    "Exterior Color": "Black",
-    "Interior Color": "Black/White Fabric",
-    "Delivery ETA From": "2024-03-17",
-    "Delivery ETA To": "2024-04-12",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JNXRM10E900",
     "Stock Number": null,
     "Year": 2024,
@@ -68197,6 +68219,28 @@
     "Interior Color": "Black/White Fabric",
     "Delivery ETA From": "2024-03-24",
     "Delivery ETA To": "2024-04-19",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN3RM10F032",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Off-Road",
+    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": true,
+    "Hold Status": "DealerHold",
+    "Temp VIN": true,
+    "Dealer": "Toyota of Gallatin",
+    "Base MSRP": 42900,
+    "Total MSRP": 46119,
+    "Advertized Price": 46119,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Black/White Fabric",
+    "Delivery ETA From": "2024-03-17",
+    "Delivery ETA To": "2024-04-12",
     "Near Me": false
   },
   {
@@ -68305,8 +68349,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-03-15",
+    "Delivery ETA From": "2024-03-16",
+    "Delivery ETA To": "2024-04-06",
     "Near Me": false
   },
   {
@@ -68327,7 +68371,7 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-17",
+    "Delivery ETA From": "2024-03-10",
     "Delivery ETA To": "2024-04-12",
     "Near Me": false
   },
@@ -68503,8 +68547,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -68525,8 +68569,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -68569,8 +68613,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-03-15",
-    "Delivery ETA To": "2024-04-06",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
     "Near Me": false
   },
   {
@@ -68591,8 +68635,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-03-13",
-    "Delivery ETA To": "2024-03-31",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-04-01",
     "Near Me": false
   },
   {
@@ -69295,8 +69339,8 @@
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
-    "Delivery ETA From": "2024-03-14",
-    "Delivery ETA To": "2024-04-10",
+    "Delivery ETA From": "2024-03-11",
+    "Delivery ETA To": "2024-04-15",
     "Near Me": false
   },
   {
@@ -69515,8 +69559,8 @@
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-03-10",
-    "Delivery ETA To": "2024-03-21",
+    "Delivery ETA From": "2024-03-11",
+    "Delivery ETA To": "2024-03-22",
     "Near Me": false
   },
   {
@@ -70197,8 +70241,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-17",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-04-09",
     "Near Me": false
   },
   {
@@ -70241,8 +70285,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Black/White Fabric",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-10",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-31",
     "Near Me": false
   },
   {
@@ -70620,28 +70664,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN1RT08A401",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Arlington Toyota",
-    "Base MSRP": 37200,
-    "Total MSRP": 42797,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Underground",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN7RT001762",
     "Stock Number": null,
     "Year": 2024,
@@ -70661,6 +70683,28 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": "2024-02-27T00:00:00.000Z",
     "Delivery ETA To": "2024-03-03T00:00:00.000Z",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FN1RT08A401",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Arlington Toyota",
+    "Base MSRP": 37200,
+    "Total MSRP": 42797,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Underground",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
     "Near Me": false
   },
   {
@@ -71170,28 +71214,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FNXRT07A479",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Arlington Toyota",
-    "Base MSRP": 39400,
-    "Total MSRP": 50174,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Black/White Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN9RT07A490",
     "Stock Number": null,
     "Year": 2024,
@@ -71209,6 +71231,28 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FNXRT07A479",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Arlington Toyota",
+    "Base MSRP": 39400,
+    "Total MSRP": 50174,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Blue Crush Metallic",
+    "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -72177,8 +72221,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-03-14",
-    "Delivery ETA To": "2024-04-02",
+    "Delivery ETA From": "2024-03-15",
+    "Delivery ETA To": "2024-04-03",
     "Near Me": false
   },
   {
@@ -72903,8 +72947,8 @@
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-22",
-    "Delivery ETA To": "2024-03-12",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-04-02",
     "Near Me": false
   },
   {
@@ -73101,8 +73145,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -73299,8 +73343,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-10",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-04-02",
     "Near Me": false
   },
   {
@@ -73541,8 +73585,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -73717,8 +73761,8 @@
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -74245,8 +74289,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-06",
+    "Delivery ETA From": "2024-03-10",
+    "Delivery ETA To": "2024-03-25",
     "Near Me": false
   },
   {
@@ -74487,8 +74531,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -74575,8 +74619,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-04",
-    "Delivery ETA To": "2024-03-22",
+    "Delivery ETA From": "2024-03-05",
+    "Delivery ETA To": "2024-03-23",
     "Near Me": false
   },
   {
@@ -74971,8 +75015,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-02-28",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-02-29",
     "Near Me": false
   },
   {
@@ -75477,8 +75521,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -76819,8 +76863,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-02-28",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-02-29",
     "Near Me": false
   },
   {
@@ -76885,8 +76929,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-02-28",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-02-29",
     "Near Me": false
   },
   {
@@ -76907,8 +76951,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-03-04",
-    "Delivery ETA To": "2024-03-22",
+    "Delivery ETA From": "2024-03-05",
+    "Delivery ETA To": "2024-03-23",
     "Near Me": false
   },
   {
@@ -76951,8 +76995,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-03-04",
-    "Delivery ETA To": "2024-03-22",
+    "Delivery ETA From": "2024-03-05",
+    "Delivery ETA To": "2024-03-23",
     "Near Me": false
   },
   {
@@ -76973,8 +77017,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-02-28",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-02-29",
     "Near Me": false
   },
   {
@@ -77039,8 +77083,8 @@
     "Mark Up": 0,
     "Exterior Color": "Supersonic Red [extra_cost_color]",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-02-28",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-02-29",
     "Near Me": false
   },
   {
@@ -77061,8 +77105,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-02-28",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-02-29",
     "Near Me": false
   },
   {
@@ -77281,8 +77325,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-11",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-04-03",
     "Near Me": false
   },
   {
@@ -77369,8 +77413,8 @@
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-03-15",
+    "Delivery ETA From": "2024-03-16",
+    "Delivery ETA To": "2024-04-06",
     "Near Me": false
   },
   {
@@ -78034,28 +78078,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN5RT10A200",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Thomasville Toyota",
-    "Base MSRP": 39400,
-    "Total MSRP": 50642,
-    "Advertized Price": 50642,
-    "Mark Up": 0,
-    "Exterior Color": "Black",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN7RT09B306",
     "Stock Number": null,
     "Year": 2024,
@@ -78073,6 +78095,28 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FN5RT10A200",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Thomasville Toyota",
+    "Base MSRP": 39400,
+    "Total MSRP": 50642,
+    "Advertized Price": 50642,
+    "Mark Up": 0,
+    "Exterior Color": "Black",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -78337,8 +78381,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-03-09",
-    "Delivery ETA To": "2024-03-24",
+    "Delivery ETA From": "2024-03-10",
+    "Delivery ETA To": "2024-03-25",
     "Near Me": false
   },
   {
@@ -78425,8 +78469,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-02-28",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-02-29",
     "Near Me": false
   },
   {
@@ -79332,28 +79376,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN3RM09B049",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Joseph Toyota of Cincinnati",
-    "Base MSRP": 40400,
-    "Total MSRP": 46519,
-    "Advertized Price": 46519,
-    "Mark Up": 0,
-    "Exterior Color": "Black",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-03-13",
-    "Delivery ETA To": "2024-04-07",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN4RM001872",
     "Stock Number": null,
     "Year": 2024,
@@ -79373,6 +79395,28 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": "2024-02-22",
     "Delivery ETA To": "2024-03-05",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN3RM09B049",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Joseph Toyota of Cincinnati",
+    "Base MSRP": 40400,
+    "Total MSRP": 46519,
+    "Advertized Price": 46519,
+    "Mark Up": 0,
+    "Exterior Color": "Black",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": "2024-03-13",
+    "Delivery ETA To": "2024-04-07",
     "Near Me": false
   },
   {
@@ -79679,8 +79723,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-03-20",
-    "Delivery ETA To": "2024-04-16",
+    "Delivery ETA From": "2024-03-15",
+    "Delivery ETA To": "2024-04-10",
     "Near Me": false
   },
   {
@@ -80366,28 +80410,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN8RT09B718",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Serra Toyota",
-    "Base MSRP": 37200,
-    "Total MSRP": 43564,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Underground",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN9RT09B730",
     "Stock Number": null,
     "Year": 2024,
@@ -80405,6 +80427,28 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FN8RT09B718",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Serra Toyota",
+    "Base MSRP": 37200,
+    "Total MSRP": 43564,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Underground",
+    "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -80498,28 +80542,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN8RT09A080",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Serra Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 46764,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYLB5JN7RT10B652",
     "Stock Number": null,
     "Year": 2024,
@@ -80536,6 +80558,28 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN8RT09A080",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Serra Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 46764,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -80938,28 +80982,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMKB5FN3RM11E950",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Roberts Toyota",
-    "Base MSRP": 37200,
-    "Total MSRP": 39004,
-    "Advertized Price": 39004,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-21",
-    "Delivery ETA To": "2024-04-16",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMKB5FN9RM10E617",
     "Stock Number": null,
     "Year": 2024,
@@ -80979,6 +81001,28 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": "2024-03-17",
     "Delivery ETA To": "2024-04-12",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMKB5FN3RM11E950",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Roberts Toyota",
+    "Base MSRP": 37200,
+    "Total MSRP": 39004,
+    "Advertized Price": 39004,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": "2024-03-21",
+    "Delivery ETA To": "2024-04-16",
     "Near Me": false
   },
   {
@@ -81637,8 +81681,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-09",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-30",
     "Near Me": false
   },
   {
@@ -81659,8 +81703,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-11",
-    "Delivery ETA To": "2024-03-28",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-29",
     "Near Me": false
   },
   {
@@ -81747,8 +81791,8 @@
     "Mark Up": 0,
     "Exterior Color": "Wind Chill Pearl [extra_cost_color]",
     "Interior Color": "Black/White Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-02-28",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-02-29",
     "Near Me": false
   },
   {
@@ -81791,8 +81835,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-03-13",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-04-02",
     "Near Me": false
   },
   {
@@ -81835,8 +81879,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-09",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-30",
     "Near Me": false
   },
   {
@@ -82060,28 +82104,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN1RT007844",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": false,
-    "Dealer": "Serra Toyota of Decatur",
-    "Base MSRP": 40400,
-    "Total MSRP": 45997,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYLB5JN2RT05A920",
     "Stock Number": null,
     "Year": 2024,
@@ -82098,6 +82120,28 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN1RT007844",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": false,
+    "Dealer": "Serra Toyota of Decatur",
+    "Base MSRP": 40400,
+    "Total MSRP": 45997,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -83089,8 +83133,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-09",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-30",
     "Near Me": false
   },
   {
@@ -83111,8 +83155,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-09",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-30",
     "Near Me": false
   },
   {
@@ -83182,7 +83226,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN0RM002517",
+    "VIN": "3TMLB5JNXRM002010",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
@@ -83190,7 +83234,7 @@
     "Series": "Tacoma",
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
-    "Hold Status": "DealerHold",
+    "Hold Status": null,
     "Temp VIN": false,
     "Dealer": "Toyota Direct",
     "Base MSRP": 42600,
@@ -83204,7 +83248,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JNXRM002010",
+    "VIN": "3TMLB5JN0RM002517",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
@@ -83212,7 +83256,7 @@
     "Series": "Tacoma",
     "Shipping Status": "Allocated (A)",
     "Pre-Sold": false,
-    "Hold Status": null,
+    "Hold Status": "DealerHold",
     "Temp VIN": false,
     "Dealer": "Toyota Direct",
     "Base MSRP": 42600,
@@ -83947,30 +83991,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-11",
-    "Delivery ETA To": "2024-03-26",
-    "Near Me": false
-  },
-  {
-    "VIN": "3TMLB5JN1RM001652",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Ken Ganley Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 46459,
-    "Advertized Price": 46459,
-    "Mark Up": 0,
-    "Exterior Color": "Underground",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-03-11",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
     "Near Me": false
   },
   {
@@ -83993,6 +84015,28 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": "2024-02-22",
     "Delivery ETA To": "2024-03-14",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN1RM001652",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Ken Ganley Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 46459,
+    "Advertized Price": 46459,
+    "Mark Up": 0,
+    "Exterior Color": "Underground",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-03-31",
     "Near Me": false
   },
   {
@@ -84145,8 +84189,8 @@
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-03-15",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-04-04",
     "Near Me": false
   },
   {
@@ -84431,8 +84475,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-07",
+    "Delivery ETA From": "2024-03-10",
+    "Delivery ETA To": "2024-03-26",
     "Near Me": false
   },
   {
@@ -84453,8 +84497,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder SofTex",
-    "Delivery ETA From": "2024-03-09",
-    "Delivery ETA To": "2024-03-25",
+    "Delivery ETA From": "2024-03-10",
+    "Delivery ETA To": "2024-03-26",
     "Near Me": false
   },
   {
@@ -84871,8 +84915,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-11",
-    "Delivery ETA To": "2024-03-22",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-23",
     "Near Me": false
   },
   {
@@ -84937,8 +84981,8 @@
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-03-11",
-    "Delivery ETA To": "2024-03-22",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-23",
     "Near Me": false
   },
   {
@@ -86059,8 +86103,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-09",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-30",
     "Near Me": false
   },
   {
@@ -86499,8 +86543,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-03-15",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-04-04",
     "Near Me": false
   },
   {
@@ -88726,7 +88770,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKD5HNXRT09A898",
+    "VIN": "3TYKD5HN0RT07B003",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR",
@@ -88748,7 +88792,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKD5HN0RT07B003",
+    "VIN": "3TYKD5HNXRT09A898",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR",
@@ -89430,7 +89474,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKD5HN1RT000081",
+    "VIN": "3TYKD5HN0RT000489",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR",
@@ -89452,7 +89496,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKD5HN0RT000489",
+    "VIN": "3TYKD5HN1RT000081",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR",
@@ -91361,8 +91405,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-02-28",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-02-29",
     "Near Me": false
   },
   {
@@ -91652,28 +91696,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN5RM001993",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Jim Shorkey Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 46914,
-    "Advertized Price": 46914,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-22",
-    "Delivery ETA To": "2024-03-11",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN9RM002449",
     "Stock Number": null,
     "Year": 2024,
@@ -91693,6 +91715,28 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": "2024-02-24",
     "Delivery ETA To": "2024-03-18",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN5RM001993",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Jim Shorkey Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 46914,
+    "Advertized Price": 46914,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-04-01",
     "Near Me": false
   },
   {
@@ -91740,28 +91784,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN4RM10E844",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Jim Shorkey Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 47204,
-    "Advertized Price": 47204,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-04-09",
-    "Delivery ETA To": "2024-05-08",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN0RM11F386",
     "Stock Number": null,
     "Year": 2024,
@@ -91781,6 +91803,28 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": "2024-04-23",
     "Delivery ETA To": "2024-05-22",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN4RM10E844",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Jim Shorkey Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 47204,
+    "Advertized Price": 47204,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": "2024-04-09",
+    "Delivery ETA To": "2024-05-08",
     "Near Me": false
   },
   {
@@ -92241,8 +92285,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-02-22",
-    "Delivery ETA To": "2024-03-11",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-04-01",
     "Near Me": false
   },
   {
@@ -92483,7 +92527,7 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-03-17",
+    "Delivery ETA From": "2024-03-10",
     "Delivery ETA To": "2024-04-11",
     "Near Me": false
   },
@@ -92549,7 +92593,7 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-03-17",
+    "Delivery ETA From": "2024-03-10",
     "Delivery ETA To": "2024-04-11",
     "Near Me": false
   },
@@ -92857,8 +92901,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Black/White Fabric",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-10",
+    "Delivery ETA From": "2024-03-15",
+    "Delivery ETA To": "2024-04-03",
     "Near Me": false
   },
   {
@@ -93891,8 +93935,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-07",
+    "Delivery ETA From": "2024-03-11",
+    "Delivery ETA To": "2024-03-27",
     "Near Me": false
   },
   {
@@ -93935,8 +93979,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-04-05",
-    "Delivery ETA To": "2024-05-03",
+    "Delivery ETA From": "2024-03-16",
+    "Delivery ETA To": "2024-04-12",
     "Near Me": false
   },
   {
@@ -94578,6 +94622,28 @@
     "Near Me": false
   },
   {
+    "VIN": "3TMLB5JN6RM07A731",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "DealerHold",
+    "Temp VIN": true,
+    "Dealer": "Baierl Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 46914,
+    "Advertized Price": 46914,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": "2024-02-29",
+    "Delivery ETA To": "2024-03-24",
+    "Near Me": false
+  },
+  {
     "VIN": "3TMLB5JN8RM07A732",
     "Stock Number": null,
     "Year": 2024,
@@ -94859,8 +94925,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder SofTex",
-    "Delivery ETA From": "2024-04-04",
-    "Delivery ETA To": "2024-05-03",
+    "Delivery ETA From": "2024-03-15",
+    "Delivery ETA To": "2024-04-11",
     "Near Me": false
   },
   {
@@ -96756,28 +96822,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN0RT10B654",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Peter Boulware Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 47948,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JNXRM08C560",
     "Stock Number": null,
     "Year": 2024,
@@ -96797,6 +96841,28 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": "2024-03-20T00:00:00.000Z",
     "Delivery ETA To": "2024-03-25T00:00:00.000Z",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN0RT10B654",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Peter Boulware Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 47948,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
     "Near Me": false
   },
   {
@@ -98533,8 +98599,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-03-08",
-    "Delivery ETA To": "2024-03-25",
+    "Delivery ETA From": "2024-03-09",
+    "Delivery ETA To": "2024-03-26",
     "Near Me": false
   },
   {
@@ -99545,8 +99611,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-06",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-27",
     "Near Me": false
   },
   {
@@ -99897,8 +99963,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-03-06",
-    "Delivery ETA To": "2024-03-28",
+    "Delivery ETA From": "2024-03-07",
+    "Delivery ETA To": "2024-03-29",
     "Near Me": false
   },
   {
@@ -99963,8 +100029,8 @@
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
-    "Delivery ETA From": "2024-03-10",
-    "Delivery ETA To": "2024-03-27",
+    "Delivery ETA From": "2024-03-11",
+    "Delivery ETA To": "2024-03-28",
     "Near Me": false
   },
   {
@@ -99985,8 +100051,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-03-10",
-    "Delivery ETA To": "2024-03-28",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
     "Near Me": false
   },
   {
@@ -100188,28 +100254,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN1RM10D683",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Toyota of Boardman",
-    "Base MSRP": 40400,
-    "Total MSRP": 45487,
-    "Advertized Price": 45487,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-03-12",
-    "Delivery ETA To": "2024-04-03",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN1RM11E179",
     "Stock Number": null,
     "Year": 2024,
@@ -100229,6 +100273,28 @@
     "Interior Color": "Black Fabric",
     "Delivery ETA From": "2024-03-26",
     "Delivery ETA To": "2024-04-17",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN1RM10D683",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Toyota of Boardman",
+    "Base MSRP": 40400,
+    "Total MSRP": 45487,
+    "Advertized Price": 45487,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-04-03",
     "Near Me": false
   },
   {
@@ -100733,30 +100799,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-03-17",
-    "Delivery ETA To": "2024-04-08",
-    "Near Me": false
-  },
-  {
-    "VIN": "3TMLB5JN3RM08C593",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Toyota of Boardman",
-    "Base MSRP": 42600,
-    "Total MSRP": 50819,
-    "Advertized Price": 50819,
-    "Mark Up": 0,
-    "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-03-06",
-    "Delivery ETA To": "2024-04-01",
+    "Delivery ETA From": "2024-03-15",
+    "Delivery ETA To": "2024-04-10",
     "Near Me": false
   },
   {
@@ -100779,6 +100823,28 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": "2024-03-13",
     "Delivery ETA To": "2024-04-05",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN3RM08C593",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Toyota of Boardman",
+    "Base MSRP": 42600,
+    "Total MSRP": 50819,
+    "Advertized Price": 50819,
+    "Mark Up": 0,
+    "Exterior Color": "Underground",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": "2024-03-06",
+    "Delivery ETA To": "2024-04-01",
     "Near Me": false
   },
   {
@@ -101151,8 +101217,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
+    "Delivery ETA From": "2024-03-11",
+    "Delivery ETA To": "2024-03-16",
     "Near Me": false
   },
   {
@@ -101261,8 +101327,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-02-28",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-02-29",
     "Near Me": false
   },
   {
@@ -103505,8 +103571,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-02-28",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-02-29",
     "Near Me": false
   },
   {
@@ -103725,8 +103791,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-04",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-25",
     "Near Me": false
   },
   {
@@ -106057,8 +106123,8 @@
     "Mark Up": 999,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -106343,8 +106409,8 @@
     "Mark Up": 999,
     "Exterior Color": "Underground",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -107531,8 +107597,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-02-28",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-02-29",
     "Near Me": false
   },
   {
@@ -107619,8 +107685,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-02-28",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-02-29",
     "Near Me": false
   },
   {
@@ -107663,8 +107729,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-06",
+    "Delivery ETA From": "2024-03-11",
+    "Delivery ETA To": "2024-03-26",
     "Near Me": false
   },
   {
@@ -108433,8 +108499,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-12",
-    "Delivery ETA To": "2024-03-29",
+    "Delivery ETA From": "2024-03-13",
+    "Delivery ETA To": "2024-03-30",
     "Near Me": false
   },
   {
@@ -109181,8 +109247,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-10",
+    "Delivery ETA From": "2024-03-13",
+    "Delivery ETA To": "2024-04-01",
     "Near Me": false
   },
   {
@@ -109335,8 +109401,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-04-06",
-    "Delivery ETA To": "2024-04-11",
+    "Delivery ETA From": "2024-03-11",
+    "Delivery ETA To": "2024-04-13",
     "Near Me": false
   },
   {
@@ -109951,8 +110017,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-09",
+    "Delivery ETA From": "2024-03-11",
+    "Delivery ETA To": "2024-03-29",
     "Near Me": false
   },
   {
@@ -110237,8 +110303,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-03-15",
+    "Delivery ETA From": "2024-03-15",
+    "Delivery ETA To": "2024-04-05",
     "Near Me": false
   },
   {
@@ -110327,6 +110393,28 @@
     "Interior Color": "Black SofTex",
     "Delivery ETA From": "2024-03-06",
     "Delivery ETA To": "2024-03-11",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKD5HN0RT09B736",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR",
+    "Description": "Tacoma SR 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Team Toyota of Glen Mills",
+    "Base MSRP": 33700,
+    "Total MSRP": 37124,
+    "Advertized Price": 37124,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
     "Near Me": false
   },
   {
@@ -111887,8 +111975,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-02-28",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-02-29",
     "Near Me": false
   },
   {
@@ -111997,8 +112085,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-02-28",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-02-29",
     "Near Me": false
   },
   {
@@ -112151,8 +112239,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-10",
-    "Delivery ETA To": "2024-03-24",
+    "Delivery ETA From": "2024-03-11",
+    "Delivery ETA To": "2024-03-25",
     "Near Me": false
   },
   {
@@ -112261,8 +112349,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-03-10",
-    "Delivery ETA To": "2024-03-24",
+    "Delivery ETA From": "2024-03-11",
+    "Delivery ETA To": "2024-03-25",
     "Near Me": false
   },
   {
@@ -114197,8 +114285,8 @@
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-02-28",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-02-29",
     "Near Me": false
   },
   {
@@ -114681,8 +114769,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-22",
-    "Delivery ETA To": "2024-02-27",
+    "Delivery ETA From": "2024-02-23",
+    "Delivery ETA To": "2024-02-28",
     "Near Me": false
   },
   {
@@ -115077,8 +115165,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-23",
-    "Delivery ETA To": "2024-02-28",
+    "Delivery ETA From": "2024-02-24",
+    "Delivery ETA To": "2024-02-29",
     "Near Me": false
   },
   {
@@ -115258,28 +115346,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN7RT009761",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": false,
-    "Dealer": "Aubrey Alexander Toyota",
-    "Base MSRP": 40400,
-    "Total MSRP": 46594,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Underground",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYLB5JNXRT005607",
     "Stock Number": null,
     "Year": 2024,
@@ -115299,6 +115365,28 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": "2024-03-10",
     "Delivery ETA To": "2024-04-08",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN7RT009761",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": false,
+    "Dealer": "Aubrey Alexander Toyota",
+    "Base MSRP": 40400,
+    "Total MSRP": 46594,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Underground",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
     "Near Me": false
   },
   {
@@ -116595,8 +116683,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-07",
+    "Delivery ETA From": "2024-03-12",
+    "Delivery ETA To": "2024-03-28",
     "Near Me": false
   },
   {
@@ -117607,8 +117695,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-02-22",
-    "Delivery ETA To": "2024-03-16",
+    "Delivery ETA From": "2024-03-16",
+    "Delivery ETA To": "2024-04-08",
     "Near Me": false
   },
   {
@@ -117761,8 +117849,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-03-13",
-    "Delivery ETA To": "2024-03-28",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-03-29",
     "Near Me": false
   },
   {
@@ -117893,8 +117981,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-09",
+    "Delivery ETA From": "2024-03-11",
+    "Delivery ETA To": "2024-03-29",
     "Near Me": false
   },
   {
@@ -119328,28 +119416,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN7RT09B706",
-    "Stock Number": "RT09B706",
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "AutoNation Toyota Winter Park",
-    "Base MSRP": 40400,
-    "Total MSRP": 45203,
-    "Advertized Price": 45203,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYLB5JN0RT10A293",
     "Stock Number": "RT10A293",
     "Year": 2024,
@@ -119366,6 +119432,28 @@
     "Advertized Price": 45203,
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN7RT09B706",
+    "Stock Number": "RT09B706",
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "AutoNation Toyota Winter Park",
+    "Base MSRP": 40400,
+    "Total MSRP": 45203,
+    "Advertized Price": 45203,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -119592,28 +119680,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYLB5JN6RT09B566",
-    "Stock Number": "RT09B566",
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "AutoNation Toyota Winter Park",
-    "Base MSRP": 40400,
-    "Total MSRP": 46044,
-    "Advertized Price": 46044,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYLB5JN9RT008191",
     "Stock Number": "RT008191",
     "Year": 2024,
@@ -119631,6 +119697,28 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN6RT09B566",
+    "Stock Number": "RT09B566",
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "AutoNation Toyota Winter Park",
+    "Base MSRP": 40400,
+    "Total MSRP": 46044,
+    "Advertized Price": 46044,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
+    "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -119922,28 +120010,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN1RM08B636",
-    "Stock Number": "RM08B636",
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "AutoNation Toyota Winter Park",
-    "Base MSRP": 40400,
-    "Total MSRP": 48208,
-    "Advertized Price": 48208,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-25T00:00:00.000Z",
-    "Delivery ETA To": "2024-03-30T00:00:00.000Z",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN9RM08C288",
     "Stock Number": "RM08C288",
     "Year": 2024,
@@ -119963,6 +120029,28 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": "2024-03-27T00:00:00.000Z",
     "Delivery ETA To": "2024-04-01T00:00:00.000Z",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN1RM08B636",
+    "Stock Number": "RM08B636",
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "AutoNation Toyota Winter Park",
+    "Base MSRP": 40400,
+    "Total MSRP": 48208,
+    "Advertized Price": 48208,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Boulder Fabric",
+    "Delivery ETA From": "2024-03-25T00:00:00.000Z",
+    "Delivery ETA To": "2024-03-30T00:00:00.000Z",
     "Near Me": false
   },
   {
@@ -120098,8 +120186,8 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN5RT10A620",
-    "Stock Number": "RT10A620",
+    "VIN": "3TYKB5FN9RT06B269",
+    "Stock Number": "RT06B269",
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
     "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
@@ -120120,8 +120208,8 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN9RT06B269",
-    "Stock Number": "RT06B269",
+    "VIN": "3TYKB5FN5RT10A620",
+    "Stock Number": "RT10A620",
     "Year": 2024,
     "Trim": "Tacoma TRD Sport",
     "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
@@ -121963,8 +122051,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -122073,8 +122161,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -122161,8 +122249,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-02-24",
-    "Delivery ETA To": "2024-02-29",
+    "Delivery ETA From": "2024-02-25",
+    "Delivery ETA To": "2024-03-01",
     "Near Me": false
   },
   {
@@ -122606,7 +122694,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN7RT09A009",
+    "VIN": "3TYKB5FNXRT09A764",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR5",
@@ -122628,7 +122716,7 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FNXRT09A764",
+    "VIN": "3TYKB5FN7RT09A009",
     "Stock Number": null,
     "Year": 2024,
     "Trim": "Tacoma SR5",
@@ -122936,28 +123024,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN7RT06A265",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Toyota of Orlando",
-    "Base MSRP": 39400,
-    "Total MSRP": 44067,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN7RT06B142",
     "Stock Number": null,
     "Year": 2024,
@@ -122975,6 +123041,28 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FN7RT06A265",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Toyota of Orlando",
+    "Base MSRP": 39400,
+    "Total MSRP": 44067,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -123068,28 +123156,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN1RT09A538",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Toyota of Orlando",
-    "Base MSRP": 39400,
-    "Total MSRP": 45218,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Underground",
-    "Interior Color": "Black/White Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN1RT07C086",
     "Stock Number": null,
     "Year": 2024,
@@ -123107,6 +123173,28 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FN1RT09A538",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Toyota of Orlando",
+    "Base MSRP": 39400,
+    "Total MSRP": 45218,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Underground",
+    "Interior Color": "Black/White Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
     "Near Me": false
@@ -123767,8 +123855,8 @@
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-09",
+    "Delivery ETA From": "2024-03-15",
+    "Delivery ETA To": "2024-04-02",
     "Near Me": false
   },
   {
@@ -124273,8 +124361,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-04-11",
-    "Delivery ETA To": "2024-05-12",
+    "Delivery ETA From": "2024-03-15",
+    "Delivery ETA To": "2024-04-12",
     "Near Me": false
   },
   {
@@ -124669,8 +124757,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-08",
+    "Delivery ETA From": "2024-03-15",
+    "Delivery ETA To": "2024-04-01",
     "Near Me": false
   },
   {
@@ -125064,6 +125152,28 @@
     "Advertized Price": 45015,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FN7RT09A270",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Mike Erdman Toyota",
+    "Base MSRP": 39400,
+    "Total MSRP": 45144,
+    "Advertized Price": 45144,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -125725,8 +125835,8 @@
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-03-05",
-    "Delivery ETA To": "2024-03-26",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
     "Near Me": false
   },
   {
@@ -127204,28 +127314,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMLB5JN7RM08C483",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Off-Road",
-    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": null,
-    "Temp VIN": true,
-    "Dealer": "Bennett Toyota",
-    "Base MSRP": 42900,
-    "Total MSRP": 50555,
-    "Advertized Price": 51450,
-    "Mark Up": 895,
-    "Exterior Color": "Blue Crush Metallic",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-03-05",
-    "Delivery ETA To": "2024-03-30",
-    "Near Me": false
-  },
-  {
     "VIN": "3TMLB5JN4RM08A464",
     "Stock Number": null,
     "Year": 2024,
@@ -127245,6 +127333,28 @@
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": "2024-02-28",
     "Delivery ETA To": "2024-03-31",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMLB5JN7RM08C483",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Off-Road",
+    "Description": "Tacoma TRD Off-Road 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": null,
+    "Temp VIN": true,
+    "Dealer": "Bennett Toyota",
+    "Base MSRP": 42900,
+    "Total MSRP": 50555,
+    "Advertized Price": 51450,
+    "Mark Up": 895,
+    "Exterior Color": "Blue Crush Metallic",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": "2024-03-05",
+    "Delivery ETA To": "2024-03-30",
     "Near Me": false
   },
   {
@@ -127397,8 +127507,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
-    "Delivery ETA From": "2024-03-05",
-    "Delivery ETA To": "2024-03-26",
+    "Delivery ETA From": "2024-03-06",
+    "Delivery ETA To": "2024-03-27",
     "Near Me": false
   },
   {
@@ -128453,8 +128563,8 @@
     "Mark Up": 0,
     "Exterior Color": "Underground",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-03-13",
-    "Delivery ETA To": "2024-03-29",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
     "Near Me": false
   },
   {
@@ -128679,7 +128789,7 @@
   },
   {
     "VIN": "3TYLB5JN6RT009430",
-    "Stock Number": "TA5162",
+    "Stock Number": "T58825",
     "Year": 2024,
     "Trim": "Tacoma SR5",
     "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
@@ -128783,30 +128893,8 @@
     "Mark Up": 0,
     "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder Fabric",
-    "Delivery ETA From": "2024-03-16",
-    "Delivery ETA To": "2024-04-03",
-    "Near Me": false
-  },
-  {
-    "VIN": "3TYLB5JN1RT005074",
-    "Stock Number": "T58670",
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "In transit (F)",
-    "Pre-Sold": false,
-    "Hold Status": "DealerHold",
-    "Temp VIN": false,
-    "Dealer": "Koch 33 Toyota",
-    "Base MSRP": 42600,
-    "Total MSRP": 50415,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Underground",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-03-10",
-    "Delivery ETA To": "2024-04-07",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
     "Near Me": false
   },
   {
@@ -128826,6 +128914,28 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Black",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": "2024-03-10",
+    "Delivery ETA To": "2024-04-07",
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYLB5JN1RT005074",
+    "Stock Number": "T58670",
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "In transit (F)",
+    "Pre-Sold": false,
+    "Hold Status": "DealerHold",
+    "Temp VIN": false,
+    "Dealer": "Koch 33 Toyota",
+    "Base MSRP": 42600,
+    "Total MSRP": 50415,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Underground",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": "2024-03-10",
     "Delivery ETA To": "2024-04-07",
@@ -129734,6 +129844,28 @@
     "Near Me": false
   },
   {
+    "VIN": "3TYLB5JN3RT09A634",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x4 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Toyota of Melbourne",
+    "Base MSRP": 42600,
+    "Total MSRP": 52436,
+    "Advertized Price": 52436,
+    "Mark Up": 0,
+    "Exterior Color": "Wind Chill Pearl [extra_cost_color]",
+    "Interior Color": "Boulder/Black Fabric w/ Anodized Blue",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
     "VIN": "3TMLB5JN2RM10G172",
     "Stock Number": null,
     "Year": 2024,
@@ -130086,28 +130218,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN2RT09A273",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma TRD Sport",
-    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Wesley Chapel Toyota",
-    "Base MSRP": 39400,
-    "Total MSRP": 46245,
-    "Advertized Price": 46245,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN4RT07C096",
     "Stock Number": null,
     "Year": 2024,
@@ -130124,6 +130234,28 @@
     "Advertized Price": 46245,
     "Mark Up": 0,
     "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FN2RT09A273",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma TRD Sport",
+    "Description": "Tacoma TRD Sport 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Wesley Chapel Toyota",
+    "Base MSRP": 39400,
+    "Total MSRP": 46245,
+    "Advertized Price": 46245,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -131005,8 +131137,8 @@
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-04-04",
-    "Delivery ETA To": "2024-05-06",
+    "Delivery ETA From": "2024-03-15",
+    "Delivery ETA To": "2024-04-11",
     "Near Me": false
   },
   {
@@ -131599,8 +131731,8 @@
     "Mark Up": 0,
     "Exterior Color": "Blue Crush Metallic",
     "Interior Color": "Black SofTex",
-    "Delivery ETA From": "2024-02-20",
-    "Delivery ETA To": "2024-03-10",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-04-02",
     "Near Me": false
   },
   {
@@ -131670,28 +131802,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TMKB5FN6RM10D232",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Lakeland Toyota",
-    "Base MSRP": 37200,
-    "Total MSRP": 40789,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Celestial Silver Metallic",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-04-10T00:00:00.000Z",
-    "Delivery ETA To": "2024-04-15T00:00:00.000Z",
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN5RT09B255",
     "Stock Number": null,
     "Year": 2024,
@@ -131711,6 +131821,28 @@
     "Interior Color": "Boulder Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TMKB5FN6RM10D232",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Lakeland Toyota",
+    "Base MSRP": 37200,
+    "Total MSRP": 40789,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Celestial Silver Metallic",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": "2024-04-10T00:00:00.000Z",
+    "Delivery ETA To": "2024-04-15T00:00:00.000Z",
     "Near Me": false
   },
   {
@@ -131780,28 +131912,6 @@
     "Near Me": false
   },
   {
-    "VIN": "3TYKB5FN4RT06B633",
-    "Stock Number": null,
-    "Year": 2024,
-    "Trim": "Tacoma SR5",
-    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
-    "Series": "Tacoma",
-    "Shipping Status": "Allocated (A)",
-    "Pre-Sold": false,
-    "Hold Status": "Available",
-    "Temp VIN": true,
-    "Dealer": "Lakeland Toyota",
-    "Base MSRP": 37200,
-    "Total MSRP": 42469,
-    "Advertized Price": null,
-    "Mark Up": 0,
-    "Exterior Color": "Ice Cap",
-    "Interior Color": "Black Fabric",
-    "Delivery ETA From": null,
-    "Delivery ETA To": null,
-    "Near Me": false
-  },
-  {
     "VIN": "3TYKB5FN6RT07B693",
     "Stock Number": null,
     "Year": 2024,
@@ -131818,6 +131928,28 @@
     "Advertized Price": null,
     "Mark Up": 0,
     "Exterior Color": "Underground",
+    "Interior Color": "Black Fabric",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
+    "Near Me": false
+  },
+  {
+    "VIN": "3TYKB5FN4RT06B633",
+    "Stock Number": null,
+    "Year": 2024,
+    "Trim": "Tacoma SR5",
+    "Description": "Tacoma SR5 2.4L-T 4-cyl. engine AT 4x2 5-ft. bed Double Cab",
+    "Series": "Tacoma",
+    "Shipping Status": "Allocated (A)",
+    "Pre-Sold": false,
+    "Hold Status": "Available",
+    "Temp VIN": true,
+    "Dealer": "Lakeland Toyota",
+    "Base MSRP": 37200,
+    "Total MSRP": 42469,
+    "Advertized Price": null,
+    "Mark Up": 0,
+    "Exterior Color": "Ice Cap",
     "Interior Color": "Black Fabric",
     "Delivery ETA From": null,
     "Delivery ETA To": null,
@@ -135779,8 +135911,8 @@
     "Mark Up": 0,
     "Exterior Color": "Black",
     "Interior Color": "Black Fabric",
-    "Delivery ETA From": "2024-03-15",
-    "Delivery ETA To": "2024-04-03",
+    "Delivery ETA From": null,
+    "Delivery ETA To": null,
     "Near Me": false
   },
   {
@@ -135889,8 +136021,8 @@
     "Mark Up": 0,
     "Exterior Color": "Bronze Oxide",
     "Interior Color": "Boulder/Black Fabric w/ Smoke Silver",
-    "Delivery ETA From": "2024-03-13",
-    "Delivery ETA To": "2024-03-28",
+    "Delivery ETA From": "2024-03-14",
+    "Delivery ETA To": "2024-03-29",
     "Near Me": false
   },
   {
